@@ -1,0 +1,4600 @@
+[
+  {
+    "id": "dhaka",
+    "name": "Dhaka",
+    "bnName": "ঢাকা",
+    "geoName": "Dhaka",
+    "division": "Dhaka",
+    "divisionBn": "ঢাকা",
+    "lat": 23.8103,
+    "lng": 90.4125,
+    "areaKm2": 1463,
+    "tagline": "Capital metropolis of four hundred years of Mughal and modern heritage",
+    "taglineBn": "৪০০ বছরের ঐতিহ্যবাহী মুঘল রাজধানী ও প্রাণবন্ত মেগাসিটি",
+    "touristSpots": [
+      {
+        "name": "Lalbagh Fort",
+        "bnName": "লালবাগ কেল্লা",
+        "desc": "17th-century Mughal fortress complex",
+        "image": "https://images.unsplash.com/photo-1588083949404-c4f1ed1323b3?w=800&auto=format&fit=crop&q=80"
+      },
+      {
+        "name": "Ahsan Manzil",
+        "bnName": "আহসান মঞ্জিল",
+        "desc": "Historic Pink Palace of the Nawabs on the Buriganga river",
+        "image": "https://images.unsplash.com/photo-1609137144813-7d9921338f24?w=800&auto=format&fit=crop&q=80"
+      },
+      {
+        "name": "National Parliament",
+        "bnName": "জাতীয় সংসদ ভবন",
+        "desc": "Iconic architectural wonder designed by Louis Kahn",
+        "image": "https://images.unsplash.com/photo-1544735716-392fe2489ffa?w=800&auto=format&fit=crop&q=80"
+      },
+      {
+        "name": "Ramna Park",
+        "bnName": "রমনা পার্ক",
+        "desc": "Historic green park and heart of Pohela Boishakh festivities",
+        "image": "https://images.unsplash.com/photo-1571003123894-1f0594d2b5d9?w=800&auto=format&fit=crop&q=80"
+      },
+      {
+        "name": "Panam City",
+        "bnName": "পানাম নগর (সোনারগাঁও)",
+        "desc": "Ancient merchant settlement with terracotta architecture",
+        "image": "https://images.unsplash.com/photo-1518495973542-4542c06a5843?w=800&auto=format&fit=crop&q=80"
+      }
+    ],
+    "famousFoods": [
+      {
+        "name": "Old Dhaka Biryani",
+        "bnName": "পুরান ঢাকার বিরিয়ানি (হাজী/নান্না)",
+        "desc": "Aromatic kacchi biryani cooked in large degs over wood fires"
+      },
+      {
+        "name": "Bakarkhani",
+        "bnName": "বাকরখানি",
+        "desc": "Layered crisp spiced bread of the Mughal era"
+      },
+      {
+        "name": "Suti Kebab",
+        "bnName": "সুতি কাবাব",
+        "desc": "Thread-bound tender spiced charcoal beef kebab"
+      },
+      {
+        "name": "Matha & Ghol",
+        "bnName": "মাঠা",
+        "desc": "Refreshing traditional curd drink"
+      }
+    ],
+    "culture": {
+      "history": "Established as Mughal provincial capital Jahangirnagar in 1610; center of the 1952 Language Movement and 1971 Liberation War.",
+      "traditions": "Shakrain kite flying festival, Mongol Shobhajatra, rickshaw paint art, and lively adda in Old Dhaka.",
+      "festivals": [
+        "Shakrain Festival",
+        "Pohela Boishakh",
+        "Ekushey Book Fair"
+      ],
+      "summaryBn": "৪০০ বছরের পুরনো ঐতিহ্য, পুরান ঢাকার সাকরাইন উৎসব, বৈশাখী শোভাযাত্রা ও দ্রুতগতির নগর জীবন।"
+    },
+    "coverImage": "https://images.unsplash.com/photo-1588083949404-c4f1ed1323b3?w=800&auto=format&fit=crop&q=80",
+    "quickFacts": {
+      "famousFor": "Lalbagh Fort, Shakrain, Old Dhaka Biryani",
+      "mustTryDish": "Haji Biryani with Bakarkhani",
+      "nicknames": [
+        "City of Mosques",
+        "Rickshaw Capital"
+      ]
+    }
+  },
+  {
+    "id": "gazipur",
+    "name": "Gazipur",
+    "bnName": "গাজীপুর",
+    "geoName": "Gazipur",
+    "division": "Dhaka",
+    "divisionBn": "ঢাকা",
+    "lat": 24.0023,
+    "lng": 90.4267,
+    "areaKm2": 1806,
+    "tagline": "Lush evergreen Sal forest trails & eco-tourism resorts",
+    "taglineBn": "শালবনের শ্যামল প্রকৃতি, নুহাশ পল্লী ও শিল্প হাব",
+    "touristSpots": [
+      {
+        "name": "Bhawal National Park",
+        "bnName": "ভাওয়াল জাতীয় উদ্যান",
+        "desc": "Protected lush Sal forest and eco park",
+        "image": "https://images.unsplash.com/photo-1448375240586-882707db888b?w=800&auto=format&fit=crop&q=80"
+      },
+      {
+        "name": "Nuhash Polli",
+        "bnName": "নুহাশ পল্লী",
+        "desc": "Author Humayun Ahmed's serene garden haven",
+        "image": "https://images.unsplash.com/photo-1518495973542-4542c06a5843?w=800&auto=format&fit=crop&q=80"
+      },
+      {
+        "name": "Bangabandhu Safari Park",
+        "bnName": "বঙ্গবন্ধু শেখ মুজিব সাফারি পার্ক",
+        "desc": "Sprawling wildlife sanctuary and open safari",
+        "image": "https://images.unsplash.com/photo-1448375240586-882707db888b?w=800&auto=format&fit=crop&q=80"
+      },
+      {
+        "name": "Zinda Park",
+        "bnName": "জিন্দা পার্ক",
+        "desc": "Eco-friendly community park with serene tree canopies",
+        "image": "https://images.unsplash.com/photo-1506744038136-46273834b3fb?w=800&auto=format&fit=crop&q=80"
+      }
+    ],
+    "famousFoods": [
+      {
+        "name": "Bhawal Jackfruit",
+        "bnName": "ভাওয়াল এলাকার কাঁঠাল",
+        "desc": "Sweet fragrant jackfruit harvested from red soil"
+      },
+      {
+        "name": "Rice Pitha",
+        "bnName": "চালের পিঠা",
+        "desc": "Traditional handmade winter dumplings"
+      },
+      {
+        "name": "Clay-pot Kasundi",
+        "bnName": "মাটির হাঁড়ির কাসুন্দি",
+        "desc": "Zesty fermented mustard relish"
+      }
+    ],
+    "culture": {
+      "history": "Seat of the historic Bhawal Estate and Sanyasi Raja trial of the early 20th century.",
+      "traditions": "Forestry folklore, winter village pitha gatherings, and modern apparel industry culture.",
+      "festivals": [
+        "Bhawal Mela",
+        "Winter Harvest Festival"
+      ],
+      "summaryBn": "গজারী বনের মনোরম প্রকৃতি, ইন্ডাস্ট্রিয়াল কালচার (গার্মেন্টস হাব) ও ভাওয়াল রাজার ইতিহাস।"
+    },
+    "coverImage": "https://images.unsplash.com/photo-1448375240586-882707db888b?w=800&auto=format&fit=crop&q=80",
+    "quickFacts": {
+      "famousFor": "Safari Park, Bhawal Sal Forest, Nuhash Polli",
+      "mustTryDish": "Clay-pot Kasundi with Seasonal Fruits",
+      "nicknames": [
+        "Eco-Resort Capital"
+      ]
+    }
+  },
+  {
+    "id": "narayanganj",
+    "name": "Narayanganj",
+    "bnName": "নারায়ণগঞ্জ",
+    "geoName": "Narayanganj",
+    "division": "Dhaka",
+    "divisionBn": "ঢাকা",
+    "lat": 23.6238,
+    "lng": 90.5,
+    "areaKm2": 759,
+    "tagline": "The historic Dundee of the East & world-renowned Jamdani weavers",
+    "taglineBn": "প্রাচ্যের ডান্ডি ও বিশ্বখ্যাত জামদানি শাড়ির ঐতিহ্যবাহী নগরী",
+    "touristSpots": [
+      {
+        "name": "Sonargaon Folk Art Museum",
+        "bnName": "সোনারগাঁও লোকশিল্প জাদুঘর",
+        "desc": "Rich heritage of craft and royal antiquities",
+        "image": "https://images.unsplash.com/photo-1609137144813-7d9921338f24?w=800&auto=format&fit=crop&q=80"
+      },
+      {
+        "name": "Panam City",
+        "bnName": "পানাম নগর",
+        "desc": "Historic boulevard of 19th-century merchant mansions",
+        "image": "https://images.unsplash.com/photo-1464822759023-fed622ff2c3b?w=800&auto=format&fit=crop&q=80"
+      },
+      {
+        "name": "Kadam Rasul Dargah",
+        "bnName": "কদম রসুল দরগাহ",
+        "desc": "Spiritual shrine on the bank of Shitalakshya river",
+        "image": "https://images.unsplash.com/photo-1470071459604-3b5ec3a7fe05?w=800&auto=format&fit=crop&q=80"
+      },
+      {
+        "name": "Hajiganj Fort",
+        "bnName": "জ্যাঙ্গামির কেল্লা (হাজীগঞ্জ কেল্লা)",
+        "desc": "Historic Mughal river fort",
+        "image": "https://images.unsplash.com/photo-1513836279014-a89f7a76ae86?w=800&auto=format&fit=crop&q=80"
+      }
+    ],
+    "famousFoods": [
+      {
+        "name": "Jamdani Sweet",
+        "bnName": "মিষ্টির রাজা 'জামদানি মিষ্টি'",
+        "desc": "Rich artisanal sweet inspired by intricate saree motifs"
+      },
+      {
+        "name": "Nabiganj Chop",
+        "bnName": "নবীগঞ্জের চপ",
+        "desc": "Crisp fried spiced cutlets by the ferry"
+      },
+      {
+        "name": "Traditional Halwa",
+        "bnName": "ঐতিহ্যবাহী হালুয়া",
+        "desc": "Silky festive semolina halwa"
+      }
+    ],
+    "culture": {
+      "history": "Ancient capital Sonargaon was seat of Sultan Fakhruddin Mubarak Shah and ruler Isa Khan.",
+      "traditions": "UNESCO-recognized Jamdani weaving, bustling river haulage, and folk craft fairs.",
+      "festivals": [
+        "Lok Shilpa Mela",
+        "Jamdani Craft Expo"
+      ],
+      "summaryBn": "প্রাচ্যের ডান্ডি খ্যাত পাট ও পোশাক শিল্প, তাঁত ও বিশ্বখ্যাত জামদানি শাড়ির ঐতিহ্য।"
+    },
+    "coverImage": "https://images.unsplash.com/photo-1609137144813-7d9921338f24?w=800&auto=format&fit=crop&q=80",
+    "quickFacts": {
+      "famousFor": "Sonargaon, Jamdani Weaving, Panam Nagar",
+      "mustTryDish": "Royal Jamdani Mishti",
+      "nicknames": [
+        "Dundee of the East"
+      ]
+    }
+  },
+  {
+    "id": "munshiganj",
+    "name": "Munshiganj",
+    "bnName": "মুন্সীগঞ্জ",
+    "geoName": "Munshiganj",
+    "division": "Dhaka",
+    "divisionBn": "ঢাকা",
+    "lat": 23.5422,
+    "lng": 90.5305,
+    "areaKm2": 954,
+    "tagline": "Cradle of ancient Bikrampur kings and Atish Dipankar",
+    "taglineBn": "ঐতিহাসিক বিক্রমপুরের গৌরব ও পদ্মাপাড়ের সমৃদ্ধ জনপদ",
+    "touristSpots": [
+      {
+        "name": "Idrakpur Fort",
+        "bnName": "ইদ্রাকপুর কেল্লা",
+        "desc": "1660 AD river fortress built to ward off pirates",
+        "image": "https://images.unsplash.com/photo-1506744038136-46273834b3fb?w=800&auto=format&fit=crop&q=80"
+      },
+      {
+        "name": "Baba Adam Mosque",
+        "bnName": "বাবা আদম মসজিদ",
+        "desc": "15th-century terracotta Sultanate mosque",
+        "image": "https://images.unsplash.com/photo-1500530855697-b586d89ba3ee?w=800&auto=format&fit=crop&q=80"
+      },
+      {
+        "name": "Atish Dipankar Birthplace",
+        "bnName": "অতীশ দীপঙ্করের জন্মস্থান",
+        "desc": "Memorial of great Buddhist scholar who taught in Tibet",
+        "image": "https://images.unsplash.com/photo-1507525428034-b723cf961d3e?w=800&auto=format&fit=crop&q=80"
+      },
+      {
+        "name": "Padma Riverside",
+        "bnName": "পদ্মাপাড়",
+        "desc": "Scenic open riverfront with majestic sunset views",
+        "image": "https://images.unsplash.com/photo-1509316975850-ff9c5deb0cd9?w=800&auto=format&fit=crop&q=80"
+      }
+    ],
+    "famousFoods": [
+      {
+        "name": "Bhagyakul Sweets",
+        "bnName": "ভাগ্যকুলের মিষ্টি",
+        "desc": "Century-old curd and milk sweet legacy"
+      },
+      {
+        "name": "Munshiganj Potatoes",
+        "bnName": "মুন্সীগঞ্জের আলু",
+        "desc": "Prized golden potatoes from fertile silt soil"
+      },
+      {
+        "name": "Patkheer",
+        "bnName": "পাতক্ষীর",
+        "desc": "Condensed baked milk pudding wrapped in leaves"
+      }
+    ],
+    "culture": {
+      "history": "Ancient political center of Bengal under the Sena and Chandra dynasties.",
+      "traditions": "Boat racing tournaments (Nouka Baich), bell metal craft, and river folk poetry.",
+      "festivals": [
+        "Bikrampur Heritage Fair",
+        "Nouka Baich"
+      ],
+      "summaryBn": "বিক্রমপুরের প্রাচীন ইতিহাস, পদ্মা নদীর কোলঘেঁষা নৌকা বাইচ ও কৃষিজ জীবন।"
+    },
+    "coverImage": "https://images.unsplash.com/photo-1506744038136-46273834b3fb?w=800&auto=format&fit=crop&q=80",
+    "quickFacts": {
+      "famousFor": "Idrakpur Fort, Atish Dipankar, Patkheer",
+      "mustTryDish": "Bhagyakul Patkheer",
+      "nicknames": [
+        "Ancient Bikrampur"
+      ]
+    }
+  },
+  {
+    "id": "manikganj",
+    "name": "Manikganj",
+    "bnName": "মানিকগঞ্জ",
+    "geoName": "Manikganj",
+    "division": "Dhaka",
+    "divisionBn": "ঢাকা",
+    "lat": 23.8644,
+    "lng": 90.0047,
+    "areaKm2": 1379,
+    "tagline": "Opulent Baliati Palace & the legendary Hazari Gur nectar",
+    "taglineBn": "ঐতিহাসিক বলিয়াদী রাজবাড়ি ও সুগন্ধি হাজারী গুড়ের দেশ",
+    "touristSpots": [
+      {
+        "name": "Baliati Palace",
+        "bnName": "বলিয়াটি রাজবাড়ি",
+        "desc": "Gigantic 19th-century neoclassical palace complex",
+        "image": "https://images.unsplash.com/photo-1509316975850-ff9c5deb0cd9?w=800&auto=format&fit=crop&q=80"
+      },
+      {
+        "name": "Teota Zamindar Bari",
+        "bnName": "তেওতা জমিদার বাড়ি",
+        "desc": "Picturesque river palace inspiring poet Kazi Nazrul Islam",
+        "image": "https://images.unsplash.com/photo-1596895111956-bf1cf0599ce5?w=800&auto=format&fit=crop&q=80"
+      },
+      {
+        "name": "Porabari Riverfront",
+        "bnName": "পোড়াবাড়ী",
+        "desc": "Peaceful scenic waterways along the Dhaleshwari",
+        "image": "https://images.unsplash.com/photo-1608958435020-e8a7109ba809?w=800&auto=format&fit=crop&q=80"
+      }
+    ],
+    "famousFoods": [
+      {
+        "name": "Hazari Gur",
+        "bnName": "হাজারী গুড় (খেজুরের রস থেকে তৈরি স্পেশাল গুড়)",
+        "desc": "Rare aromatic white crystalline date palm jaggery"
+      }
+    ],
+    "culture": {
+      "history": "Aristocratic Zamindari stronghold on maritime trade routes toward North Bengal.",
+      "traditions": "Baul and Bichar gaan folk vocal debates, and date palm extraction mastery.",
+      "festivals": [
+        "Hazari Gur Winter Fair",
+        "Teota Music Soiree"
+      ],
+      "summaryBn": "মানিকগঞ্জের লোকসংগীত (বাউল ও বিচার গান) এবং হাজারী গুড়ের শতবর্ষী ঐতিহ্য।"
+    },
+    "coverImage": "https://images.unsplash.com/photo-1588083949404-c4f1ed1323b3?w=800&auto=format&fit=crop&q=80",
+    "quickFacts": {
+      "famousFor": "Baliati Palace, Hazari Gur, Baul music",
+      "mustTryDish": "Original Hazari Gur",
+      "nicknames": [
+        "Palace District"
+      ]
+    }
+  },
+  {
+    "id": "narsingdi",
+    "name": "Narsingdi",
+    "bnName": "নরসিংদী",
+    "geoName": "Narsingdi",
+    "division": "Dhaka",
+    "divisionBn": "ঢাকা",
+    "lat": 23.9322,
+    "lng": 90.7154,
+    "areaKm2": 1141,
+    "tagline": "2500-year-old Wari-Bateshwar & sprawling textile commerce",
+    "taglineBn": "উয়ারী-বটেশ্বরের আড়াই হাজার বছরের সভ্যতা ও তাঁতের হাট",
+    "touristSpots": [
+      {
+        "name": "Wari-Bateshwar",
+        "bnName": "উয়ারী-বটেশ্বর (প্রাচীন সভ্যতা)",
+        "desc": "Ancient urban fortified archaeological site dating to 450 BC",
+        "image": "https://images.unsplash.com/photo-1464822759023-fed622ff2c3b?w=800&auto=format&fit=crop&q=80"
+      },
+      {
+        "name": "Dream Holiday Park",
+        "bnName": "ড্রিম ডে সল্ট পার্ক",
+        "desc": "Popular modern recreation and family amusement park",
+        "image": "https://images.unsplash.com/photo-1588083949404-c4f1ed1323b3?w=800&auto=format&fit=crop&q=80"
+      },
+      {
+        "name": "Lakshman Saha Zamindar Bari",
+        "bnName": "লক্ষ্মণ সাহার জমিদার বাড়ি",
+        "desc": "Stately colonial manor with ornate columns",
+        "image": "https://images.unsplash.com/photo-1609137144813-7d9921338f24?w=800&auto=format&fit=crop&q=80"
+      }
+    ],
+    "famousFoods": [
+      {
+        "name": "Sagor Banana",
+        "bnName": "সাগর কলা",
+        "desc": "Naturally sweet, fragrant local bananas"
+      },
+      {
+        "name": "Narsingdi Lotkon",
+        "bnName": "নরসিংদীর লটকন",
+        "desc": "GI-certified sweet and tangy Burmese grape fruit"
+      },
+      {
+        "name": "Chhana Sweets",
+        "bnName": "মিষ্টি",
+        "desc": "Fresh cottage cheese sweets"
+      }
+    ],
+    "culture": {
+      "history": "One of South Asia's oldest trade river ports connecting to Southeast Asia and the Mediterranean.",
+      "traditions": "Babar Hat and Shekherchar handloom markets, textile trading culture.",
+      "festivals": [
+        "Lotkon Utsab",
+        "Boishakhi Haat Fair"
+      ],
+      "summaryBn": "তাঁতশিল্পের সমৃদ্ধি (শেখেরচর হাটের জন্য বিখ্যাত) ও দেশের অন্যতম প্রাচীন প্রত্নতাত্ত্বিক স্থান।"
+    },
+    "coverImage": "https://images.unsplash.com/photo-1464822759023-fed622ff2c3b?w=800&auto=format&fit=crop&q=80",
+    "quickFacts": {
+      "famousFor": "Wari-Bateshwar, Lotkon fruit, Handloom sarees",
+      "mustTryDish": "Fresh Orchard Lotkon & Sagor Banana",
+      "nicknames": [
+        "Textile Hub of Bengal"
+      ]
+    }
+  },
+  {
+    "id": "faridpur",
+    "name": "Faridpur",
+    "bnName": "ফরিদপুর",
+    "geoName": "Faridpur",
+    "division": "Dhaka",
+    "divisionBn": "ঢাকা",
+    "lat": 23.6071,
+    "lng": 89.8429,
+    "areaKm2": 2073,
+    "tagline": "Homeland of folk poet Jasimuddin & golden date molasses",
+    "taglineBn": "পল্লীকবি জসীমউদ্দীন-এর স্মৃতিধন্য পাট ও খেজুর গুড়ের জনপদ",
+    "touristSpots": [
+      {
+        "name": "Poet Jasimuddin Residence",
+        "bnName": "কবি জসীমউদ্দীন-এর বাড়ি",
+        "desc": "Ancestral home where celebrated folklore poetry was written",
+        "image": "https://images.unsplash.com/photo-1507525428034-b723cf961d3e?w=800&auto=format&fit=crop&q=80"
+      },
+      {
+        "name": "Baish Rashi Zamindar Bari",
+        "bnName": "বাইশ রশি জমিদার বাড়ি",
+        "desc": "Grand historic mansion with multiple courtyards",
+        "image": "https://images.unsplash.com/photo-1571003123894-1f0594d2b5d9?w=800&auto=format&fit=crop&q=80"
+      },
+      {
+        "name": "River Research Institute",
+        "bnName": "নদী গবেষণা ইনস্টিটিউট",
+        "desc": "Pioneering center for river physics and hydrology",
+        "image": "https://images.unsplash.com/photo-1518495973542-4542c06a5843?w=800&auto=format&fit=crop&q=80"
+      }
+    ],
+    "famousFoods": [
+      {
+        "name": "Date Palm Molasses",
+        "bnName": "খেজুরের গুড়",
+        "desc": "Premium winter gur renowned for sweet fragrance"
+      },
+      {
+        "name": "Khambaj Sweets",
+        "bnName": "খাম্বাজ মিষ্টি",
+        "desc": "Special browned milk confection"
+      },
+      {
+        "name": "Date Palm Nectar",
+        "bnName": "ফরিদপুরের খেজুর রস",
+        "desc": "Freshly tapped sweet tree sap"
+      }
+    ],
+    "culture": {
+      "history": "Named after 12th-century Sufi saint Shah Farid; celebrated worldwide in Polli Kobi Jasimuddin's verse.",
+      "traditions": "Nakshi Kantha embroidered quilt craftsmanship, folk theatre, and rural village fairs.",
+      "festivals": [
+        "Jasim Polli Mela",
+        "Winter Date Harvest Festival"
+      ],
+      "summaryBn": "পল্লীকবি জসীমউদ্দীনের সাহিত্য-ঐতিহ্য, জসীম পল্লী মেলা এবং চরাঞ্চলের সংস্কৃতি।"
+    },
+    "coverImage": "https://images.unsplash.com/photo-1507525428034-b723cf961d3e?w=800&auto=format&fit=crop&q=80",
+    "quickFacts": {
+      "famousFor": "Poet Jasimuddin, Date Palm Gur, Nakshi Kantha",
+      "mustTryDish": "Khambaj Sweets with Fresh Date Molasses",
+      "nicknames": [
+        "Land of the Folk Poet"
+      ]
+    }
+  },
+  {
+    "id": "madaripur",
+    "name": "Madaripur",
+    "bnName": "মাদারীপুর",
+    "geoName": "Madaripur",
+    "division": "Dhaka",
+    "divisionBn": "ঢাকা",
+    "lat": 23.1641,
+    "lng": 90.1897,
+    "areaKm2": 1145,
+    "tagline": "Historic Shakuni Dighi lake and serene Sufi heritage",
+    "taglineBn": "শকুনি দিঘির শান্ত রূপ ও সুফি সাধক শাহ মাদারের স্মৃতি",
+    "touristSpots": [
+      {
+        "name": "Shakuni Dighi",
+        "bnName": "শকুনি দিঘি",
+        "desc": "Grand historic reservoir in town center",
+        "image": "https://images.unsplash.com/photo-1518495973542-4542c06a5843?w=800&auto=format&fit=crop&q=80"
+      },
+      {
+        "name": "Algi Kazi Bari Mosque",
+        "bnName": "আলগী কাজী বাড়ি মসজিদ",
+        "desc": "Ancient Islamic architectural heritage",
+        "image": "https://images.unsplash.com/photo-1506744038136-46273834b3fb?w=800&auto=format&fit=crop&q=80"
+      },
+      {
+        "name": "Pranavananda Math",
+        "bnName": "প্রণবানন্দ মঠ",
+        "desc": "Peaceful ashram founded by saint Swami Pranavananda",
+        "image": "https://images.unsplash.com/photo-1464822759023-fed622ff2c3b?w=800&auto=format&fit=crop&q=80"
+      }
+    ],
+    "famousFoods": [
+      {
+        "name": "Madaripur Rosogolla",
+        "bnName": "মাদারীপুরের রসগোল্লা",
+        "desc": "Pillowy soft cottage cheese spheres in light syrup"
+      },
+      {
+        "name": "Tal Patali Gur",
+        "bnName": "তাল পাটালি গুড়",
+        "desc": "Solidified aromatic palmyra palm toffee"
+      }
+    ],
+    "culture": {
+      "history": "Named after 15th-century Sufi saint Badruddin Shah Madar.",
+      "traditions": "Canal-side pastoral living, folk singing, and handcrafted date leaf mats.",
+      "festivals": [
+        "Shah Madar Urs",
+        "Boishakhi Mela"
+      ],
+      "summaryBn": "আউলিয়া ও সাধু-সন্ন্যাসীদের স্মৃতিধন্য ভূমি, নদীকেন্দ্রিক জীবন।"
+    },
+    "coverImage": "https://images.unsplash.com/photo-1506744038136-46273834b3fb?w=800&auto=format&fit=crop&q=80",
+    "quickFacts": {
+      "famousFor": "Shakuni Dighi, Tal Patali Gur, Rosogolla",
+      "mustTryDish": "Warm Madaripur Rosogolla",
+      "nicknames": [
+        "Lake City of Bengal"
+      ]
+    }
+  },
+  {
+    "id": "shariatpur",
+    "name": "Shariatpur",
+    "bnName": "শরীয়তপুর",
+    "geoName": "Shariatpur",
+    "division": "Dhaka",
+    "divisionBn": "ঢাকা",
+    "lat": 23.2423,
+    "lng": 90.3541,
+    "areaKm2": 1182,
+    "tagline": "Legacy of the Faraizi movement & prime Padma river Hilsa",
+    "taglineBn": "হাজী শরীয়তুল্লাহর সংস্কার আন্দোলন ও পদ্মার রূপালি ইলিশ",
+    "touristSpots": [
+      {
+        "name": "Burirhat Bijoy Memorial",
+        "bnName": "বুড়িরহাট বিজয় ময়দান",
+        "desc": "War of Liberation memorial site",
+        "image": "https://images.unsplash.com/photo-1509316975850-ff9c5deb0cd9?w=800&auto=format&fit=crop&q=80"
+      },
+      {
+        "name": "Sureshwar Darbar Sharif",
+        "bnName": "সুরেশ্বর দরবার শরীফ",
+        "desc": "Famed spiritual shrine along the riverbank",
+        "image": "https://images.unsplash.com/photo-1513836279014-a89f7a76ae86?w=800&auto=format&fit=crop&q=80"
+      },
+      {
+        "name": "Ramkanai Jiu Temple",
+        "bnName": "রামকানাই জিও মন্দির",
+        "desc": "Ancient Hindu temple with historic terracotta work",
+        "image": "https://images.unsplash.com/photo-1500530855697-b586d89ba3ee?w=800&auto=format&fit=crop&q=80"
+      }
+    ],
+    "famousFoods": [
+      {
+        "name": "Naria Sweets",
+        "bnName": "নড়িয়া টেস্টের মিষ্টি",
+        "desc": "Melt-in-mouth milk curd sweet"
+      },
+      {
+        "name": "Kachagolla",
+        "bnName": "কাঁচাগোল্লা",
+        "desc": "Pure delicate unbaked sweet cottage cheese"
+      },
+      {
+        "name": "Padma Hilsa",
+        "bnName": "নদীর টাটকা ইলিশ",
+        "desc": "Fresh fatty river Hilsa fried with green chilies"
+      }
+    ],
+    "culture": {
+      "history": "Named in honor of Haji Shariatullah, leader of the historic 19th-century Faraizi movement.",
+      "traditions": "Padma river delta fishing folklore, boat songs, and rural perseverance.",
+      "festivals": [
+        "Sureshwar Urs",
+        "Padma River Carnival"
+      ],
+      "summaryBn": "হাজী শরীয়তুল্লাহর ফারায়েজী আন্দোলনের ইতিহাস ও পদ্মাপাড়ের জীবন সংগ্রাম।"
+    },
+    "coverImage": "https://images.unsplash.com/photo-1509316975850-ff9c5deb0cd9?w=800&auto=format&fit=crop&q=80",
+    "quickFacts": {
+      "famousFor": "Haji Shariatullah, Sureshwar Dargah, Padma Hilsa",
+      "mustTryDish": "Fresh Fried Padma Hilsa with Naria Sweets",
+      "nicknames": [
+        "Gateway to Southern Padma"
+      ]
+    }
+  },
+  {
+    "id": "gopalganj",
+    "name": "Gopalganj",
+    "bnName": "গোপালগঞ্জ",
+    "geoName": "Gopalganj",
+    "division": "Dhaka",
+    "divisionBn": "ঢাকা",
+    "lat": 23.0051,
+    "lng": 89.8266,
+    "areaKm2": 1490,
+    "tagline": "Birthplace of Father of the Nation Bangabandhu at Tungipara",
+    "taglineBn": "বঙ্গবন্ধুর সমাধিধন্য টুঙ্গিপাড়া ও রূপসী মধুমতী নদী",
+    "touristSpots": [
+      {
+        "name": "Tungipara Memorial Complex",
+        "bnName": "টুঙ্গিপাড়া (বঙ্গবন্ধুর সমাধি সৌধ)",
+        "desc": "National memorial commemorating Bangabandhu Sheikh Mujibur Rahman",
+        "image": "https://images.unsplash.com/photo-1500530855697-b586d89ba3ee?w=800&auto=format&fit=crop&q=80"
+      },
+      {
+        "name": "Bill Route Canal",
+        "bnName": "বিল রুট ক্যানেল",
+        "desc": "Scenic canal passing through blooming water-lily wetlands",
+        "image": "https://images.unsplash.com/photo-1509316975850-ff9c5deb0cd9?w=800&auto=format&fit=crop&q=80"
+      },
+      {
+        "name": "Chandravarma Fort",
+        "bnName": "চন্দ্রবর্মা কেল্লা (কোটালীপাড়া)",
+        "desc": "Ancient 6th-century fortress ruins",
+        "image": "https://images.unsplash.com/photo-1596895111956-bf1cf0599ce5?w=800&auto=format&fit=crop&q=80"
+      }
+    ],
+    "famousFoods": [
+      {
+        "name": "Mutton Fat Sweets",
+        "bnName": "খাসির চর্বির মিষ্টি",
+        "desc": "Unique traditional dessert made with clarified animal fat and spices"
+      },
+      {
+        "name": "Rosa Sweets",
+        "bnName": "রসা মিষ্টি",
+        "desc": "Syrupy cardamom-infused curd sweet"
+      },
+      {
+        "name": "Madhumati Fish",
+        "bnName": "পদ্মার মাছ",
+        "desc": "Freshwater delicacy from river currents"
+      }
+    ],
+    "culture": {
+      "history": "Fountainhead of Bangladesh independence history; renowned for historic Kotalipara copperplate inscriptions.",
+      "traditions": "Water lily harvest in vast beels, wooden boat craftsmanship, and patriotic pride.",
+      "festivals": [
+        "Tungipara National Memorial Gathering",
+        "Boishakhi Mela"
+      ],
+      "summaryBn": "বাংলাদেশের রাজনৈতিক ইতিহাসের প্রাণকেন্দ্র ও মধুমতী নদীর লোকজ রূপ।"
+    },
+    "coverImage": "https://images.unsplash.com/photo-1500530855697-b586d89ba3ee?w=800&auto=format&fit=crop&q=80",
+    "quickFacts": {
+      "famousFor": "Tungipara Mausoleum, Bill Route Canal, Madhumati river",
+      "mustTryDish": "Rosa Mishti",
+      "nicknames": [
+        "Cradle of Independence"
+      ]
+    }
+  },
+  {
+    "id": "rajbari",
+    "name": "Rajbari",
+    "bnName": "রাজবাড়ী",
+    "geoName": "Rajbari",
+    "division": "Dhaka",
+    "divisionBn": "ঢাকা",
+    "lat": 23.7574,
+    "lng": 89.6445,
+    "areaKm2": 1119,
+    "tagline": "Homeland of novelist Mir Mosharraf Hossain & royal Goalanda Chamcham",
+    "taglineBn": "মীর মশাররফ হোসেনের স্মৃতি ও বিশ্বখ্যাত গোয়ালন্দের চমচম",
+    "touristSpots": [
+      {
+        "name": "Mir Mosharraf Hossain Memorial",
+        "bnName": "মীর মশাররফ হোসেন স্মৃতিকেন্দ্র",
+        "desc": "Memorial for the author of Bengali classic Bishad Shindhu",
+        "image": "https://images.unsplash.com/photo-1470071459604-3b5ec3a7fe05?w=800&auto=format&fit=crop&q=80"
+      },
+      {
+        "name": "Goalanda Ghat",
+        "bnName": "গোয়ালন্দ ঘাট",
+        "desc": "Historic paddle steamer port and railway terminus",
+        "image": "https://images.unsplash.com/photo-1578632767115-351597cf2477?w=800&auto=format&fit=crop&q=80"
+      },
+      {
+        "name": "Zero Point",
+        "bnName": "জিরো পয়েন্ট",
+        "desc": "Scenic point where the Padma and Jamuna river systems converge",
+        "image": "https://images.unsplash.com/photo-1588083949404-c4f1ed1323b3?w=800&auto=format&fit=crop&q=80"
+      }
+    ],
+    "famousFoods": [
+      {
+        "name": "Goalanda Chamcham",
+        "bnName": "গোয়ালন্দের চমচম",
+        "desc": "Century-old golden-brown sweet renowned since the British steamer era"
+      },
+      {
+        "name": "Rajbari Kheerpayesh",
+        "bnName": "রাজবাড়ীর ক্ষীরপায়েস",
+        "desc": "Rich slow-boiled milk rice pudding"
+      }
+    ],
+    "culture": {
+      "history": "Major hub of Eastern Bengal Railway linking Kolkata with Assam and Eastern Bengal.",
+      "traditions": "Steamer voyage folklore, Goalanda chicken curry traditions, and riverside weekly haats.",
+      "festivals": [
+        "Mir Mosharraf Literature Fair",
+        "Riverfront Regatta"
+      ],
+      "summaryBn": "সাহিত্যিক মীর মশাররফ হোসেনের স্মৃতি এবং প্রাচীন রেলওয়ে ও নৌ-যোগাযোগের কেন্দ্র।"
+    },
+    "coverImage": "https://images.unsplash.com/photo-1470071459604-3b5ec3a7fe05?w=800&auto=format&fit=crop&q=80",
+    "quickFacts": {
+      "famousFor": "Goalanda Chamcham, Mir Mosharraf Hossain, Steamer Ghat",
+      "mustTryDish": "Original Goalanda Chamcham",
+      "nicknames": [
+        "Steamer Gateway"
+      ]
+    }
+  },
+  {
+    "id": "tangail",
+    "name": "Tangail",
+    "bnName": "টাঙ্গাইল",
+    "geoName": "Tangail",
+    "division": "Dhaka",
+    "divisionBn": "ঢাকা",
+    "lat": 24.2513,
+    "lng": 89.9167,
+    "areaKm2": 3414,
+    "tagline": "World-famous handloom Tangail Sarees & Porabari Chamcham",
+    "taglineBn": "বিশ্ববিখ্যাত টাঙ্গাইল তাঁতের শাড়ি ও পোড়াবাড়ীর আসল চমচম",
+    "touristSpots": [
+      {
+        "name": "Mohera Zamindar Bari",
+        "bnName": "মহেরা জমিদার বাড়ি",
+        "desc": "Pristinely restored colonial palace estate",
+        "image": "https://images.unsplash.com/photo-1513836279014-a89f7a76ae86?w=800&auto=format&fit=crop&q=80"
+      },
+      {
+        "name": "Dhanbari Nawab Palace",
+        "bnName": "ধনবাড়ী নওয়াব বাঘ",
+        "desc": "Stately palace of Nawab Syed Nawab Ali Chowdhury",
+        "image": "https://images.unsplash.com/photo-1544735716-392fe2489ffa?w=800&auto=format&fit=crop&q=80"
+      },
+      {
+        "name": "Atia Mosque",
+        "bnName": "আতিয়া মসজিদ",
+        "desc": "Terracotta 1609 Sultanate-Mughal mosque depicted on currency notes",
+        "image": "https://images.unsplash.com/photo-1571003123894-1f0594d2b5d9?w=800&auto=format&fit=crop&q=80"
+      },
+      {
+        "name": "Madhupur Forest",
+        "bnName": "মধুপুর গড়",
+        "desc": "Deciduous Sal reserve home to indigenous Garo communities",
+        "image": "https://images.unsplash.com/photo-1518495973542-4542c06a5843?w=800&auto=format&fit=crop&q=80"
+      }
+    ],
+    "famousFoods": [
+      {
+        "name": "Porabari Chamcham",
+        "bnName": "পোড়াবাড়ীর চমচম",
+        "desc": "Legendary sweet with a caramelized crust and luscious center"
+      },
+      {
+        "name": "Madhupur Pineapple",
+        "bnName": "মধুপুরের আনারস",
+        "desc": "Naturally honey-sweet tropical giant pineapples"
+      }
+    ],
+    "culture": {
+      "history": "Epicenter of Bengali jacquard handloom weaving; celebrated in world fashion.",
+      "traditions": "Taant weaving artistry, indigenous Garo Wangala harvest dance, and forest folklore.",
+      "festivals": [
+        "Tangail Taant Mela",
+        "Wangala Harvest Festival",
+        "Porabari Sweet Utsab"
+      ],
+      "summaryBn": "টাঙ্গাইলের বিশ্ববিখ্যাত তাঁতের শাড়ি এবং মধুপুরের বনাঞ্চলের সংস্কৃতি।"
+    },
+    "coverImage": "https://images.unsplash.com/photo-1513836279014-a89f7a76ae86?w=800&auto=format&fit=crop&q=80",
+    "quickFacts": {
+      "famousFor": "Tangail Handloom Sarees, Porabari Chamcham, Atia Mosque",
+      "mustTryDish": "Hot Porabari Chamcham",
+      "nicknames": [
+        "Taant Capital of Bangladesh"
+      ]
+    }
+  },
+  {
+    "id": "kishoreganj",
+    "name": "Kishoreganj",
+    "bnName": "কিশোরগঞ্জ",
+    "geoName": "Kishoreganj",
+    "division": "Dhaka",
+    "divisionBn": "ঢাকা",
+    "lat": 24.4449,
+    "lng": 90.7765,
+    "areaKm2": 2688,
+    "tagline": "Endless Nikli Haor freshwater sea & historic Sholakia Eidgah",
+    "taglineBn": "নিকলী হাওরের জলরাশি, শোলাকিয়া ঈদগাহ ও কবি চন্দ্রাবতী",
+    "touristSpots": [
+      {
+        "name": "Nikli Haor",
+        "bnName": "নিকলী হাওর",
+        "desc": "Vast horizon-spanning wetland wonderland",
+        "image": "https://images.unsplash.com/photo-1518495973542-4542c06a5843?w=800&auto=format&fit=crop&q=80"
+      },
+      {
+        "name": "Shahidi Mosque",
+        "bnName": "শহীদী মসজিদ",
+        "desc": "Historic multi-story grand Islamic shrine",
+        "image": "https://images.unsplash.com/photo-1448375240586-882707db888b?w=800&auto=format&fit=crop&q=80"
+      },
+      {
+        "name": "Sholakia Eidgah",
+        "bnName": "শোলাকিয়া ঈদগাহ ময়দান",
+        "desc": "Ground hosting South Asia's largest annual Eid congregations",
+        "image": "https://images.unsplash.com/photo-1506744038136-46273834b3fb?w=800&auto=format&fit=crop&q=80"
+      },
+      {
+        "name": "Isa Khan Jangalbari Fort",
+        "bnName": "ইশা খাঁ-র জঙ্গলবাড়ি দুর্গ",
+        "desc": "Medieval stronghold of Baro-Bhuiyan ruler Isa Khan",
+        "image": "https://images.unsplash.com/photo-1464822759023-fed622ff2c3b?w=800&auto=format&fit=crop&q=80"
+      }
+    ],
+    "famousFoods": [
+      {
+        "name": "Haor Fresh Fish",
+        "bnName": "হাওরের টাটকা মাছ",
+        "desc": "Freshwater carps and catfish stewed with local spices"
+      },
+      {
+        "name": "Balish Mishti",
+        "bnName": "কিশোরগঞ্জের বালিশ মিষ্টি",
+        "desc": "Enormous pillow-shaped sweet soaked in creamy condensed milk"
+      }
+    ],
+    "culture": {
+      "history": "Birthplace of first Bengali female poet Chandravati and heart of Mymensingh Geetika balladic lore.",
+      "traditions": "Haor boat culture during monsoon floods, Bhatiyali boatmen songs, and grand religious gatherings.",
+      "festivals": [
+        "Sholakia Grand Eid",
+        "Monsoon Haor Regatta"
+      ],
+      "summaryBn": "হাওর অঞ্চলের অনন্য জীবনধারা, চন্দ্রাবতীর সাহিত্য ও ঐতিহ্যবাহী শোলাকিয়ার ঈদ জামাত।"
+    },
+    "coverImage": "https://images.unsplash.com/photo-1518495973542-4542c06a5843?w=800&auto=format&fit=crop&q=80",
+    "quickFacts": {
+      "famousFor": "Nikli Haor, Sholakia Eidgah, Balish Mishti",
+      "mustTryDish": "Balish Mishti with Haor Fish Curry",
+      "nicknames": [
+        "Haor Queen of Central Bengal"
+      ]
+    }
+  },
+  {
+    "id": "chattogram",
+    "name": "Chattogram",
+    "bnName": "চট্টগ্রাম",
+    "geoName": "Chattogram",
+    "division": "Chattogram",
+    "divisionBn": "চট্টগ্রাম",
+    "lat": 22.3569,
+    "lng": 91.7832,
+    "areaKm2": 5282,
+    "tagline": "The commercial capital with sea port, Patenga beach & green hills",
+    "taglineBn": "বাণিজ্যিক রাজধানী, সমুদ্র বন্দর, পতেঙ্গা ও সবুজ পাহাড়ের রানী",
+    "touristSpots": [
+      {
+        "name": "Patenga Sea Beach",
+        "bnName": "পতেঙ্গা সমুদ্র সৈকত",
+        "desc": "Popular beach where Karnaphuli river meets the Bay of Bengal",
+        "image": "https://images.unsplash.com/photo-1507525428034-b723cf961d3e?w=800&auto=format&fit=crop&q=80"
+      },
+      {
+        "name": "Foy's Lake",
+        "bnName": "ফয়স লেক",
+        "desc": "Picturesque man-made lake nestled in rolling green hills",
+        "image": "https://images.unsplash.com/photo-1470071459604-3b5ec3a7fe05?w=800&auto=format&fit=crop&q=80"
+      },
+      {
+        "name": "Bhatiyari Lakes",
+        "bnName": "ভাটিয়ারী লেক",
+        "desc": "Serene highland lake with winding hillside trails",
+        "image": "https://images.unsplash.com/photo-1513836279014-a89f7a76ae86?w=800&auto=format&fit=crop&q=80"
+      },
+      {
+        "name": "Shrine of Bayazid Bostami",
+        "bnName": "বায়োজিদ বোস্তামীর মাজার",
+        "desc": "Spiritual shrine housing rare black softshell turtles",
+        "image": "https://images.unsplash.com/photo-1500530855697-b586d89ba3ee?w=800&auto=format&fit=crop&q=80"
+      },
+      {
+        "name": "Chandranath Hill & Temple",
+        "bnName": "চন্দ্রনাথ পাহাড়",
+        "desc": "Highest peak in Sitakunda range with ancient temple",
+        "image": "https://images.unsplash.com/photo-1507525428034-b723cf961d3e?w=800&auto=format&fit=crop&q=80"
+      }
+    ],
+    "famousFoods": [
+      {
+        "name": "Mezbani Beef",
+        "bnName": "মেজ্জানি মাংস (মেজবানি গরুর মাংস)",
+        "desc": "Spicy, aromatic slow-cooked traditional beef banquet stew"
+      },
+      {
+        "name": "Kala Bhuna",
+        "bnName": "কালা ভুনা",
+        "desc": "World-famous deeply caramelized beef tender cubes with exotic spices"
+      },
+      {
+        "name": "Dried Fish (Shutki)",
+        "bnName": "শুটকি মাছের পদ",
+        "desc": "Spicy dry fish curries cooked with garlic and fiery chili"
+      }
+    ],
+    "culture": {
+      "history": "Ancient maritime trading port visited by Ibn Battuta, Portuguese merchants, and Venetian explorers; pivotal in 1930 Armoury Raid.",
+      "traditions": "Mezban feast where thousands are fed without distinction, Jabbar-er Boli Khela wrestling, and seafaring folklore.",
+      "festivals": [
+        "Mezban Feasts",
+        "Jabbar-er Boli Khela",
+        "Sitakunda Shiva Chaturdashi"
+      ],
+      "summaryBn": "মেজবানি সংস্কৃতি, জব্বারের বলি খেলা এবং সমুদ্র ও পাহাড়ের অনন্য সহাবস্থান।"
+    },
+    "coverImage": "https://images.unsplash.com/photo-1507525428034-b723cf961d3e?w=800&auto=format&fit=crop&q=80",
+    "quickFacts": {
+      "famousFor": "Port of Chittagong, Mezbani Beef, Kala Bhuna, Patenga",
+      "mustTryDish": "Original Chattogram Kala Bhuna with Mezbani Dal",
+      "nicknames": [
+        "Port City",
+        "Gateway of Bay of Bengal"
+      ]
+    }
+  },
+  {
+    "id": "coxs-bazar",
+    "name": "Cox's Bazar",
+    "bnName": "কক্সবাজার",
+    "geoName": "Cox's Bazar",
+    "division": "Chattogram",
+    "divisionBn": "চট্টগ্রাম",
+    "lat": 21.4272,
+    "lng": 92.0058,
+    "areaKm2": 2491,
+    "tagline": "World's longest unbroken natural sandy sea beach (120 km)",
+    "taglineBn": "বিশ্বের দীর্ঘতম ১২০ কিমি নিরবচ্ছিন্ন প্রাকৃতিক সমুদ্র সৈকত",
+    "touristSpots": [
+      {
+        "name": "Cox's Bazar Sea Beach",
+        "bnName": "বিশ্বের দীর্ঘতম সমুদ্র সৈকত",
+        "desc": "120 kilometers of golden sandy beach lapped by ocean waves",
+        "image": "https://images.unsplash.com/photo-1506744038136-46273834b3fb?w=800&auto=format&fit=crop&q=80"
+      },
+      {
+        "name": "Himchari National Park",
+        "bnName": "হিমছড়ি",
+        "desc": "Waterfall cascading between hills and the open sea",
+        "image": "https://images.unsplash.com/photo-1507525428034-b723cf961d3e?w=800&auto=format&fit=crop&q=80"
+      },
+      {
+        "name": "Inani Beach",
+        "bnName": "ইনানী বিচ",
+        "desc": "Coral stone beach with crystalline waters and green backdrop",
+        "image": "https://images.unsplash.com/photo-1509316975850-ff9c5deb0cd9?w=800&auto=format&fit=crop&q=80"
+      },
+      {
+        "name": "Saint Martin's Island",
+        "bnName": "সেন্টমার্টিন দ্বীপ",
+        "desc": "Only coral island in Bangladesh with coconut palms",
+        "image": "https://images.unsplash.com/photo-1596895111956-bf1cf0599ce5?w=800&auto=format&fit=crop&q=80"
+      },
+      {
+        "name": "Ramu Buddhist Temples",
+        "bnName": "রামু বৌদ্ধ বিহার",
+        "desc": "Ancient pagoda with giant reclining bronze Buddha",
+        "image": "https://images.unsplash.com/photo-1608958435020-e8a7109ba809?w=800&auto=format&fit=crop&q=80"
+      }
+    ],
+    "famousFoods": [
+      {
+        "name": "Fresh Sea Fish Fry",
+        "bnName": "সামুদ্রিক তাজা মাছ ফ্রাই (রূপচাঁদা, কোরাল)",
+        "desc": "Freshly caught Silver Pomfret, Coral, and Red Snapper fried with coastal spices"
+      },
+      {
+        "name": "Loitta Fry",
+        "bnName": "লইট্টা ফ্রাই",
+        "desc": "Crispy battered Bombay duck fish fries"
+      },
+      {
+        "name": "Rakhine Dry Fish Bhorta",
+        "bnName": "শুটকি ভর্তা",
+        "desc": "Pungent mashed dry fish with roasted garlic and green chilies"
+      }
+    ],
+    "culture": {
+      "history": "Named after British officer Captain Hiram Cox in 1799 who rehabilitated Rakhine refugees; ancient Mog and Arakan roots.",
+      "traditions": "Indigenous Rakhine Water Festival (Sangken), fishing fleet voyages, and coastal beach tourism.",
+      "festivals": [
+        "Rakhine Sangken Water Festival",
+        "Beach Tourism Carnival"
+      ],
+      "summaryBn": "রাখাইন সংস্কৃতি, সামুদ্রিক মাছের প্রাচুর্য এবং বিশ্বের দীর্ঘতম বালুকাময় সমুদ্র সৈকতের রূপ।"
+    },
+    "coverImage": "https://images.unsplash.com/photo-1506744038136-46273834b3fb?w=800&auto=format&fit=crop&q=80",
+    "quickFacts": {
+      "famousFor": "120km Beach, Saint Martin Coral Island, Seafood",
+      "mustTryDish": "Crispy Loitta Fry & Grilled Rupchanda",
+      "nicknames": [
+        "Tourism Capital of Bangladesh"
+      ]
+    }
+  },
+  {
+    "id": "bandarban",
+    "name": "Bandarban",
+    "bnName": "বান্দরবান",
+    "geoName": "Bandarban",
+    "division": "Chattogram",
+    "divisionBn": "চট্টগ্রাম",
+    "lat": 22.1953,
+    "lng": 92.2184,
+    "areaKm2": 4479,
+    "tagline": "Crown of misty mountain peaks, clouds & indigenous heritage",
+    "taglineBn": "মেঘের দেশ, সুউচ্চ পাহাড়চূড়া ও বৈচিত্র্যময় পাহাড়ি সংস্কৃতি",
+    "touristSpots": [
+      {
+        "name": "Nilgiri",
+        "bnName": "নীলগিরি",
+        "desc": "Breathtaking highland peak above the blanket of drifting clouds",
+        "image": "https://images.unsplash.com/photo-1464822759023-fed622ff2c3b?w=800&auto=format&fit=crop&q=80"
+      },
+      {
+        "name": "Nafakhum Waterfall",
+        "bnName": "নাফাকুম জলপ্রপাত",
+        "desc": "The Niagara of Bangladesh deep inside the Sangu river wilderness",
+        "image": "https://images.unsplash.com/photo-1608958435020-e8a7109ba809?w=800&auto=format&fit=crop&q=80"
+      },
+      {
+        "name": "Keokradong & Tajingdong",
+        "bnName": "কেওক্রাডং ও তাজিংডং",
+        "desc": "Among the highest mountain summits of Bangladesh",
+        "image": "https://images.unsplash.com/photo-1578632767115-351597cf2477?w=800&auto=format&fit=crop&q=80"
+      },
+      {
+        "name": "Buddha Dhatu Jadi (Golden Temple)",
+        "bnName": "স্বর্ণ মন্দির (বুদ্ধ ধাতু জাদী)",
+        "desc": "Spectacular gilded Buddhist temple perched on a high ridge",
+        "image": "https://images.unsplash.com/photo-1588083949404-c4f1ed1323b3?w=800&auto=format&fit=crop&q=80"
+      },
+      {
+        "name": "Boga Lake",
+        "bnName": "বগা লেক",
+        "desc": "Mysterious natural volcanic crater lake perched atop the hills",
+        "image": "https://images.unsplash.com/photo-1609137144813-7d9921338f24?w=800&auto=format&fit=crop&q=80"
+      }
+    ],
+    "famousFoods": [
+      {
+        "name": "Bamboo Shoot Chicken (Banshkhor)",
+        "bnName": "বাঁশকড়ল দিয়ে পাহাড়ি মুরগি",
+        "desc": "Tender forest bamboo shoots stewed with country fowl and mountain herbs"
+      },
+      {
+        "name": "Hill Sticky Rice (Binni)",
+        "bnName": "বিন্নি চালের ভাত",
+        "desc": "Sweet, glutinous hill paddy steamed in banana leaves"
+      },
+      {
+        "name": "Bamboo Hollow Fish",
+        "bnName": "বাঁশের চোঙে মাছ/মাংস",
+        "desc": "Meat infused with aromatics and roasted inside green bamboo cylinders"
+      }
+    ],
+    "culture": {
+      "history": "Bohmong Circle administrative center; home to 11 indigenous ethnic nationalities including Marma, Bawm, Chakma, and Tripura.",
+      "traditions": "Rajpunyah durbar ceremony, Sangrai water splashing festivities, and vibrant hand-woven textile weaving.",
+      "festivals": [
+        "Bohmong Rajpunyah",
+        "Sangrai Festival",
+        "Wa-Gyoi-Poy Lantern Day"
+      ],
+      "summaryBn": "পাহাড়ি মেঘের খেলা, জুম চাষ, বম-মারমা সংস্কৃতি এবং বুদ্ধ ধাতু জাদী মন্দিরের প্রশান্তি।"
+    },
+    "coverImage": "https://images.unsplash.com/photo-1464822759023-fed622ff2c3b?w=800&auto=format&fit=crop&q=80",
+    "quickFacts": {
+      "famousFor": "Nilgiri, Keokradong, Golden Temple, Nafakhum",
+      "mustTryDish": "Hill Chicken Cooked in Bamboo Stems",
+      "nicknames": [
+        "Rooftop of Bangladesh",
+        "Land of Clouds"
+      ]
+    }
+  },
+  {
+    "id": "rangamati",
+    "name": "Rangamati",
+    "bnName": "রাঙ্গামাটি",
+    "geoName": "Rangamati",
+    "division": "Chattogram",
+    "divisionBn": "চট্টগ্রাম",
+    "lat": 22.7324,
+    "lng": 92.2985,
+    "areaKm2": 6116,
+    "tagline": "Enchanting Kaptai lake, emerald waters & Sajek Valley",
+    "taglineBn": "কাপ্তাই হ্রদের নীল জলরাশি, ঝুলন্ত সেতু ও মেঘের উপত্যকা সাজেক",
+    "touristSpots": [
+      {
+        "name": "Kaptai Lake",
+        "bnName": "কাপ্তাই হ্রদ",
+        "desc": "Largest artificial freshwater reservoir in South Asia framed by blue hills",
+        "image": "https://images.unsplash.com/photo-1506744038136-46273834b3fb?w=800&auto=format&fit=crop&q=80"
+      },
+      {
+        "name": "Sajek Valley",
+        "bnName": "সাজেক ভ্যালি",
+        "desc": "World-famous Valley of Clouds with winding ridge roads",
+        "image": "https://images.unsplash.com/photo-1609137144813-7d9921338f24?w=800&auto=format&fit=crop&q=80"
+      },
+      {
+        "name": "Hanging Bridge",
+        "bnName": "ঝুলন্ত সেতু",
+        "desc": "Iconic colorful suspension footbridge spanning Kaptai lake",
+        "image": "https://images.unsplash.com/photo-1544735716-392fe2489ffa?w=800&auto=format&fit=crop&q=80"
+      },
+      {
+        "name": "Shuvolong Waterfall",
+        "bnName": "শুভলং ঝর্ণা",
+        "desc": "Magnificent waterfall dropping directly into the lake",
+        "image": "https://images.unsplash.com/photo-1571003123894-1f0594d2b5d9?w=800&auto=format&fit=crop&q=80"
+      },
+      {
+        "name": "Rajban Vihara",
+        "bnName": "রাজবন বিহার",
+        "desc": "Prominent international Buddhist forest monastery",
+        "image": "https://images.unsplash.com/photo-1518495973542-4542c06a5843?w=800&auto=format&fit=crop&q=80"
+      }
+    ],
+    "famousFoods": [
+      {
+        "name": "Bamboo Chicken",
+        "bnName": "ব্যাম্বু চিকেন",
+        "desc": "Spicy mountain chicken slow-cooked in natural green bamboo culms"
+      },
+      {
+        "name": "Pahadi Fish Fry",
+        "bnName": "হ্রদের তাজা মাছের পদ",
+        "desc": "Fresh Kaptai lake sweet fishes fried crisp"
+      },
+      {
+        "name": "Sticky Rice Cakes",
+        "bnName": "পাহাড়ি পিঠা ও সাগু",
+        "desc": "Sweet delicacies prepared from indigenous mountain crops"
+      }
+    ],
+    "culture": {
+      "history": "Capital of the Chakma Raja's Circle; historic lakeside paradise formed after the 1960 Kaptai damming.",
+      "traditions": "Bizu new year festivities, waist-loom Pinon-Hadi weaving, and wooden boat voyages across vast waters.",
+      "festivals": [
+        "Bizu Festival",
+        "Kathin Chibar Dan at Rajban Vihara"
+      ],
+      "summaryBn": "চাকমা সংস্কৃতি, বিজু উৎসব, তাঁতের পোশাক ও পাহাড়ি ঝর্ণার অপরূপ সৌন্দর্য।"
+    },
+    "coverImage": "https://images.unsplash.com/photo-1506744038136-46273834b3fb?w=800&auto=format&fit=crop&q=80",
+    "quickFacts": {
+      "famousFor": "Sajek Valley, Kaptai Lake, Hanging Bridge, Bizu Festival",
+      "mustTryDish": "Original Sajek Bamboo Chicken",
+      "nicknames": [
+        "Lake District of Bangladesh"
+      ]
+    }
+  },
+  {
+    "id": "khagrachhari",
+    "name": "Khagrachhari",
+    "bnName": "খাগড়াছড়ি",
+    "geoName": "Khagrachhari",
+    "division": "Chattogram",
+    "divisionBn": "চট্টগ্রাম",
+    "lat": 23.1193,
+    "lng": 91.9847,
+    "areaKm2": 2700,
+    "tagline": "Mystical Alutila cave, Risang waterfall & gateway to Sajek",
+    "taglineBn": "রহস্যময় আলুটিলা গুহা, রিসাং ঝর্ণা ও পাহাড়ি ঝিরিপথ",
+    "touristSpots": [
+      {
+        "name": "Alutila Mystery Cave",
+        "bnName": "আলুটিলা রহস্যময় গুহা",
+        "desc": "Ancient subterranean dark rocky tunnel walked with burning bamboo torches",
+        "image": "https://images.unsplash.com/photo-1518495973542-4542c06a5843?w=800&auto=format&fit=crop&q=80"
+      },
+      {
+        "name": "Risang Waterfall",
+        "bnName": "রিসাং ঝর্ণা",
+        "desc": "Fast-flowing mountain cascade sliding down smooth rocks",
+        "image": "https://images.unsplash.com/photo-1518495973542-4542c06a5843?w=800&auto=format&fit=crop&q=80"
+      },
+      {
+        "name": "Tareng Viewpoint",
+        "bnName": "তারেং হিল পয়েন্ট",
+        "desc": "Hilltop viewpoint offering panoramic views over the district",
+        "image": "https://images.unsplash.com/photo-1448375240586-882707db888b?w=800&auto=format&fit=crop&q=80"
+      },
+      {
+        "name": "Dighinala Touduchhari",
+        "bnName": "দীঘিনালা তৌদুছড়ি",
+        "desc": "Pristine wild stream and green valleys",
+        "image": "https://images.unsplash.com/photo-1506744038136-46273834b3fb?w=800&auto=format&fit=crop&q=80"
+      }
+    ],
+    "famousFoods": [
+      {
+        "name": "Pahadi Sabrang & Bamboo Shoots",
+        "bnName": "পাহাড়ি শাক-সবজি ও বাঁশকড়ল",
+        "desc": "Aromatic wild mountain basil and bamboo shoot broth"
+      },
+      {
+        "name": "Hill Country Duck",
+        "bnName": "পাহাড়ি হাঁসের মাংস",
+        "desc": "Spicy roasted hill duck with local herbs"
+      },
+      {
+        "name": "Hebeh Fish Paste",
+        "bnName": "হেবাং (সিদ্ধ পাহাড়ি খাবার)",
+        "desc": "Authentic ethnic steamed paste seasoned with wild chilies"
+      }
+    ],
+    "culture": {
+      "history": "Heart of the Mong King's Circle; lush landscape named after the reed grass Khagra growing along rivers.",
+      "traditions": "Baisabi new year festival celebrated jointly by Tripura, Marma, and Chakma peoples.",
+      "festivals": [
+        "Baisabi Festival",
+        "Mong Rajpunyah"
+      ],
+      "summaryBn": "বৈসাবি উৎসব, পাহাড়ি জুমচাষ, পাহাড়ি ঝিরি ও আদিবাসী জীবনযাত্রা।"
+    },
+    "coverImage": "https://images.unsplash.com/photo-1518495973542-4542c06a5843?w=800&auto=format&fit=crop&q=80",
+    "quickFacts": {
+      "famousFor": "Alutila Cave, Risang Falls, Baisabi Festival",
+      "mustTryDish": "Steamed Pahadi Duck with Bamboo Shoots",
+      "nicknames": [
+        "Daughter of Hills"
+      ]
+    }
+  },
+  {
+    "id": "comilla",
+    "name": "Comilla",
+    "bnName": "কুমিল্লা",
+    "geoName": "Comilla",
+    "division": "Chattogram",
+    "divisionBn": "চট্টগ্রাম",
+    "lat": 23.4607,
+    "lng": 91.1809,
+    "areaKm2": 3146,
+    "tagline": "Ancient Shalban Buddhist vihara & legendary Matri Bhandar Rosomalai",
+    "taglineBn": "শালবন বিহারের বৌদ্ধ ঐতিহ্য ও মাতৃভাণ্ডারের আদি রসমালাই",
+    "touristSpots": [
+      {
+        "name": "Shalban Vihara & Mainamati",
+        "bnName": "শালবন বৌদ্ধ বিহার ও ময়নামতি",
+        "desc": "8th-century Buddhist monastery archaeological complex",
+        "image": "https://images.unsplash.com/photo-1506744038136-46273834b3fb?w=800&auto=format&fit=crop&q=80"
+      },
+      {
+        "name": "War Cemetery",
+        "bnName": "ময়নামতি ওয়ার সিমেট্রি",
+        "desc": "Solemn World War II memorial honoring Commonwealth soldiers",
+        "image": "https://images.unsplash.com/photo-1464822759023-fed622ff2c3b?w=800&auto=format&fit=crop&q=80"
+      },
+      {
+        "name": "Dharmasagar Dighi",
+        "bnName": "ধর্মসাগর দিঘি",
+        "desc": "Historic 15th-century royal lake excavated by Maharaja Dharma Manikya",
+        "image": "https://images.unsplash.com/photo-1470071459604-3b5ec3a7fe05?w=800&auto=format&fit=crop&q=80"
+      },
+      {
+        "name": "BARD Campus",
+        "bnName": "বার্ড (BARD) ক্যাম্পাস",
+        "desc": "Lush green research campus of rural development pioneer Akhtar Hameed Khan",
+        "image": "https://images.unsplash.com/photo-1513836279014-a89f7a76ae86?w=800&auto=format&fit=crop&q=80"
+      }
+    ],
+    "famousFoods": [
+      {
+        "name": "Matri Bhandar Rosomalai",
+        "bnName": "মাতৃভাণ্ডারের আসল রসমালাই",
+        "desc": "Small delicate cottage cheese dumplings soaked in thick boiled clotted milk"
+      },
+      {
+        "name": "Comilla Khadi Sweets",
+        "bnName": "খাদি মিষ্টি",
+        "desc": "Delightful regional sweets from heritage confectioners"
+      }
+    ],
+    "culture": {
+      "history": "Flourished under Deva, Chandra, and Manikya kings; home of music legends Sachin Dev Burman and Ustad Alauddin Khan.",
+      "traditions": "Handspun Khadi cotton textile heritage and classical musical maestro roots.",
+      "festivals": [
+        "Mainamati Archeological Fair",
+        "Khadi Textile Expo"
+      ],
+      "summaryBn": "খাদি কাপড়ের ঐতিহ্য, শচীন দেব বর্মনের সংগীতময় স্মৃতি ও প্রাচীন ময়নামতি সভ্যতা।"
+    },
+    "coverImage": "https://images.unsplash.com/photo-1609137144813-7d9921338f24?w=800&auto=format&fit=crop&q=80",
+    "quickFacts": {
+      "famousFor": "Matri Bhandar Rosomalai, Shalban Vihara, Khadi fabric",
+      "mustTryDish": "Original Matri Bhandar Rosomalai at Manoharpur",
+      "nicknames": [
+        "City of Banks & Tanks"
+      ]
+    }
+  },
+  {
+    "id": "feni",
+    "name": "Feni",
+    "bnName": "ফেনী",
+    "geoName": "Feni",
+    "division": "Chattogram",
+    "divisionBn": "চট্টগ্রাম",
+    "lat": 23.0159,
+    "lng": 91.3976,
+    "areaKm2": 990,
+    "tagline": "Muhuri irrigation regulator dam & heritage Bijoyshingh Dighi",
+    "taglineBn": "মুহুরী সেচ প্রকল্প, বিজয়সিংহ দিঘি ও নদীবাঁধের বাতাস",
+    "touristSpots": [
+      {
+        "name": "Muhuri Project",
+        "bnName": "মুহুরী প্রজেক্ট",
+        "desc": "Second largest water control dam project in Bangladesh on Feni river",
+        "image": "https://images.unsplash.com/photo-1500530855697-b586d89ba3ee?w=800&auto=format&fit=crop&q=80"
+      },
+      {
+        "name": "Bijoyshingh Dighi",
+        "bnName": "বিজয়সিংহ দিঘি",
+        "desc": "Expansive historic lake enveloped in lush greenery",
+        "image": "https://images.unsplash.com/photo-1500530855697-b586d89ba3ee?w=800&auto=format&fit=crop&q=80"
+      },
+      {
+        "name": "Shamsher Gazi Fort",
+        "bnName": "শমসের গাজীর কেল্লা",
+        "desc": "Fortress ruins of the legendary 18th-century peasant king",
+        "image": "https://images.unsplash.com/photo-1507525428034-b723cf961d3e?w=800&auto=format&fit=crop&q=80"
+      },
+      {
+        "name": "Chandgazi Mosque",
+        "bnName": "চাঁদগাজী মসজিদ",
+        "desc": "Mughal-era architectural mosque with three domes",
+        "image": "https://images.unsplash.com/photo-1509316975850-ff9c5deb0cd9?w=800&auto=format&fit=crop&q=80"
+      }
+    ],
+    "famousFoods": [
+      {
+        "name": "Khandaler Mishti",
+        "bnName": "খান্দালের মিষ্টি",
+        "desc": "Iconic caramelized spongy regional sweet"
+      },
+      {
+        "name": "Mohisha Dahi",
+        "bnName": "মহিষের দুধের দই",
+        "desc": "Rich, creamy buffalo milk yogurt set in earthen pots"
+      }
+    ],
+    "culture": {
+      "history": "Land of brave rebel ruler Shamsher Gazi who defeated Tripura kings; vibrant literary legacy of Shahid Selina Parveen.",
+      "traditions": "River embankment family retreats, buffalo milk dairy crafts, and agrarian pride.",
+      "festivals": [
+        "Muhuri Picnic Carnival",
+        "Shamsher Gazi Mela"
+      ],
+      "summaryBn": "শমসের গাজীর বীরত্বগাথা, নদীবাঁধের মনোমুগ্ধকর প্রাকৃতিক সৌন্দর্য।"
+    },
+    "coverImage": "https://images.unsplash.com/photo-1500530855697-b586d89ba3ee?w=800&auto=format&fit=crop&q=80",
+    "quickFacts": {
+      "famousFor": "Muhuri Regulator, Shamsher Gazi, Khandal Mishti",
+      "mustTryDish": "Khandaler Mishti with Buffalo Milk Curd",
+      "nicknames": [
+        "Crossroads of South-East"
+      ]
+    }
+  },
+  {
+    "id": "noakhali",
+    "name": "Noakhali",
+    "bnName": "নোয়াখালী",
+    "geoName": "Noakhali",
+    "division": "Chattogram",
+    "divisionBn": "চট্টগ্রাম",
+    "lat": 22.8724,
+    "lng": 91.0973,
+    "areaKm2": 3686,
+    "tagline": "Nijhum Dwip spotted deer island & rich coconut groves",
+    "taglineBn": "নিঝুম দ্বীপের চিত্রল হরিণ, মহিষের দই ও নারকেলের রাজ্য",
+    "touristSpots": [
+      {
+        "name": "Nijhum Dwip",
+        "bnName": "নিঝুম দ্বীপ",
+        "desc": "Secluded offshore island sanctuary with thousands of wild spotted deer",
+        "image": "https://images.unsplash.com/photo-1470071459604-3b5ec3a7fe05?w=800&auto=format&fit=crop&q=80"
+      },
+      {
+        "name": "Gandhi Ashram Trust",
+        "bnName": "গান্ধী আশ্রম (জয়াগ)",
+        "desc": "Historic peace hermitage established during Mahatma Gandhi's 1946 visit",
+        "image": "https://images.unsplash.com/photo-1596895111956-bf1cf0599ce5?w=800&auto=format&fit=crop&q=80"
+      },
+      {
+        "name": "Bajra Shahi Mosque",
+        "bnName": "বজরা শাহী মসজিদ",
+        "desc": "Majestic Mughal mosque built in 1741 modeled on Delhi's Jama Masjid",
+        "image": "https://images.unsplash.com/photo-1608958435020-e8a7109ba809?w=800&auto=format&fit=crop&q=80"
+      },
+      {
+        "name": "Queen Laksmi Dighi",
+        "bnName": "কমলানগরের বাঁধ",
+        "desc": "Scenic coastal embankment",
+        "image": "https://images.unsplash.com/photo-1578632767115-351597cf2477?w=800&auto=format&fit=crop&q=80"
+      }
+    ],
+    "famousFoods": [
+      {
+        "name": "Buffalo Milk Curd",
+        "bnName": "মহিষের দুধের খাঁটি দই",
+        "desc": "Creamy thick yogurt made from island buffalo herds"
+      },
+      {
+        "name": "Coconut Delicacies (Narkel Naru)",
+        "bnName": "নারকেলের নাড়ু ও মিষ্টি",
+        "desc": "Crispy sweet balls crafted from grated coastal coconuts"
+      },
+      {
+        "name": "Meghna Hilsa",
+        "bnName": "মেঘনার টাটকা ইলিশ",
+        "desc": "Silver Hilsa netted from the Meghna estuary"
+      }
+    ],
+    "culture": {
+      "history": "Ancient Bhulua kingdom; renowned worldwide for the historic 1946 peace mission of Mahatma Gandhi at Jayag.",
+      "traditions": "Distinctive coastal dialect, dynamic diaspora entrepreneurship, and island deer protection.",
+      "festivals": [
+        "Gandhi Peace Convention",
+        "Nijhum Dwip Island Fest"
+      ],
+      "summaryBn": "ঐতিহাসিক গান্ধী আশ্রমের অহিংস বার্তা, উপকূলীয় সংগ্রামী জীবন ও দ্বীপের সৌন্দর্য।"
+    },
+    "coverImage": "https://images.unsplash.com/photo-1470071459604-3b5ec3a7fe05?w=800&auto=format&fit=crop&q=80",
+    "quickFacts": {
+      "famousFor": "Nijhum Dwip, Gandhi Ashram, Bajra Shahi Mosque",
+      "mustTryDish": "Authentic Buffalo Curd with Date Molasses",
+      "nicknames": [
+        "Land of the Royal Bhulua"
+      ]
+    }
+  },
+  {
+    "id": "lakshmipur",
+    "name": "Lakshmipur",
+    "bnName": "লক্ষ্মীপুর",
+    "geoName": "Lakshmipur",
+    "division": "Chattogram",
+    "divisionBn": "চট্টগ্রাম",
+    "lat": 22.9447,
+    "lng": 90.8282,
+    "areaKm2": 1440,
+    "tagline": "Capital of golden coconuts, betel nut palms & Meghna river shores",
+    "taglineBn": "সুপারি ও নারকেলের প্রাচুর্য, দালাল বাজার জমিদার বাড়ি",
+    "touristSpots": [
+      {
+        "name": "Dalal Bazar Zamindar Bari",
+        "bnName": "দালাল বাজার জমিদার বাড়ি",
+        "desc": "Centuries-old aristocratic palace and gardens",
+        "image": "https://images.unsplash.com/photo-1578632767115-351597cf2477?w=800&auto=format&fit=crop&q=80"
+      },
+      {
+        "name": "Khoa Sagor Dighi",
+        "bnName": "খোয়া সাগর দিঘি",
+        "desc": "Vast historic lake shrouded in morning mist",
+        "image": "https://images.unsplash.com/photo-1588083949404-c4f1ed1323b3?w=800&auto=format&fit=crop&q=80"
+      },
+      {
+        "name": "Ramgati Beach",
+        "bnName": "রামগতি মেঘনা নদীর পাড়",
+        "desc": "River beach where the mighty Meghna surges toward the sea",
+        "image": "https://images.unsplash.com/photo-1609137144813-7d9921338f24?w=800&auto=format&fit=crop&q=80"
+      },
+      {
+        "name": "Tita Khan Mosque",
+        "bnName": "তেতা খাঁ জামে মসজিদ",
+        "desc": "Heritage Islamic structure with historical brickwork",
+        "image": "https://images.unsplash.com/photo-1544735716-392fe2489ffa?w=800&auto=format&fit=crop&q=80"
+      }
+    ],
+    "famousFoods": [
+      {
+        "name": "Buffalo Curd",
+        "bnName": "মহিষের দই",
+        "desc": "Thick artisanal curd eaten with local jaggery"
+      },
+      {
+        "name": "Betel Nuts & Coconuts",
+        "bnName": "সুপারি ও নারকেল",
+        "desc": "Highest yielding betel nut groves in Bangladesh"
+      },
+      {
+        "name": "River Fish Curries",
+        "bnName": "নদীর তরতাজা মাছ",
+        "desc": "Fresh sweet Meghna catches"
+      }
+    ],
+    "culture": {
+      "history": "Prominent trade corridor on the lower Meghna delta; rich agricultural economy of betel nut exports.",
+      "traditions": "Betel nut harvesting season, river erosion resilience, and maritime trade stories.",
+      "festivals": [
+        "Boishakhi Supari Mela",
+        "Meghna Riverside Regatta"
+      ],
+      "summaryBn": "সুপারি উৎপাদনের শীর্ষ জেলা, উপকূলীয় অর্থনীতি ও মেঘনা নদীর প্রভাব।"
+    },
+    "coverImage": "https://images.unsplash.com/photo-1507525428034-b723cf961d3e?w=800&auto=format&fit=crop&q=80",
+    "quickFacts": {
+      "famousFor": "Betel Nut production, Dalal Bazar, Buffalo Curd",
+      "mustTryDish": "Meghna River Hilsa & Buffalo Dahi",
+      "nicknames": [
+        "Betel Nut Capital"
+      ]
+    }
+  },
+  {
+    "id": "chandpur",
+    "name": "Chandpur",
+    "bnName": "চাঁদপুর",
+    "geoName": "Chandpur",
+    "division": "Chattogram",
+    "divisionBn": "চট্টগ্রাম",
+    "lat": 23.2333,
+    "lng": 90.6667,
+    "areaKm2": 1645,
+    "tagline": "The City of Hilsa & the majestic confluence of Padma-Meghna-Dakatia",
+    "taglineBn": "রূপালি ইলিশের বাড়ি ও ত্রিনদীর মোহনার শহর",
+    "touristSpots": [
+      {
+        "name": "Mollakandi Mohona (Estuary)",
+        "bnName": "বড় স্টেশন মোলহেড (তিন নদীর মোহনা)",
+        "desc": "Spectacular convergence point where Padma, Meghna, and Dakatia join",
+        "image": "https://images.unsplash.com/photo-1507525428034-b723cf961d3e?w=800&auto=format&fit=crop&q=80"
+      },
+      {
+        "name": "Rupsa Zamindar Bari",
+        "bnName": "রূপসা জমিদার বাড়ি",
+        "desc": "Historical manor showcasing British and Mughal motifs",
+        "image": "https://images.unsplash.com/photo-1571003123894-1f0594d2b5d9?w=800&auto=format&fit=crop&q=80"
+      },
+      {
+        "name": "Hajiganj Grand Mosque",
+        "bnName": "হাজীগঞ্জ ঐতিহাসিক বড় মসজিদ",
+        "desc": "One of the largest congregational mosques in Bengal",
+        "image": "https://images.unsplash.com/photo-1518495973542-4542c06a5843?w=800&auto=format&fit=crop&q=80"
+      },
+      {
+        "name": "Chandpur Launch Ghat",
+        "bnName": "চাঁদপুর লঞ্চঘাট",
+        "desc": "Bustling river terminal with passenger vessels",
+        "image": "https://images.unsplash.com/photo-1448375240586-882707db888b?w=800&auto=format&fit=crop&q=80"
+      }
+    ],
+    "famousFoods": [
+      {
+        "name": "Original Chandpur Padma Hilsa",
+        "bnName": "চাঁদপুরের আসল রূপালি ইলিশ",
+        "desc": "The most revered freshwater Hilsa fish in the world, prized for sweet fatty flavor"
+      },
+      {
+        "name": "One-Minute Ice Cream",
+        "bnName": "ওয়ান মিনিট আইসক্রিম",
+        "desc": "Famous heritage milk soft-serve ice cream in town"
+      },
+      {
+        "name": "Hilsa Eggs & Fish Head Curry",
+        "bnName": "ইলিশের ডিম ভুনা ও মুড়ঘণ্ট",
+        "desc": "Rich delicacy cooked with mustard and aromatic spices"
+      }
+    ],
+    "culture": {
+      "history": "The undisputed fish trade capital of Bangladesh; major river navigation nexus since colonial times.",
+      "traditions": "Hilsa fishing auctions at dawn, steamer whistles, and riverine songs of the Padma-Meghna.",
+      "festivals": [
+        "National Hilsa Festival",
+        "Mohona Cultural Fair"
+      ],
+      "summaryBn": "ইলিশের রাজধানী, লঞ্চযাত্রার রোমাঞ্চ এবং পদ্মা-মেঘনা-ডাকাতিয়ার মিলনমেলা।"
+    },
+    "coverImage": "https://images.unsplash.com/photo-1507525428034-b723cf961d3e?w=800&auto=format&fit=crop&q=80",
+    "quickFacts": {
+      "famousFor": "Padma Hilsa, Three-River Confluence, Launch Ghat",
+      "mustTryDish": "Sorshe Hilsa (Mustard Hilsa) & One Minute Ice Cream",
+      "nicknames": [
+        "City of Hilsa"
+      ]
+    }
+  },
+  {
+    "id": "brahmanbaria",
+    "name": "Brahmanbaria",
+    "bnName": "ব্রাহ্মণবাড়িয়া",
+    "geoName": "Brahmanbaria",
+    "division": "Chattogram",
+    "divisionBn": "চট্টগ্রাম",
+    "lat": 23.9571,
+    "lng": 91.1119,
+    "areaKm2": 1927,
+    "tagline": "The cultural capital of classical music & sweet Chhanar Mukhi",
+    "taglineBn": "সুরসম্রাট ওস্তাদ আলাউদ্দিন খাঁর স্মৃতি ও ছানামুখীর আদি ভূমি",
+    "touristSpots": [
+      {
+        "name": "Ustad Alauddin Khan Sangeetangan",
+        "bnName": "ওস্তাদ আলাউদ্দিন খাঁ স্মৃতি ভবন",
+        "desc": "Music academy honoring the father of modern Indian classical instrumental music",
+        "image": "https://images.unsplash.com/photo-1518495973542-4542c06a5843?w=800&auto=format&fit=crop&q=80"
+      },
+      {
+        "name": "Kailashkilla Gas Field & Park",
+        "bnName": "তিতাস গ্যাস ক্ষেত্র",
+        "desc": "Heart of Bangladesh's natural energy resources",
+        "image": "https://images.unsplash.com/photo-1506744038136-46273834b3fb?w=800&auto=format&fit=crop&q=80"
+      },
+      {
+        "name": "Kallkhal Lake",
+        "bnName": "কালিকচ্ছ আনন্দময়ী আশ্রম",
+        "desc": "Historic Hindu hermitage on serene lake",
+        "image": "https://images.unsplash.com/photo-1464822759023-fed622ff2c3b?w=800&auto=format&fit=crop&q=80"
+      },
+      {
+        "name": "Arifil Mosque",
+        "bnName": "আরিফাইল মসজিদ (সরাইল)",
+        "desc": "1662 Mughal Sultanate architecture with twin domes",
+        "image": "https://images.unsplash.com/photo-1470071459604-3b5ec3a7fe05?w=800&auto=format&fit=crop&q=80"
+      }
+    ],
+    "famousFoods": [
+      {
+        "name": "Chhanar Mukhi",
+        "bnName": "ছানামুখী",
+        "desc": "GI-certified crystalline milk curd cubes coated in dry sugar crust"
+      },
+      {
+        "name": "Titas River Freshwater Fish",
+        "bnName": "তিতাস নদীর তাজা মাছ",
+        "desc": "Immortalized in the classic epic novel 'Titas Ekti Nadir Naam'"
+      },
+      {
+        "name": "Brahmanbaria Rosomalai",
+        "bnName": "রসমালাই",
+        "desc": "Pure soft cottage cheese spheres in saffron milk"
+      }
+    ],
+    "culture": {
+      "history": "Cradle of maestros: Ustad Alauddin Khan, Ustad Ayet Ali Khan, and world-renowned Sarod tradition.",
+      "traditions": "Haseb (Sarail Hound breeding), boat races on Titas river, and classical instrumental mastery.",
+      "festivals": [
+        "Alauddin Classical Music Festival",
+        "Titas River Boat Race"
+      ],
+      "summaryBn": "শাস্ত্রীয় সংগীতের পাদপীঠ, সুরসম্রাটের জন্মভূমি এবং জিআই পণ্য ছানামুখীর সুখ্যাতি।"
+    },
+    "coverImage": "https://images.unsplash.com/photo-1518495973542-4542c06a5843?w=800&auto=format&fit=crop&q=80",
+    "quickFacts": {
+      "famousFor": "Ustad Alauddin Khan, Chhanar Mukhi, Titas River",
+      "mustTryDish": "GI-Certified Chhanar Mukhi",
+      "nicknames": [
+        "Cultural Capital of Bengal Music"
+      ]
+    }
+  },
+  {
+    "id": "sylhet",
+    "name": "Sylhet",
+    "bnName": "সিলেট",
+    "geoName": "Sylhet",
+    "division": "Sylhet",
+    "divisionBn": "সিলেট",
+    "lat": 24.8949,
+    "lng": 91.8687,
+    "areaKm2": 3490,
+    "tagline": "Spiritual heart of Hazrat Shah Jalal & lush emerald tea estates",
+    "taglineBn": "হযরত শাহজালালের পুণ্যভূমি, দুটি পাতা একটি কুঁড়ির শ্যামল দেশ",
+    "touristSpots": [
+      {
+        "name": "Shrine of Hazrat Shah Jalal",
+        "bnName": "হযরত শাহজালাল (রঃ) এর মাজার",
+        "desc": "Historic 14th-century Sufi pilgrimage shrine and spring",
+        "image": "https://images.unsplash.com/photo-1544735716-392fe2489ffa?w=800&auto=format&fit=crop&q=80"
+      },
+      {
+        "name": "Ratargul Swamp Forest",
+        "bnName": "রাতারগুল সোয়াম্প ফরেস্ট",
+        "desc": "Only freshwater submerged swamp forest in Bangladesh navigated by wooden canoes",
+        "image": "https://images.unsplash.com/photo-1513836279014-a89f7a76ae86?w=800&auto=format&fit=crop&q=80"
+      },
+      {
+        "name": "Jaflong & Piyain River",
+        "bnName": "জাফলং ও পিয়াইন নদী",
+        "desc": "Crystal clear pebble river rolling down Khasi hills with hanging bridge",
+        "image": "https://images.unsplash.com/photo-1500530855697-b586d89ba3ee?w=800&auto=format&fit=crop&q=80"
+      },
+      {
+        "name": "Bichanakandi",
+        "bnName": "বিছনাকান্দি",
+        "desc": "Picturesque spot where Meghalaya waterfalls flow over stony riverbeds",
+        "image": "https://images.unsplash.com/photo-1507525428034-b723cf961d3e?w=800&auto=format&fit=crop&q=80"
+      },
+      {
+        "name": "Malnicherra Tea Estate",
+        "bnName": "মালনীছড়া চা বাগান",
+        "desc": "Oldest commercial tea garden in the Indian subcontinent established 1854",
+        "image": "https://images.unsplash.com/photo-1509316975850-ff9c5deb0cd9?w=800&auto=format&fit=crop&q=80"
+      }
+    ],
+    "famousFoods": [
+      {
+        "name": "Satkora Beef",
+        "bnName": "সাতকড়া দিয়ে গরুর মাংস",
+        "desc": "Tender beef infused with the citrusy, aromatic wild Satkora fruit"
+      },
+      {
+        "name": "Sylheti Seven-Color Tea",
+        "bnName": "সাত রঙের চা",
+        "desc": "Layered colorful rainbow tea created in Sreemangal"
+      },
+      {
+        "name": "Pani Pitha & Nunor Bora",
+        "bnName": "নুনর বরা ও চুঙ্গাপুড়া পিঠা",
+        "desc": "Traditional savory rice dumplings and bamboo-roasted sticky rice cakes"
+      },
+      {
+        "name": "Bakarkhani (Sylheti)",
+        "bnName": "সিলেটি বাকরখানি",
+        "desc": "Sweet, buttery layered bread with cardamom"
+      }
+    ],
+    "culture": {
+      "history": "Arrival of saint Hazrat Shah Jalal in 1303 AD; distinctive ancient Sylheti Nagri script and deep Sufi spiritualism.",
+      "traditions": "Tea picking folklore, London-Sylhet global diaspora ties, and winter pitha soirees.",
+      "festivals": [
+        "Shah Jalal Annual Urs",
+        "Monsoon Boat Expeditions"
+      ],
+      "summaryBn": "হযরত শাহজালাল ও শাহপরানের পুণ্যভূমি, চা বাগান, সুরমা নদী এবং সমৃদ্ধ সিলেটি সংস্কৃতি।"
+    },
+    "coverImage": "https://images.unsplash.com/photo-1544735716-392fe2489ffa?w=800&auto=format&fit=crop&q=80",
+    "quickFacts": {
+      "famousFor": "Ratargul Swamp, Jaflong, Shah Jalal Dargah, Tea Gardens",
+      "mustTryDish": "Satkora Beef Curry & Seven Layer Tea",
+      "nicknames": [
+        "Land of Saints & Tea"
+      ]
+    }
+  },
+  {
+    "id": "moulvibazar",
+    "name": "Moulvibazar",
+    "bnName": "মৌলভীবাজার",
+    "geoName": "Moulvibazar",
+    "division": "Sylhet",
+    "divisionBn": "সিলেট",
+    "lat": 24.4829,
+    "lng": 91.7774,
+    "areaKm2": 2799,
+    "tagline": "Tea capital of Bangladesh, Madhabkunda waterfall & Lawachara rainforest",
+    "taglineBn": "চায়ের রাজধানী শ্রীমঙ্গল, মাধবকুণ্ড জলপ্রপাত ও লাউয়াছড়া বন",
+    "touristSpots": [
+      {
+        "name": "Sreemangal Tea Estates",
+        "bnName": "শ্রীমঙ্গল চা বাগান",
+        "desc": "Endless rolling green hills covered in velvety tea bushes",
+        "image": "https://images.unsplash.com/photo-1518495973542-4542c06a5843?w=800&auto=format&fit=crop&q=80"
+      },
+      {
+        "name": "Lawachara National Park",
+        "bnName": "লাউয়াছড়া জাতীয় উদ্যান",
+        "desc": "Evergreen rainforest home to endangered Hoolock Gibbons",
+        "image": "https://images.unsplash.com/photo-1509316975850-ff9c5deb0cd9?w=800&auto=format&fit=crop&q=80"
+      },
+      {
+        "name": "Madhabkunda Waterfall",
+        "bnName": "মাধবকুণ্ড জলপ্রপাত",
+        "desc": "Bangladesh's highest continuous natural waterfall leaping off rocky cliffs",
+        "image": "https://images.unsplash.com/photo-1596895111956-bf1cf0599ce5?w=800&auto=format&fit=crop&q=80"
+      },
+      {
+        "name": "Baikka Beel",
+        "bnName": "বাইক্কা বিল",
+        "desc": "Protected wetland bird sanctuary visited by thousands of migratory birds",
+        "image": "https://images.unsplash.com/photo-1608958435020-e8a7109ba809?w=800&auto=format&fit=crop&q=80"
+      },
+      {
+        "name": "Hum Hum Waterfall",
+        "bnName": "হামহাম ঝর্ণা",
+        "desc": "Deep jungle multi-cascade adventure trek",
+        "image": "https://images.unsplash.com/photo-1578632767115-351597cf2477?w=800&auto=format&fit=crop&q=80"
+      }
+    ],
+    "famousFoods": [
+      {
+        "name": "Seven-Layer Tea at Nilkantha",
+        "bnName": "নীলকণ্ঠের সাত রঙের চা",
+        "desc": "The iconic multi-layered tea created by Romesh Ram Gour"
+      },
+      {
+        "name": "Monipuri Bamboo Shoot Dish",
+        "bnName": "মণিপুরী খাবার (বাঁশকড়ল ও পিঠা)",
+        "desc": "Authentic organic preparations by indigenous Manipuri artists"
+      },
+      {
+        "name": "Sylhet Special Sweetmeats",
+        "bnName": "আখনি ও পোলাও",
+        "desc": "Fragrant festive meat rice with ghee"
+      }
+    ],
+    "culture": {
+      "history": "Heart of the British Assam-Bengal tea trade; sanctuary of Manipuri dance and handloom culture.",
+      "traditions": "Manipuri Raas Leela full moon festival, tribal handloom shawls, and rubber plantation life.",
+      "festivals": [
+        "Manipuri Raas Leela Festival",
+        "Sreemangal Tea Carnival"
+      ],
+      "summaryBn": "চা শ্রমিকদের জীবনগাথা, লাউয়াছড়ার জীববৈচিত্র্য এবং মণিপুরী নৃত্য ও তাঁতের সংস্কৃতি।"
+    },
+    "coverImage": "https://images.unsplash.com/photo-1518495973542-4542c06a5843?w=800&auto=format&fit=crop&q=80",
+    "quickFacts": {
+      "famousFor": "Tea Capital Sreemangal, Lawachara, Madhabkunda, Raas Leela",
+      "mustTryDish": "Original 7-Layer Tea & Satkora Curry",
+      "nicknames": [
+        "Tea Capital of Bangladesh"
+      ]
+    }
+  },
+  {
+    "id": "sunamganj",
+    "name": "Sunamganj",
+    "bnName": "সুনামগঞ্জ",
+    "geoName": "Sunamganj",
+    "division": "Sylhet",
+    "divisionBn": "সিলেট",
+    "lat": 25.0658,
+    "lng": 91.395,
+    "areaKm2": 3670,
+    "tagline": "Tanguar Haor Ramsar wetland & homeland of Baul king Hason Raja",
+    "taglineBn": "টাঙ্গুয়ার হাওরের জীবন্ত রূপ ও মরমি কবি হাসন রাজার দেশ",
+    "touristSpots": [
+      {
+        "name": "Tanguar Haor",
+        "bnName": "টাঙ্গুয়ার হাওর (রামসার সাইট)",
+        "desc": "Global Ramsar site featuring shimmering waters, houseboats, and migratory birds",
+        "image": "https://images.unsplash.com/photo-1506744038136-46273834b3fb?w=800&auto=format&fit=crop&q=80"
+      },
+      {
+        "name": "Hason Raja Memorial Museum",
+        "bnName": "মরমি কবি হাসন রাজার বাড়ি",
+        "desc": "Palace of mystic king whose songs 'Loke Bole Bole Re' echo through Bengal",
+        "image": "https://images.unsplash.com/photo-1578632767115-351597cf2477?w=800&auto=format&fit=crop&q=80"
+      },
+      {
+        "name": "Jadukata River & Barek Tila",
+        "bnName": "জাদুকাটা নদী ও বারেক টিলা",
+        "desc": "Turquoise mountain river winding past green border hills",
+        "image": "https://images.unsplash.com/photo-1588083949404-c4f1ed1323b3?w=800&auto=format&fit=crop&q=80"
+      },
+      {
+        "name": "Shimul Bagan",
+        "bnName": "শিমুল বাগান",
+        "desc": "Vast orchard of thousands of red silk cotton trees bursting into fiery bloom in spring",
+        "image": "https://images.unsplash.com/photo-1609137144813-7d9921338f24?w=800&auto=format&fit=crop&q=80"
+      }
+    ],
+    "famousFoods": [
+      {
+        "name": "Haor Freshwater Fish Feast",
+        "bnName": "হাওরের তাজা মাছ ও শুটকি",
+        "desc": "Fresh Boal, Shole, and Pabda caught from clean haor currents"
+      },
+      {
+        "name": "Chunga Pitha",
+        "bnName": "চুঙ্গাপুড়া পিঠা",
+        "desc": "Sticky rice infused with coconut water and smoked inside wild bamboo stems"
+      }
+    ],
+    "culture": {
+      "history": "Cradle of mystic Baul philosophers Hason Raja, Shah Abdul Karim, and Radharaman Dutta.",
+      "traditions": "Haor houseboat cruising, Baul gaan all-night sessions, and seasonal migration lifestyle.",
+      "festivals": [
+        "Shah Abdul Karim Memorial Fair",
+        "Hason Raja Festival",
+        "Shimul Spring Mela"
+      ],
+      "summaryBn": "বাউল গানের অমর ভূমি (হাসন রাজা, শাহ আবদুল করিম), টাঙ্গুয়ার হাওরের অপরূপ জলপ্রকৃতি।"
+    },
+    "coverImage": "https://images.unsplash.com/photo-1506744038136-46273834b3fb?w=800&auto=format&fit=crop&q=80",
+    "quickFacts": {
+      "famousFor": "Tanguar Haor, Hason Raja, Shimul Bagan, Jadukata",
+      "mustTryDish": "Haor Shole Fish Curry with Chunga Pitha",
+      "nicknames": [
+        "Land of Mystics & Haor"
+      ]
+    }
+  },
+  {
+    "id": "habiganj",
+    "name": "Habiganj",
+    "bnName": "হবিগঞ্জ",
+    "geoName": "Habiganj",
+    "division": "Sylhet",
+    "divisionBn": "সিলেট",
+    "lat": 24.3749,
+    "lng": 91.4155,
+    "areaKm2": 2637,
+    "tagline": "Ancient Satchari National Park & peaceful tea undulating valleys",
+    "taglineBn": "সাতছড়ি জাতীয় উদ্যান, রেমা-কালেঙ্গা ও চা বাগানের স্নিগ্ধ রূপ",
+    "touristSpots": [
+      {
+        "name": "Satchari National Park",
+        "bnName": "সাতছড়ি জাতীয় উদ্যান",
+        "desc": "Lush wildlife reserve famous for walking nature canopy bridges",
+        "image": "https://images.unsplash.com/photo-1448375240586-882707db888b?w=800&auto=format&fit=crop&q=80"
+      },
+      {
+        "name": "Rema-Kalenga Wildlife Sanctuary",
+        "bnName": "রেমা-কালেঙ্গা বন্যপ্রাণী অভয়ারণ্য",
+        "desc": "Second largest natural forest reserve in Bangladesh",
+        "image": "https://images.unsplash.com/photo-1544735716-392fe2489ffa?w=800&auto=format&fit=crop&q=80"
+      },
+      {
+        "name": "Shankar Pasha Shahi Mosque",
+        "bnName": "উচাইল শঙ্করপাশা শাহী মসজিদ",
+        "desc": "15th-century red terracotta Sultanate monument",
+        "image": "https://images.unsplash.com/photo-1571003123894-1f0594d2b5d9?w=800&auto=format&fit=crop&q=80"
+      },
+      {
+        "name": "Baniachong Village",
+        "bnName": "বানিয়াচং গ্রাম",
+        "desc": "World's largest recorded village community with historic dighis",
+        "image": "https://images.unsplash.com/photo-1518495973542-4542c06a5843?w=800&auto=format&fit=crop&q=80"
+      }
+    ],
+    "famousFoods": [
+      {
+        "name": "Dry Fish (Shutki) Curries",
+        "bnName": "হবিগঞ্জের চ্যাপা শুটকি",
+        "desc": "Rich fermented semi-dry fish stew cooked with garlic and fiery chili"
+      },
+      {
+        "name": "Sylheti Beef Satkora",
+        "bnName": "সাতকড়া মাংস",
+        "desc": "Flavorful beef curry stewed with bitter-sweet citrus"
+      },
+      {
+        "name": "Local Pitha",
+        "bnName": "স্থানীয় পিঠা",
+        "desc": "Handcrafted rice and date syrup delicacies"
+      }
+    ],
+    "culture": {
+      "history": "Kingdom of the ancient Baro-Bhuiyan kings and ancient village of Baniachong, birthplace of BRAC founder Sir Fazle Hasan Abed.",
+      "traditions": "Indigenous Tipra and Khasia rituals, tea estate folk songs, and historic village councils.",
+      "festivals": [
+        "Satchari Nature Festival",
+        "Baniachong Boat Race"
+      ],
+      "summaryBn": "সাতছড়ির চিরহরিৎ বন, পৃথিবীর বৃহত্তম গ্রাম বানিয়াচং এবং প্রাচীন সুলতানি মসজিদ।"
+    },
+    "coverImage": "https://images.unsplash.com/photo-1448375240586-882707db888b?w=800&auto=format&fit=crop&q=80",
+    "quickFacts": {
+      "famousFor": "Satchari National Park, Baniachong (Largest Village), Rema-Kalenga",
+      "mustTryDish": "Spicy Chepa Shutki Bhorta & Satkora Beef",
+      "nicknames": [
+        "Green Horizon"
+      ]
+    }
+  },
+  {
+    "id": "rajshahi",
+    "name": "Rajshahi",
+    "bnName": "রাজশাহী",
+    "geoName": "Rajshahi",
+    "division": "Rajshahi",
+    "divisionBn": "রাজশাহী",
+    "lat": 24.3636,
+    "lng": 88.6241,
+    "areaKm2": 2407,
+    "tagline": "The Silk City of Bangladesh, Mango orchards & historic Varendra Museum",
+    "taglineBn": "রেশম নগরী, সুমিষ্ট আমের রাজধানী ও বরেন্দ্র অঞ্চলের গৌরব",
+    "touristSpots": [
+      {
+        "name": "Varendra Research Museum",
+        "bnName": "বরেন্দ্র গবেষণা জাদুঘর",
+        "desc": "Oldest museum in Bangladesh founded in 1910 with priceless sculptures",
+        "image": "https://images.unsplash.com/photo-1518495973542-4542c06a5843?w=800&auto=format&fit=crop&q=80"
+      },
+      {
+        "name": "Padma River Garden",
+        "bnName": "পদ্মা নদীর পাড় ও টি-বাঁধ",
+        "desc": "Beautiful promenade and T-Groin where evening breezes blow across the Padma",
+        "image": "https://images.unsplash.com/photo-1448375240586-882707db888b?w=800&auto=format&fit=crop&q=80"
+      },
+      {
+        "name": "Puthia Temple Complex",
+        "bnName": "পুঠিয়া রাজবাড়ি ও মন্দির",
+        "desc": "Spectacular concentration of 19th-century Hindu terracotta temples and palaces",
+        "image": "https://images.unsplash.com/photo-1506744038136-46273834b3fb?w=800&auto=format&fit=crop&q=80"
+      },
+      {
+        "name": "Bagha Mosque",
+        "bnName": "বাঘা মসজিদ",
+        "desc": "1523 AD Sultanate terracotta masterpiece portrayed on the 50 Taka currency note",
+        "image": "https://images.unsplash.com/photo-1464822759023-fed622ff2c3b?w=800&auto=format&fit=crop&q=80"
+      },
+      {
+        "name": "Rajshahi Silk Factory",
+        "bnName": "সিল্ক পল্লি",
+        "desc": "Living heritage where fine Rajshahi mulberry silk fabrics are woven",
+        "image": "https://images.unsplash.com/photo-1470071459604-3b5ec3a7fe05?w=800&auto=format&fit=crop&q=80"
+      }
+    ],
+    "famousFoods": [
+      {
+        "name": "World-Class Mangoes (Khirsapat, Fazli)",
+        "bnName": "রাজশাহীর মিষ্টি আম (খিরসাপাত, গোপালভোগ, ল্যাংড়া, ফজলি)",
+        "desc": "The benchmark for sweetness, aroma, and royal variety"
+      },
+      {
+        "name": "Kalai Ruti with Duck/Mutton & Chili Dip",
+        "bnName": "কলাইয়ের রুটি ও হাঁসের মাংস / ঝাল ভর্তা",
+        "desc": "Signature black gram flatbread eaten with piping hot duck curry"
+      },
+      {
+        "name": "Rajshahi Pera Sandesh",
+        "bnName": "প্যারা সন্দেশ",
+        "desc": "Caramelized solid milk fudge sweet"
+      }
+    ],
+    "culture": {
+      "history": "Ancient Varendra center of Bengal art; premier university city and seat of historic Puthia royal estate.",
+      "traditions": "Silk reeling and weaving, summer mango harvest festivals, and peaceful riverside adda.",
+      "festivals": [
+        "National Mango Festival",
+        "Varendra Heritage Day",
+        "Silk Fashion Expo"
+      ],
+      "summaryBn": "রেশম শিল্প, বরেন্দ্র সংস্কৃতি, পুঠিয়ার অনন্য মন্দির ও পদ্মাপাড়ের শান্ত পরিবেশ।"
+    },
+    "coverImage": "https://images.unsplash.com/photo-1500530855697-b586d89ba3ee?w=800&auto=format&fit=crop&q=80",
+    "quickFacts": {
+      "famousFor": "Silk Sarees, Premium Mangoes, Puthia Temple, Bagha Mosque",
+      "mustTryDish": "Kalai Ruti with Spicy Duck Curry & Khirsapat Mango",
+      "nicknames": [
+        "Silk City",
+        "Mango Capital"
+      ]
+    }
+  },
+  {
+    "id": "bogra",
+    "name": "Bogra",
+    "bnName": "বগুড়া",
+    "geoName": "Bogura",
+    "division": "Rajshahi",
+    "divisionBn": "রাজশাহী",
+    "lat": 24.8465,
+    "lng": 89.377,
+    "areaKm2": 2920,
+    "tagline": "Ancient capital Mahasthangarh & world-famed Bogra Mishti Doi",
+    "taglineBn": "প্রাচীন পুণ্ড্রবর্ধনের রাজধানী মহাস্থানগড় ও বিশ্বখ্যাত বগুড়ার মিষ্টি দই",
+    "touristSpots": [
+      {
+        "name": "Mahasthangarh",
+        "bnName": "মহাস্থানগড়",
+        "desc": "3rd-century BC fortified citadel ruins of ancient Pundranagara on Karatoya river",
+        "image": "https://images.unsplash.com/photo-1464822759023-fed622ff2c3b?w=800&auto=format&fit=crop&q=80"
+      },
+      {
+        "name": "Govinda Bhita",
+        "bnName": "গোবিন্দ ভিটা",
+        "desc": "Excavated temple high on the ridge overlooking Karatoya",
+        "image": "https://images.unsplash.com/photo-1470071459604-3b5ec3a7fe05?w=800&auto=format&fit=crop&q=80"
+      },
+      {
+        "name": "Kherua Mosque",
+        "bnName": "খেরুয়া মসজিদ (শেরপুর)",
+        "desc": "1582 AD Mughal brick architecture with massive domes",
+        "image": "https://images.unsplash.com/photo-1513836279014-a89f7a76ae86?w=800&auto=format&fit=crop&q=80"
+      },
+      {
+        "name": "Nawab Palace Museum",
+        "bnName": "নবাব প্যালেস",
+        "desc": "Historic residence of the Bogra Nawab family",
+        "image": "https://images.unsplash.com/photo-1500530855697-b586d89ba3ee?w=800&auto=format&fit=crop&q=80"
+      }
+    ],
+    "famousFoods": [
+      {
+        "name": "Authentic Bogra Sweet Curd (Doi)",
+        "bnName": "বগুড়ার আসল মিষ্টি দই",
+        "desc": "Thick caramelized baked curd with glossy crust set in clay handis"
+      },
+      {
+        "name": "Mirzapuriya / Kholapora Sweets",
+        "bnName": "কটকটি ও খাস্তা কচুরি",
+        "desc": "Crunchy traditional snacks and delicacies"
+      }
+    ],
+    "culture": {
+      "history": "One of South Asia's oldest urban civilizations; administrative gateway linking North Bengal to the capital.",
+      "traditions": "Mahasthangarh archeological fairs, clay pot dairy craftsmanship, and dynamic light engineering industry.",
+      "festivals": [
+        "Mahasthan Baishakhi Mela",
+        "National Curd Festival"
+      ],
+      "summaryBn": "আড়াই হাজার বছরের প্রাচীন পুণ্ড্রনগর সভ্যতা এবং বগুড়ার ঐতিহ্যবাহী সুস্বাদু দই।"
+    },
+    "coverImage": "https://images.unsplash.com/photo-1470071459604-3b5ec3a7fe05?w=800&auto=format&fit=crop&q=80",
+    "quickFacts": {
+      "famousFor": "Bogra Mishti Doi, Mahasthangarh ruins, Industrial hub",
+      "mustTryDish": "Authentic Bogra Mishti Doi from Asian/Gourogopal",
+      "nicknames": [
+        "Gateway to North Bengal"
+      ]
+    }
+  },
+  {
+    "id": "pabna",
+    "name": "Pabna",
+    "bnName": "পাবনা",
+    "geoName": "Pabna",
+    "division": "Rajshahi",
+    "divisionBn": "রাজশাহী",
+    "lat": 24.0064,
+    "lng": 89.2372,
+    "areaKm2": 2372,
+    "tagline": "Rabindranath Tagore's Shilaidaha tribute, Paksey bridge & nuclear landmark",
+    "taglineBn": "বিশ্বকবি রবীন্দ্রনাথের স্মৃতিধন্য শিলাইদহ সংলগ্ন জনপদ ও পাকশী রূপপুর",
+    "touristSpots": [
+      {
+        "name": "Tarash Rajbari",
+        "bnName": "তাড়াশ রাজবাড়ি",
+        "desc": "Historic 18th-century palace of the Zamindars of Tarash",
+        "image": "https://images.unsplash.com/photo-1500530855697-b586d89ba3ee?w=800&auto=format&fit=crop&q=80"
+      },
+      {
+        "name": "Hardinge Bridge & Lalon Shah Bridge",
+        "bnName": "হার্ডিঞ্জ ব্রিজ ও লালন শাহ সেতু (পাকশী)",
+        "desc": "Historic 1912 steel truss railway bridge engineering marvel over Padma river",
+        "image": "https://images.unsplash.com/photo-1507525428034-b723cf961d3e?w=800&auto=format&fit=crop&q=80"
+      },
+      {
+        "name": "Anukul Chandra Ashram",
+        "bnName": "শ্রী শ্রী অনুকূলচন্দ্রের সৎসঙ্গ আশ্রম",
+        "desc": "Spiritual center attracting devotees from around the globe",
+        "image": "https://images.unsplash.com/photo-1509316975850-ff9c5deb0cd9?w=800&auto=format&fit=crop&q=80"
+      },
+      {
+        "name": "Rooppur Landmark",
+        "bnName": "রূপপুর প্রকল্প এলাকা",
+        "desc": "Site of Bangladesh's premier nuclear power development",
+        "image": "https://images.unsplash.com/photo-1596895111956-bf1cf0599ce5?w=800&auto=format&fit=crop&q=80"
+      }
+    ],
+    "famousFoods": [
+      {
+        "name": "Pabna Pure Ghee",
+        "bnName": "পাবনার খাঁটি ঘি",
+        "desc": "Golden aromatic clarified butter from pasture-grazed cattle"
+      },
+      {
+        "name": "Pabna Chomchom",
+        "bnName": "পাবনার চমচম",
+        "desc": "Delectable spongy sweet sprinkled with mawa"
+      },
+      {
+        "name": "Fresh Dairy Milk Sweets",
+        "bnName": "প্যারা সন্দেশ ও ছানা",
+        "desc": "Rich milk fudge and curds"
+      }
+    ],
+    "culture": {
+      "history": "Rich heritage of Tagore family zamindari administration; pioneering mental health and pharmacology institutions.",
+      "traditions": "Dairy farming on Padma silt floodplains, handloom lungi weaving, and Tagore songs.",
+      "festivals": [
+        "Rabindra Birth Anniversary Fair",
+        "Paksey Riverfront Gathering"
+      ],
+      "summaryBn": "রবীন্দ্রনাথের সাহিত্যিক স্মৃতি, হার্ডিঞ্জ ব্রিজের বিস্ময়কর নির্মাণশৈলী ও ঐতিহ্যবাহী ঘি-দুধ।"
+    },
+    "coverImage": "https://images.unsplash.com/photo-1500530855697-b586d89ba3ee?w=800&auto=format&fit=crop&q=80",
+    "quickFacts": {
+      "famousFor": "Hardinge Bridge, Pabna Ghee, Anukul Chandra Ashram",
+      "mustTryDish": "Pabna Ghee with Fresh Rice & Chomchom",
+      "nicknames": [
+        "Dairy Capital of North Bengal"
+      ]
+    }
+  },
+  {
+    "id": "natore",
+    "name": "Natore",
+    "bnName": "নাটোর",
+    "geoName": "Natore",
+    "division": "Rajshahi",
+    "divisionBn": "রাজশাহী",
+    "lat": 24.4102,
+    "lng": 88.9796,
+    "areaKm2": 1896,
+    "tagline": "Rani Bhabani's grand palace, Chalan Beel & authentic Kachagolla",
+    "taglineBn": "মহীয়সী রানী ভবানীর রাজবাড়ি, চলনবিল ও আসল কাঁচাগোল্লা",
+    "touristSpots": [
+      {
+        "name": "Natore Rajbari (Rani Bhabani Palace)",
+        "bnName": "নাটোর রাজবাড়ি (রানী ভবানীর প্রাসাদ)",
+        "desc": "Sprawling royal complex of grand palaces, moats, and temples",
+        "image": "https://images.unsplash.com/photo-1596895111956-bf1cf0599ce5?w=800&auto=format&fit=crop&q=80"
+      },
+      {
+        "name": "Uttara Gonobhaban (Dighapatia Palace)",
+        "bnName": "উত্তরা গণভবন (দিঘাপতিয়া রাজবাড়ি)",
+        "desc": "Splendid official northern state residence surrounded by landscaped moats",
+        "image": "https://images.unsplash.com/photo-1608958435020-e8a7109ba809?w=800&auto=format&fit=crop&q=80"
+      },
+      {
+        "name": "Chalan Beel",
+        "bnName": "চলনবিল",
+        "desc": "Vastest freshwater wetland in Bangladesh with endless aquatic vistas",
+        "image": "https://images.unsplash.com/photo-1578632767115-351597cf2477?w=800&auto=format&fit=crop&q=80"
+      }
+    ],
+    "famousFoods": [
+      {
+        "name": "Natore Authentic Kachagolla",
+        "bnName": "নাটোরের আসল কাঁচাগোল্লা",
+        "desc": "GI-certified sweet made of pure soft cottage cheese grains coated in sweet syrup"
+      }
+    ],
+    "culture": {
+      "history": "Capital of Bengal under benevolent queen Rani Bhabani in the 18th century; immortalized in Jibanananda Das's poem 'Banalata Sen'.",
+      "traditions": "Wetland fishing regattas in Chalan Beel, royal architectural preservation, and artisanal confectionery.",
+      "festivals": [
+        "Chalan Beel Regatta",
+        "Rani Bhabani Heritage Fair"
+      ],
+      "summaryBn": "রানী ভবানীর দানশীলতার ইতিহাস, বনলতা সেনের কাব্যিক নাটোর ও কাঁচাগোল্লার স্বাদ।"
+    },
+    "coverImage": "https://images.unsplash.com/photo-1544735716-392fe2489ffa?w=800&auto=format&fit=crop&q=80",
+    "quickFacts": {
+      "famousFor": "Kachagolla, Uttara Gonobhaban, Rani Bhabani Palace, Chalan Beel",
+      "mustTryDish": "GI-Certified Natore Kachagolla",
+      "nicknames": [
+        "Queen Bhabani's Realm",
+        "Home of Banalata Sen"
+      ]
+    }
+  },
+  {
+    "id": "sirajganj",
+    "name": "Sirajganj",
+    "bnName": "সিরাজগঞ্জ",
+    "geoName": "Sirajganj",
+    "division": "Rajshahi",
+    "divisionBn": "রাজশাহী",
+    "lat": 24.4534,
+    "lng": 89.7008,
+    "areaKm2": 2498,
+    "tagline": "Gateway to Bangabandhu Jamuna Bridge & handloom lungi empire",
+    "taglineBn": "বঙ্গবন্ধু যমুনা সেতু, তাঁতশিল্পের স্বর্গ ও ঐতিহ্যবাহী পানতোয়া",
+    "touristSpots": [
+      {
+        "name": "Bangabandhu Jamuna Bridge",
+        "bnName": "বঙ্গবন্ধু যমুনা সেতু ও ইকোপার্ক",
+        "desc": "4.8 km iconic bridge linking East and West Bangladesh across the ferocious Jamuna",
+        "image": "https://images.unsplash.com/photo-1507525428034-b723cf961d3e?w=800&auto=format&fit=crop&q=80"
+      },
+      {
+        "name": "Navaratna Temple",
+        "bnName": "নবরত্ন মন্দির (হাটিকুমরুল)",
+        "desc": "Spectacular 18th-century nine-spire terracotta temple",
+        "image": "https://images.unsplash.com/photo-1609137144813-7d9921338f24?w=800&auto=format&fit=crop&q=80"
+      },
+      {
+        "name": "Rabindra Memorial Kuthibari",
+        "bnName": "শাহজাদপুর রবীন্দ্র কাচারী বাড়ি",
+        "desc": "Historic mansion where Tagore wrote numerous songs and short stories",
+        "image": "https://images.unsplash.com/photo-1544735716-392fe2489ffa?w=800&auto=format&fit=crop&q=80"
+      },
+      {
+        "name": "Chalan Beel Edge",
+        "bnName": "চলনবিলের পূর্বাংশ",
+        "desc": "Expansive seasonal floodplain",
+        "image": "https://images.unsplash.com/photo-1571003123894-1f0594d2b5d9?w=800&auto=format&fit=crop&q=80"
+      }
+    ],
+    "famousFoods": [
+      {
+        "name": "Pantoa Sweets",
+        "bnName": "সিরাজগঞ্জের পানতোয়া",
+        "desc": "Deep golden-fried cottage cheese cylinders soaked in warm cardamom syrup"
+      },
+      {
+        "name": "Kheer Chamcham",
+        "bnName": "ক্ষীর চমচম",
+        "desc": "Rich milk curd dessert coated with creamy clotted milk"
+      },
+      {
+        "name": "Jamuna River Fish",
+        "bnName": "যমুনার মাছ",
+        "desc": "Fresh sweet fish from Jamuna currents"
+      }
+    ],
+    "culture": {
+      "history": "Birthplace of legendary freedom fighter Maulana Bhashani; premier textile weaving capital for traditional lungis.",
+      "traditions": "Enormous weekly textile haats in Shahjadpur and Enayetpur, boat races, and Tagore literary lore.",
+      "festivals": [
+        "Shahjadpur Rabindra Utsab",
+        "Jamuna Bridge Festival"
+      ],
+      "summaryBn": "যমুনা নদীর প্রতাপ, তাঁতশিল্পের বিশাল বাজার এবং শাহজাদপুরে রবীন্দ্রনাথের স্মৃতি।"
+    },
+    "coverImage": "https://images.unsplash.com/photo-1507525428034-b723cf961d3e?w=800&auto=format&fit=crop&q=80",
+    "quickFacts": {
+      "famousFor": "Jamuna Bridge, Handloom Lungi, Shahjadpur Kuthibari",
+      "mustTryDish": "Hot Pantoa Sweets & Kheer Chamcham",
+      "nicknames": [
+        "Lungi Capital of Bangladesh"
+      ]
+    }
+  },
+  {
+    "id": "naogaon",
+    "name": "Naogaon",
+    "bnName": "নওগাঁ",
+    "geoName": "Naogaon",
+    "division": "Rajshahi",
+    "divisionBn": "রাজশাহী",
+    "lat": 24.8109,
+    "lng": 88.9414,
+    "areaKm2": 3436,
+    "tagline": "UNESCO World Heritage Somapura Mahavihara & Granary of Bengal",
+    "taglineBn": "ইউনেস্কো ওয়ার্ল্ড হেরিটেজ পাহাড়পুর বৌদ্ধ বিহার ও শস্যভাণ্ডার",
+    "touristSpots": [
+      {
+        "name": "Somapura Mahavihara (Paharpur)",
+        "bnName": "পাহাড়পুর বৌদ্ধ বিহার (সোমপুর মহাবিহার)",
+        "desc": "UNESCO World Heritage Site; largest ancient Buddhist monastery south of the Himalayas",
+        "image": "https://images.unsplash.com/photo-1571003123894-1f0594d2b5d9?w=800&auto=format&fit=crop&q=80"
+      },
+      {
+        "name": "Kusumba Mosque",
+        "bnName": "কুসুম্বা মসজিদ",
+        "desc": "1558 AD Black stone architectural wonder featured on 5 Taka note",
+        "image": "https://images.unsplash.com/photo-1518495973542-4542c06a5843?w=800&auto=format&fit=crop&q=80"
+      },
+      {
+        "name": "Patisar Rabindra Kuthibari",
+        "bnName": "পতিসর রবীন্দ্র কাচারী বাড়ি",
+        "desc": "Tagore's tranquil village retreat along the Nagor river",
+        "image": "https://images.unsplash.com/photo-1448375240586-882707db888b?w=800&auto=format&fit=crop&q=80"
+      },
+      {
+        "name": "Dubolhati Palace",
+        "bnName": "দুবলহাটি রাজবাড়ি",
+        "desc": "Ancient palace with massive stone courtyards",
+        "image": "https://images.unsplash.com/photo-1506744038136-46273834b3fb?w=800&auto=format&fit=crop&q=80"
+      }
+    ],
+    "famousFoods": [
+      {
+        "name": "Chhanar Sandesh & Peda",
+        "bnName": "প্যারা সন্দেশ",
+        "desc": "Dense, caramelized milk sweet molded in intricate patterns"
+      },
+      {
+        "name": "Katari Bhog Rice",
+        "bnName": "নাজিরশাইল ও কাটারিভোগ চাল",
+        "desc": "Aromatic fine grain rice exported globally"
+      },
+      {
+        "name": "Amrapali Mango",
+        "bnName": "আম্রপালি আম",
+        "desc": "Juicy sweet hybrid mango grown widely across Sapahar"
+      }
+    ],
+    "culture": {
+      "history": "Heartland of the Buddhist Pala Empire; agricultural breadbasket yielding the highest paddy volume in Bengal.",
+      "traditions": "Archaeological pilgrimages, harvest folk songs, and Rabindra Patisar celebrations.",
+      "festivals": [
+        "Paharpur Heritage Fair",
+        "Patisar Rabindra Utsab"
+      ],
+      "summaryBn": "ইউনেস্কো বিশ্ব ঐতিহ্য পাহাড়পুর, প্রাচীন কুসুম্বা মসজিদ এবং রবীন্দ্র স্মৃতিবিজড়িত পতিসর।"
+    },
+    "coverImage": "https://images.unsplash.com/photo-1609137144813-7d9921338f24?w=800&auto=format&fit=crop&q=80",
+    "quickFacts": {
+      "famousFor": "Paharpur Buddhist Vihara, Kusumba Mosque, Patisar",
+      "mustTryDish": "Naogaon Peda Sandesh & Amrapali Mango",
+      "nicknames": [
+        "Granary of the North",
+        "Land of Somapura"
+      ]
+    }
+  },
+  {
+    "id": "chapainawabganj",
+    "name": "Chapainawabganj",
+    "bnName": "চাপাইনবাবগঞ্জ",
+    "geoName": "Chapainawabganj",
+    "division": "Rajshahi",
+    "divisionBn": "রাজশাহী",
+    "lat": 24.5965,
+    "lng": 88.2775,
+    "areaKm2": 1703,
+    "tagline": "The Mango Capital of Bangladesh & medieval Gaur architectural ruins",
+    "taglineBn": "সুস্বাদু আমের রাজধানী ও প্রাচীন বাংলার রাজধানী গৌড়ের স্থাপত্য",
+    "touristSpots": [
+      {
+        "name": "Choto Sona Mosque",
+        "bnName": "ছোট সোনা মসজিদ",
+        "desc": "1493 AD Sultanate gem known as the Jewel of Bengal with gilded domes",
+        "image": "https://images.unsplash.com/photo-1506744038136-46273834b3fb?w=800&auto=format&fit=crop&q=80"
+      },
+      {
+        "name": "Darasbari Mosque & Madrasa",
+        "bnName": "দারাসবাড়ি মসজিদ",
+        "desc": "Ancient terracotta academic complex from 1479 AD",
+        "image": "https://images.unsplash.com/photo-1464822759023-fed622ff2c3b?w=800&auto=format&fit=crop&q=80"
+      },
+      {
+        "name": "Kansat Mango Market",
+        "bnName": "কানসাট আম বাজার",
+        "desc": "Largest wholesale fresh mango marketplace in Asia",
+        "image": "https://images.unsplash.com/photo-1470071459604-3b5ec3a7fe05?w=800&auto=format&fit=crop&q=80"
+      },
+      {
+        "name": "Tohakhana Complex",
+        "bnName": "শাহ সুজার তোহাখানা",
+        "desc": "Mughal palace and summer retreat built by Prince Shah Shuja",
+        "image": "https://images.unsplash.com/photo-1513836279014-a89f7a76ae86?w=800&auto=format&fit=crop&q=80"
+      }
+    ],
+    "famousFoods": [
+      {
+        "name": "Kansat Royal Mangoes (Fazli, Ashwina, Khirsapat)",
+        "bnName": "রাজকীয় আম (ফজলি, আশ্বিনা, খিরসাপাত)",
+        "desc": "Unmatched sweetness, fragrance, and huge size"
+      },
+      {
+        "name": "Shibganj Chomchom",
+        "bnName": "শিবগঞ্জের আদি চমচম",
+        "desc": "Classic juicy sweet created by master confectioners"
+      },
+      {
+        "name": "Kalai Ruti & Chili Chutney",
+        "bnName": "কলাইয়ের রুটি ও বেগুন ভর্তা",
+        "desc": "Hot black gram roti served with spicy roasted eggplant mash"
+      }
+    ],
+    "culture": {
+      "history": "Part of ancient Gaur, the medieval royal capital of Bengal under Iliyas Shahi and Husain Shahi kings.",
+      "traditions": "Gombhira satirical folk musical performance featuring Nana and Nati, mango orchard culture, and Nakshi Kantha.",
+      "festivals": [
+        "Kansat Mango Carnival",
+        "Gombhira Folk Festival"
+      ],
+      "summaryBn": "ঐতিহাসিক গৌড়ের স্মৃতি, ব্যঙ্গাত্মক গম্ভীর গানের ছন্দ ও কানসাটের ঐতিহ্যবাহী আমের বাজার।"
+    },
+    "coverImage": "https://images.unsplash.com/photo-1509316975850-ff9c5deb0cd9?w=800&auto=format&fit=crop&q=80",
+    "quickFacts": {
+      "famousFor": "Kansat Mango Market, Choto Sona Mosque, Gombhira folk song",
+      "mustTryDish": "Original Fazli Mango & Shibganj Chomchom",
+      "nicknames": [
+        "Mango Empire",
+        "City of Gombhira"
+      ]
+    }
+  },
+  {
+    "id": "joypurhat",
+    "name": "Joypurhat",
+    "bnName": "জয়পুরহাট",
+    "geoName": "Joypurhat",
+    "division": "Rajshahi",
+    "divisionBn": "রাজশাহী",
+    "lat": 25.0947,
+    "lng": 89.0279,
+    "areaKm2": 965,
+    "tagline": "Paharpur gateway, historic Lockma Zamindar Palace & sugar mills",
+    "taglineBn": "লকমা রাজবাড়ি, নান্দাইল দিঘি ও চিনিকলের সমৃদ্ধ ঐতিহ্য",
+    "touristSpots": [
+      {
+        "name": "Lockma Zamindar Bari",
+        "bnName": "লকমা রাজবাড়ি",
+        "desc": "Centuries-old fortified manor with grand gateway and underground rooms",
+        "image": "https://images.unsplash.com/photo-1513836279014-a89f7a76ae86?w=800&auto=format&fit=crop&q=80"
+      },
+      {
+        "name": "Nandail Dighi",
+        "bnName": "নান্দাইল দিঘি",
+        "desc": "Massive historic freshwater lake attracting winter migratory flocks",
+        "image": "https://images.unsplash.com/photo-1500530855697-b586d89ba3ee?w=800&auto=format&fit=crop&q=80"
+      },
+      {
+        "name": "Baro Shibaloy Temple",
+        "bnName": "আছরঙ্গা দিঘি ও শিব মন্দির",
+        "desc": "Unique cluster of terracotta shrines",
+        "image": "https://images.unsplash.com/photo-1507525428034-b723cf961d3e?w=800&auto=format&fit=crop&q=80"
+      }
+    ],
+    "famousFoods": [
+      {
+        "name": "Joypurhat Sandesh & Chomchom",
+        "bnName": "জয়পুরহাটের কালাইয়ের রুটি ও মিষ্টি",
+        "desc": "Fresh cottage cheese sweets crafted with pure sugarcane juice"
+      },
+      {
+        "name": "Sugarcane Molasses",
+        "bnName": "আখের গুড়",
+        "desc": "Fragrant raw cane sugar from local sugar mill belts"
+      }
+    ],
+    "culture": {
+      "history": "Rich archaeological belt bordering historic Varendra terrain; pioneering poultry and limestone industry.",
+      "traditions": "Indigenous Santal and Oraon harvest rituals, folk theatre, and sugarcane festivals.",
+      "festivals": [
+        "Nandail Dighi Fair",
+        "Sugarcane Harvest Utsab"
+      ],
+      "summaryBn": "শান্ত শ্যামল বরেন্দ্র ভূমি, ঐতিহাসিক দিঘি এবং ক্ষুদ্র নৃগোষ্ঠীর লোকজ সংস্কৃতি।"
+    },
+    "coverImage": "https://images.unsplash.com/photo-1513836279014-a89f7a76ae86?w=800&auto=format&fit=crop&q=80",
+    "quickFacts": {
+      "famousFor": "Lockma Rajbari, Nandail Dighi, Sugar Mill",
+      "mustTryDish": "Sugarcane Jaggery Sweets & Kalai Ruti",
+      "nicknames": [
+        "Sweet Sugar Belt"
+      ]
+    }
+  },
+  {
+    "id": "khulna",
+    "name": "Khulna",
+    "bnName": "খুলনা",
+    "geoName": "Khulna",
+    "division": "Khulna",
+    "divisionBn": "খুলনা",
+    "lat": 22.8456,
+    "lng": 89.5403,
+    "areaKm2": 4394,
+    "tagline": "Gateway to the UNESCO Sundarbans mangrove forest & Royal Bengal Tigers",
+    "taglineBn": "ইউনেস্কো বিশ্ব ঐতিহ্য সুন্দরবনের প্রবেশদ্বার ও রূপসা নদীর কোল",
+    "touristSpots": [
+      {
+        "name": "Sundarbans Mangrove Forest",
+        "bnName": "সুন্দরবন (বিশ্বের বৃহত্তম ম্যানগ্রোভ বন)",
+        "desc": "UNESCO World Heritage Site and home of the magnificent Royal Bengal Tiger and spotted deer",
+        "image": "https://images.unsplash.com/photo-1544735716-392fe2489ffa?w=800&auto=format&fit=crop&q=80"
+      },
+      {
+        "name": "Rupsha River Bridge (Khan Jahan Ali)",
+        "bnName": "রূপসা সেতু (খান জাহান আলী সেতু)",
+        "desc": "Iconic bridge offering sweeping river views and evening cool breezes",
+        "image": "https://images.unsplash.com/photo-1596895111956-bf1cf0599ce5?w=800&auto=format&fit=crop&q=80"
+      },
+      {
+        "name": "Gollamari Memorial",
+        "bnName": "গল্লামারী স্মৃতিসৌধ",
+        "desc": "Monument honoring martyrs of the 1971 Liberation War on the riverbank",
+        "image": "https://images.unsplash.com/photo-1608958435020-e8a7109ba809?w=800&auto=format&fit=crop&q=80"
+      },
+      {
+        "name": "Kotka & Hiron Point",
+        "bnName": "কটকা ও হিরণ পয়েন্ট",
+        "desc": "Deep jungle watchtower and tranquil beach in the Sundarbans",
+        "image": "https://images.unsplash.com/photo-1578632767115-351597cf2477?w=800&auto=format&fit=crop&q=80"
+      }
+    ],
+    "famousFoods": [
+      {
+        "name": "Chui Jhal Beef / Mutton",
+        "bnName": "চুইঝাল দিয়ে খাসি ও গরুর মাংস",
+        "desc": "Signature dish cooked with aromatic Piper chaba spicy woody stems that melt into gravy"
+      },
+      {
+        "name": "Sundarbans Wild Honey",
+        "bnName": "সুন্দরবনের খাঁটি মধু",
+        "desc": "Amber, medicinal raw honey harvested by hereditary Mauals"
+      },
+      {
+        "name": "Bagda & Golda Jumbo Prawns",
+        "bnName": "গলদা ও বাগদা চিংড়ি ভুনা",
+        "desc": "Succulent coastal freshwater giant prawns cooked in coconut milk"
+      }
+    ],
+    "culture": {
+      "history": "Ancient gateway to the Gangetic delta, industrialized river port, and cultural sphere of Saint Khan Jahan Ali.",
+      "traditions": "Sundarbans woodcutters (Bawali) and honey collectors (Maual) rituals, Bonbibi theatrical folk worship, and riverside adda.",
+      "festivals": [
+        "Bonbibi Mela",
+        "Rash Mela at Dublar Char",
+        "Sundarbans Eco Tourism Fair"
+      ],
+      "summaryBn": "বনবিবির লোকগাঁথা, সুন্দরবনের রোমাঞ্চকর জীবন এবং চুইঝালের অনন্য ঝাঁঝালো স্বাদ।"
+    },
+    "coverImage": "https://images.unsplash.com/photo-1544735716-392fe2489ffa?w=800&auto=format&fit=crop&q=80",
+    "quickFacts": {
+      "famousFor": "Sundarbans, Royal Bengal Tiger, Chui Jhal, Rupsha Bridge",
+      "mustTryDish": "Original Chui Jhal Beef & Giant Golda Chingri",
+      "nicknames": [
+        "Sundarbans Gateway",
+        "Industrial Port City"
+      ]
+    }
+  },
+  {
+    "id": "bagerhat",
+    "name": "Bagerhat",
+    "bnName": "বাগেরহাট",
+    "geoName": "Bagerhat",
+    "division": "Khulna",
+    "divisionBn": "খুলনা",
+    "lat": 22.6516,
+    "lng": 89.7859,
+    "areaKm2": 3959,
+    "tagline": "UNESCO World Heritage Mosque City of Khan Jahan Ali & Sixty Dome Mosque",
+    "taglineBn": "ইউনেস্কো বিশ্ব ঐতিহ্য ষাট গম্বুজ মসজিদ ও হজরত খান জাহান আলীর স্মৃতি",
+    "touristSpots": [
+      {
+        "name": "Sixty Dome Mosque (Shat Gombuj)",
+        "bnName": "ষাট গম্বুজ মসজিদ",
+        "desc": "15th-century UNESCO World Heritage brick wonder with 77 domes and 60 pillars",
+        "image": "https://images.unsplash.com/photo-1578632767115-351597cf2477?w=800&auto=format&fit=crop&q=80"
+      },
+      {
+        "name": "Mausoleum of Khan Jahan Ali",
+        "bnName": "হযরত খান জাহান আলী (রঃ) এর মাজার",
+        "desc": "Spiritual shrine with sacred freshwater tank home to gentle marsh crocodiles",
+        "image": "https://images.unsplash.com/photo-1588083949404-c4f1ed1323b3?w=800&auto=format&fit=crop&q=80"
+      },
+      {
+        "name": "Ghoradighi Lake",
+        "bnName": "ঘোড়াদিঘি",
+        "desc": "Immense medieval reservoir excavated alongside the Sixty Dome Mosque",
+        "image": "https://images.unsplash.com/photo-1609137144813-7d9921338f24?w=800&auto=format&fit=crop&q=80"
+      },
+      {
+        "name": "Choto Sona Mosque & Nine Dome Mosque",
+        "bnName": "নয় গম্বুজ মসজিদ",
+        "desc": "Terracotta Sultanate architectural monuments of Khalifatabad",
+        "image": "https://images.unsplash.com/photo-1544735716-392fe2489ffa?w=800&auto=format&fit=crop&q=80"
+      }
+    ],
+    "famousFoods": [
+      {
+        "name": "Chui Jhal Gosht",
+        "bnName": "চুইঝালের মাংস",
+        "desc": "Spiced beef and mutton infused with pungent Piper chaba wood"
+      },
+      {
+        "name": "Coconut Delicacies & Betel Nuts",
+        "bnName": "নারকেল ও সুপারি",
+        "desc": "Fresh sweet coastal coconuts and betel nuts"
+      },
+      {
+        "name": "Coastal Tiger Prawns",
+        "bnName": "গলদা চিংড়ি",
+        "desc": "Freshly farmed jumbo prawns"
+      }
+    ],
+    "culture": {
+      "history": "Founded as the medieval city Khalifatabad in the 15th century by Turkish saint-warrior Hazrat Khan Jahan Ali.",
+      "traditions": "Khan Jahan Ali Urs, sacred crocodile feeding, and ancient terracotta brick craftsmanship.",
+      "festivals": [
+        "Khan Jahan Ali Annual Fair",
+        "Chaitra Sankranti Fair"
+      ],
+      "summaryBn": "ইউনেস্কো স্বীকৃত ঐতিহাসিক মসজিদের শহর, খান জাহান আলীর স্মৃতি ও দিঘির কুমির।"
+    },
+    "coverImage": "https://images.unsplash.com/photo-1588083949404-c4f1ed1323b3?w=800&auto=format&fit=crop&q=80",
+    "quickFacts": {
+      "famousFor": "Shat Gombuj Mosque (UNESCO), Khan Jahan Ali Shrine, Chui Jhal",
+      "mustTryDish": "Authentic Bagerhat Chui Jhal Khashir Mangsho",
+      "nicknames": [
+        "Historic Mosque City"
+      ]
+    }
+  },
+  {
+    "id": "satkhira",
+    "name": "Satkhira",
+    "bnName": "সাতক্ষীরা",
+    "geoName": "Satkhira",
+    "division": "Khulna",
+    "divisionBn": "খুলনা",
+    "lat": 22.7185,
+    "lng": 89.0705,
+    "areaKm2": 3858,
+    "tagline": "Sundarbans western frontier, pure mangrove honey & famous Sandesh",
+    "taglineBn": "সুন্দরবনের প্রবেশমুখ, খাঁটি সুন্দরবনের মধু ও সাতক্ষীরার সন্দেশ",
+    "touristSpots": [
+      {
+        "name": "Sundarbans Mandarbaria Beach",
+        "bnName": "মান্দারবাড়িয়া সমুদ্র সৈকত (সুন্দরবন)",
+        "desc": "Pristine white sand beach where jungle meets the Bay of Bengal",
+        "image": "https://images.unsplash.com/photo-1507525428034-b723cf961d3e?w=800&auto=format&fit=crop&q=80"
+      },
+      {
+        "name": "Kalidas Temple",
+        "bnName": "যশোরেশ্বরী কালী মন্দির (ঈশ্বরীপুর)",
+        "desc": "One of the 51 sacred Shakti Peethas founded during Maharaja Pratapaditya's reign",
+        "image": "https://images.unsplash.com/photo-1571003123894-1f0594d2b5d9?w=800&auto=format&fit=crop&q=80"
+      },
+      {
+        "name": "Mozaffar Garden & Resort",
+        "bnName": "মোজাফফর গার্ডেন",
+        "desc": "Lush eco-resort with ponds and gardens",
+        "image": "https://images.unsplash.com/photo-1518495973542-4542c06a5843?w=800&auto=format&fit=crop&q=80"
+      }
+    ],
+    "famousFoods": [
+      {
+        "name": "Satkhira Sandesh",
+        "bnName": "সাতক্ষীরার সন্দেশ",
+        "desc": "Delicate, velvety fresh cottage cheese sweet that melts on the tongue"
+      },
+      {
+        "name": "Sundarbans Khalisha Honey",
+        "bnName": "খাঁটি সুন্দরবনের খলিশা মধু",
+        "desc": "Prized aromatic floral honey harvested by local honey-hunters"
+      },
+      {
+        "name": "Chui Jhal Fish & Meat",
+        "bnName": "চুইঝাল দিয়ে রান্না খাবার",
+        "desc": "Zesty country-style stew"
+      }
+    ],
+    "culture": {
+      "history": "Seat of the heroic Baro-Bhuiyan ruler Maharaja Pratapaditya; rich history of anti-Mughal defense.",
+      "traditions": "Honey-hunting expeditions into the dense forest, brackish water shrimp aquaculture, and folk music.",
+      "festivals": [
+        "Ishwaripur Kali Puja",
+        "Sundarbans Honey Harvest Fair"
+      ],
+      "summaryBn": "যশোরেশ্বরী শক্তিপীঠের ঐতিহ্য, সুন্দরবনের মধু সংগ্রহের সংস্কৃতি ও সুস্বাদু ক্ষীর সন্দেশ।"
+    },
+    "coverImage": "https://images.unsplash.com/photo-1507525428034-b723cf961d3e?w=800&auto=format&fit=crop&q=80",
+    "quickFacts": {
+      "famousFor": "Sundarbans Mandarbaria Beach, Jessoreshwari Temple, Honey, Sandesh",
+      "mustTryDish": "Original Satkhira Sandesh & Wild Mangrove Honey",
+      "nicknames": [
+        "Land of Honey & Tigers"
+      ]
+    }
+  },
+  {
+    "id": "jashore",
+    "name": "Jashore",
+    "bnName": "যশোর",
+    "geoName": "Jessore",
+    "division": "Khulna",
+    "divisionBn": "খুলনা",
+    "lat": 23.1664,
+    "lng": 89.2081,
+    "areaKm2": 2570,
+    "tagline": "Michael Madhusudan Dutt's birthplace & flower capital Gadkhali",
+    "taglineBn": "মহাকবি মাইকেল মধুসূদন দত্তের স্মৃতি, গদখালীর ফুল ও খেজুর গুড়",
+    "touristSpots": [
+      {
+        "name": "Michael Madhusudan Dutt Memorial (Sagardari)",
+        "bnName": "মহাকবি মাইকেল মধুসূদন দত্তের বাড়ি (সাগড়দাঁড়ি)",
+        "desc": "Ancestral home on the bank of the river Kopotakkho celebrating the father of Bengali blank verse",
+        "image": "https://images.unsplash.com/photo-1518495973542-4542c06a5843?w=800&auto=format&fit=crop&q=80"
+      },
+      {
+        "name": "Gadkhali Flower Kingdom",
+        "bnName": "গদখালী ফুলের রাজ্য",
+        "desc": "The flower capital of Bangladesh where hundreds of hectares of roses, gerberas, and tuberoses bloom",
+        "image": "https://images.unsplash.com/photo-1506744038136-46273834b3fb?w=800&auto=format&fit=crop&q=80"
+      },
+      {
+        "name": "Jashore Collectorate Park",
+        "bnName": "যশোর কালেক্টরেট পার্ক",
+        "desc": "Historic colonial park and lake",
+        "image": "https://images.unsplash.com/photo-1464822759023-fed622ff2c3b?w=800&auto=format&fit=crop&q=80"
+      },
+      {
+        "name": "Mirzannagar Hammamkhana",
+        "bnName": "মির্জানগর নবাববাড়ি হাম্মামখানা",
+        "desc": "Mughal thermal public bath ruins",
+        "image": "https://images.unsplash.com/photo-1470071459604-3b5ec3a7fe05?w=800&auto=format&fit=crop&q=80"
+      }
+    ],
+    "famousFoods": [
+      {
+        "name": "Jashore Date Palm Patali Gur",
+        "bnName": "যশোরের খাঁটি খেজুরের পাটালি গুড়",
+        "desc": "Widely regarded as the finest date palm jaggery in the country"
+      },
+      {
+        "name": "Jashore Jamtola Sweets",
+        "bnName": "যশোরের জামতলার মিষ্টি",
+        "desc": "Crispy fried syrup-soaked sweet with century-old recipe"
+      },
+      {
+        "name": "Chui Jhal Beef",
+        "bnName": "চুইঝালের মাংস",
+        "desc": "Spicy signature stew"
+      }
+    ],
+    "culture": {
+      "history": "First liberated district during the 1971 Bangladesh Liberation War; cradle of modern Bengali poetry.",
+      "traditions": "Sagardari Madhumela festival, early morning flower trading in Gadkhali, and winter date palm tapping.",
+      "festivals": [
+        "Madhusudan Mela at Sagardari",
+        "Gadkhali Flower Festival"
+      ],
+      "summaryBn": "কপোতাক্ষ নদের স্মৃতি, প্রথম মুক্ত জেলার গৌরব ও গদখালীর সুবাসিত ফুল।"
+    },
+    "coverImage": "https://images.unsplash.com/photo-1518495973542-4542c06a5843?w=800&auto=format&fit=crop&q=80",
+    "quickFacts": {
+      "famousFor": "Gadkhali Flower Capital, Michael Madhusudan Dutt, Date Jaggery",
+      "mustTryDish": "Authentic Jashore Patali Gur & Jamtola Sweet",
+      "nicknames": [
+        "Flower Capital of Bangladesh",
+        "First Free District"
+      ]
+    }
+  },
+  {
+    "id": "kushtia",
+    "name": "Kushtia",
+    "bnName": "কুষ্টিয়া",
+    "geoName": "Kushtia",
+    "division": "Khulna",
+    "divisionBn": "খুলনা",
+    "lat": 23.9013,
+    "lng": 89.1205,
+    "areaKm2": 1621,
+    "tagline": "Spiritual shrine of Fakir Lalon Shah & Tagore's Shilaidaha Kuthibari",
+    "taglineBn": "বাউল সম্রাট ফকির লালন শাহের আখড়া ও রবীন্দ্রনাথের শিলাইদহ কুঠিবাড়ি",
+    "touristSpots": [
+      {
+        "name": "Lalon Shah Akhra & Shrine",
+        "bnName": "ফকির লালন শাহের মাজার (ছেউড়িয়া)",
+        "desc": "World-famous mystic shrine where baul bards gather to sing Lalon's timeless humanist songs",
+        "image": "https://images.unsplash.com/photo-1518495973542-4542c06a5843?w=800&auto=format&fit=crop&q=80"
+      },
+      {
+        "name": "Shilaidaha Rabindra Kuthibari",
+        "bnName": "শিলাইদহ রবীন্দ্র কুঠিবাড়ি",
+        "desc": "Three-story brick country house where Nobel laureate Rabindranath Tagore composed Gitanjali",
+        "image": "https://images.unsplash.com/photo-1513836279014-a89f7a76ae86?w=800&auto=format&fit=crop&q=80"
+      },
+      {
+        "name": "Mir Mosharraf Hossain Memorial",
+        "bnName": "মীর মশাররফ হোসেনের বসতভিটা (লাহিনীপাড়া)",
+        "desc": "Memorial dedicated to the legendary 19th-century writer",
+        "image": "https://images.unsplash.com/photo-1500530855697-b586d89ba3ee?w=800&auto=format&fit=crop&q=80"
+      },
+      {
+        "name": "Hardinge Bridge Kushtia End",
+        "bnName": "পদ্মা নদীর বাঁধ",
+        "desc": "Scenic riverfront with sweeping sunset views",
+        "image": "https://images.unsplash.com/photo-1507525428034-b723cf961d3e?w=800&auto=format&fit=crop&q=80"
+      }
+    ],
+    "famousFoods": [
+      {
+        "name": "Kushtia Kulfi Malai",
+        "bnName": "কুষ্টিয়ার কুলফি মালাই",
+        "desc": "Dense, creamy milk ice confection scented with saffron and pistachios"
+      },
+      {
+        "name": "Tiler Khaja",
+        "bnName": "তিলের খাজা",
+        "desc": "Crisp, airy sugar candy layered with toasted sesame seeds"
+      },
+      {
+        "name": "Padma Hilsa with Mustard",
+        "bnName": "পদ্মার ইলিশ",
+        "desc": "Sweet river Hilsa caught fresh"
+      }
+    ],
+    "culture": {
+      "history": "Cultural nexus of Bengal Renaissance; meeting point of Baul humanism, Tagore's poetry, and Kangal Harinath's fearless journalism.",
+      "traditions": "All-night acoustic Ektara baul performances during Dol Purnima, Baul philosophy, and literary salons.",
+      "festivals": [
+        "Lalon Smaran Utshab (Dol Purnima)",
+        "Rabindra Birth Anniversary at Shilaidaha"
+      ],
+      "summaryBn": "বাউল সংস্কৃতির বিশ্বমঞ্চ, রবীন্দ্রনাথের গীতাঞ্জলি রচনার স্মৃতি ও তিলের খাজার মিষ্টি সুবাস।"
+    },
+    "coverImage": "https://images.unsplash.com/photo-1518495973542-4542c06a5843?w=800&auto=format&fit=crop&q=80",
+    "quickFacts": {
+      "famousFor": "Lalon Shah Shrine, Shilaidaha Kuthibari, Tiler Khaja, Kulfi",
+      "mustTryDish": "Kushtia Tiler Khaja & Creamy Kulfi Malai",
+      "nicknames": [
+        "Cultural Capital of Bengal",
+        "Land of Bauls"
+      ]
+    }
+  },
+  {
+    "id": "jhenaidah",
+    "name": "Jhenaidah",
+    "bnName": "ঝিনাইদহ",
+    "geoName": "Jhenaidah",
+    "division": "Khulna",
+    "divisionBn": "খুলনা",
+    "lat": 23.5448,
+    "lng": 89.1539,
+    "areaKm2": 1961,
+    "tagline": "Historic Naldanga Palace temples, Miyar Dalan & Banana empire",
+    "taglineBn": "নলডাঙ্গা রাজবাড়ি, ঐতিহ্যবাহী মিয়ার দালান ও কলার রাজ্য",
+    "touristSpots": [
+      {
+        "name": "Naldanga Royal Temple Complex",
+        "bnName": "নলডাঙ্গা রাজবাড়ি ও মন্দির",
+        "desc": "Centuries-old royal terracotta temples amidst tranquil gardens",
+        "image": "https://images.unsplash.com/photo-1507525428034-b723cf961d3e?w=800&auto=format&fit=crop&q=80"
+      },
+      {
+        "name": "Miyar Dalan (Historic Manor)",
+        "bnName": "মিয়ার দালান",
+        "desc": "Historic 19th-century zamindar estate built on the bank of Nabaganga river",
+        "image": "https://images.unsplash.com/photo-1509316975850-ff9c5deb0cd9?w=800&auto=format&fit=crop&q=80"
+      },
+      {
+        "name": "Dhol Samudra Dighi",
+        "bnName": "ঢোল সমুদ্র দিঘি",
+        "desc": "Ancient massive lake linked to heroic local legends",
+        "image": "https://images.unsplash.com/photo-1596895111956-bf1cf0599ce5?w=800&auto=format&fit=crop&q=80"
+      },
+      {
+        "name": "Kobi Pagla Kanai Mazar",
+        "bnName": "মরমি কবি পাগলা কানাইয়ের মাজার",
+        "desc": "Shrine of mystic folk musical composer Pagla Kanai",
+        "image": "https://images.unsplash.com/photo-1608958435020-e8a7109ba809?w=800&auto=format&fit=crop&q=80"
+      }
+    ],
+    "famousFoods": [
+      {
+        "name": "Jhenaidah Banana Delicacies",
+        "bnName": "সুস্বাদু কলা ও কলার তৈরি পদ",
+        "desc": "Sweet, fragrant local varieties produced across vast plantations"
+      },
+      {
+        "name": "Jhenaidah Chanachur",
+        "bnName": "ঝিনাইদহের স্পেশাল চানাচুর",
+        "desc": "Spicy, crispy seasoned snack with fried nuts"
+      },
+      {
+        "name": "Date Palm Molasses",
+        "bnName": "খেজুর গুড়",
+        "desc": "Traditional winter syrup"
+      }
+    ],
+    "culture": {
+      "history": "Birthplace of revolutionary Bagha Jatin and mystic poet Pagla Kanai who composed the famed Jari Gaan.",
+      "traditions": "Jari gaan and Kabigaan folk contests, agricultural haats, and canal fishing.",
+      "festivals": [
+        "Pagla Kanai Mela",
+        "Naldanga Heritage Fair"
+      ],
+      "summaryBn": "বাঘা যতীনের বীরত্বগাথা, পাগলা কানাইয়ের জারি গান এবং নলডাঙ্গার প্রাচীন স্থাপত্য।"
+    },
+    "coverImage": "https://images.unsplash.com/photo-1506744038136-46273834b3fb?w=800&auto=format&fit=crop&q=80",
+    "quickFacts": {
+      "famousFor": "Naldanga Temple, Pagla Kanai, Bagha Jatin",
+      "mustTryDish": "Jhenaidah Special Crispy Chanachur & Sweet Bananas",
+      "nicknames": [
+        "Realm of Jari Gaan"
+      ]
+    }
+  },
+  {
+    "id": "magura",
+    "name": "Magura",
+    "bnName": "মাগুরা",
+    "geoName": "Magura",
+    "division": "Khulna",
+    "divisionBn": "খুলনা",
+    "lat": 23.4873,
+    "lng": 89.4198,
+    "areaKm2": 1049,
+    "tagline": "Grand Katayani Puja festival, Gorai river & cricket legends",
+    "taglineBn": "ঐতিহাসিক কাত্যায়নী পূজা উৎসবের জেলা ও গড়াই নদীর স্নিগ্ধতা",
+    "touristSpots": [
+      {
+        "name": "Katayani Puja Festival Grounds",
+        "bnName": "কাত্যায়নী পূজা মেলা প্রাঙ্গণ",
+        "desc": "The most spectacular Katayani Durga festival celebration in the subcontinent with majestic illumination",
+        "image": "https://images.unsplash.com/photo-1518495973542-4542c06a5843?w=800&auto=format&fit=crop&q=80"
+      },
+      {
+        "name": "Siddheswari Math",
+        "bnName": "সিদ্ধেশ্বরী মঠ",
+        "desc": "Ancient riverside hermitage and serene temple complex",
+        "image": "https://images.unsplash.com/photo-1578632767115-351597cf2477?w=800&auto=format&fit=crop&q=80"
+      },
+      {
+        "name": "Khademul Millat Mosque",
+        "bnName": "ঘোড়াদহ মসজিদ",
+        "desc": "Centuries-old Islamic heritage mosque",
+        "image": "https://images.unsplash.com/photo-1588083949404-c4f1ed1323b3?w=800&auto=format&fit=crop&q=80"
+      }
+    ],
+    "famousFoods": [
+      {
+        "name": "Magura Sandesh",
+        "bnName": "মাগুরার ক্ষীরসন্দেশ ও প্যারা",
+        "desc": "Dense sweet milk confection crafted by hereditary sweetmakers"
+      },
+      {
+        "name": "Gorai River Sweet Fish",
+        "bnName": "গড়াই নদীর মাছ",
+        "desc": "Fresh sweet fish from Gorai river currents"
+      }
+    ],
+    "culture": {
+      "history": "Hometown of global cricket superstar Shakib Al Hasan; renowned for cultural pluralism and autumn celebrations.",
+      "traditions": "Spectacular week-long Katayani Puja with towering decorated gateways, folk melas, and riverboat rowing.",
+      "festivals": [
+        "Magura Katayani Puja (Grandest in Bangladesh)",
+        "Boishakhi Mela"
+      ],
+      "summaryBn": "উপমহাদেশের সর্ববৃহৎ কাত্যায়নী পূজা উৎসবের জাঁকজমক এবং লোকজ ক্রীড়া ঐতিহ্য।"
+    },
+    "coverImage": "https://images.unsplash.com/photo-1518495973542-4542c06a5843?w=800&auto=format&fit=crop&q=80",
+    "quickFacts": {
+      "famousFor": "Katayani Puja, Shakib Al Hasan, Gorai River",
+      "mustTryDish": "Magura Kheer Sandesh",
+      "nicknames": [
+        "Festival City"
+      ]
+    }
+  },
+  {
+    "id": "meherpur",
+    "name": "Meherpur",
+    "bnName": "মেহেরপুর",
+    "geoName": "Meherpur",
+    "division": "Khulna",
+    "divisionBn": "খুলনা",
+    "lat": 23.7744,
+    "lng": 88.6319,
+    "areaKm2": 716,
+    "tagline": "Historic Mujibnagar where the first Government of Bangladesh took oath",
+    "taglineBn": "স্বাধীন বাংলাদেশের প্রথম সরকারের শপথভূমি ঐতিহাসিক মুজিবনগর",
+    "touristSpots": [
+      {
+        "name": "Mujibnagar Memorial Complex",
+        "bnName": "মুজিবনগর স্মৃতিসৌধ ও কমপ্লেক্স",
+        "desc": "Monumental amphitheater with 23 pillars and life-size historical bronze murals",
+        "image": "https://images.unsplash.com/photo-1609137144813-7d9921338f24?w=800&auto=format&fit=crop&q=80"
+      },
+      {
+        "name": "Bhatpara Nilkuthi",
+        "bnName": "ভাটপাড়া নীলকুঠি",
+        "desc": "Colonial 19th-century British indigo processing factory ruins",
+        "image": "https://images.unsplash.com/photo-1544735716-392fe2489ffa?w=800&auto=format&fit=crop&q=80"
+      },
+      {
+        "name": "Amjhupi Nilkuthi",
+        "bnName": "আমঝুপি নীলকুঠি ও আমবাগান",
+        "desc": "Historic British manor set amidst lush mango groves on Kazla river",
+        "image": "https://images.unsplash.com/photo-1571003123894-1f0594d2b5d9?w=800&auto=format&fit=crop&q=80"
+      }
+    ],
+    "famousFoods": [
+      {
+        "name": "Meherpur Sabitri & Rosokadamba",
+        "bnName": "মেহেরপুরের সাবিত্রী ও রসকদম",
+        "desc": "Signature sweet made without water or excess sugar using an unrevealed century-old family method"
+      },
+      {
+        "name": "Meherpur Sweet Mangoes (Bombai, Himsagar)",
+        "bnName": "বোম্বাই ও হিমসাগর আম",
+        "desc": "Sweet, fragrant, thin-skinned mangoes"
+      }
+    ],
+    "culture": {
+      "history": "Birthplace of sovereign governance on April 17, 1971 when the Proclamation of Independence was formally announced.",
+      "traditions": "National Mujibnagar Day commemoration, peasant indigo revolt memories, and mango harvesting culture.",
+      "festivals": [
+        "Mujibnagar Day (April 17)",
+        "Mango Fair"
+      ],
+      "summaryBn": "বাংলাদেশের স্বাধীনতা ঘোষণার পুণ্যভূমি, নীল বিদ্রোহের ইতিহাস ও শতবর্ষী সাবিত্রী মিষ্টি।"
+    },
+    "coverImage": "https://images.unsplash.com/photo-1464822759023-fed622ff2c3b?w=800&auto=format&fit=crop&q=80",
+    "quickFacts": {
+      "famousFor": "Mujibnagar Memorial, Sabitri Sweet, Amjhupi Nilkuthi",
+      "mustTryDish": "Original Vasudev's Sabitri Sweet",
+      "nicknames": [
+        "First Capital of Sovereign Bangladesh"
+      ]
+    }
+  },
+  {
+    "id": "narail",
+    "name": "Narail",
+    "bnName": "নড়াইল",
+    "geoName": "Narail",
+    "division": "Khulna",
+    "divisionBn": "খুলনা",
+    "lat": 23.1725,
+    "lng": 89.5127,
+    "areaKm2": 990,
+    "tagline": "Homeland of master painter SM Sultan, Chitra river & Mashrafe Mortaza",
+    "taglineBn": "বিশ্ববরেণ্য চিত্রশিল্পী এস এম সুলতানের স্মৃতি ও রূপসী চিত্রা নদী",
+    "touristSpots": [
+      {
+        "name": "SM Sultan Memorial Museum & Boat (Shishuswarga)",
+        "bnName": "শিল্পী এস এম সুলতানের শিশুস্বর্গ ও স্মৃতিশালা",
+        "desc": "Studio and floating boat museum preserving paintings of heroic Bengali peasants",
+        "image": "https://images.unsplash.com/photo-1518495973542-4542c06a5843?w=800&auto=format&fit=crop&q=80"
+      },
+      {
+        "name": "Chitra Riverfront",
+        "bnName": "চিত্রা নদী",
+        "desc": "Picturesque scenic river lined with palms and water lilies",
+        "image": "https://images.unsplash.com/photo-1448375240586-882707db888b?w=800&auto=format&fit=crop&q=80"
+      },
+      {
+        "name": "Niribili Picnic Spot",
+        "bnName": "নিরিবিলি পিকনিক স্পট",
+        "desc": "Spacious family park along waterways",
+        "image": "https://images.unsplash.com/photo-1506744038136-46273834b3fb?w=800&auto=format&fit=crop&q=80"
+      },
+      {
+        "name": "Badhaghat",
+        "bnName": "বাঁধাঘাট",
+        "desc": "Historic stone-stepped river bathing ghat",
+        "image": "https://images.unsplash.com/photo-1464822759023-fed622ff2c3b?w=800&auto=format&fit=crop&q=80"
+      }
+    ],
+    "famousFoods": [
+      {
+        "name": "Sandesh & Chhanar Mishti",
+        "bnName": "নড়াইলের সন্দেশ ও রসগোল্লা",
+        "desc": "Fresh cottage cheese sweets prepared from rural pasture milk"
+      },
+      {
+        "name": "Chitra Freshwater Prawns",
+        "bnName": "চিত্রা নদীর চিংড়ি",
+        "desc": "Delicious river prawns cooked with mustard"
+      }
+    ],
+    "culture": {
+      "history": "Artistic home of SM Sultan and cricket captain Mashrafe Mortaza; vibrant traditions of rural peasant resilience.",
+      "traditions": "Sultan Mela art exhibitions, Chitra river boat races with long wooden dinghies, and folk wrestling.",
+      "festivals": [
+        "Annual Sultan Mela",
+        "Chitra Riverboat Regatta"
+      ],
+      "summaryBn": "শিল্পী এস এম সুলতানের তুলির আঁচড়, চিত্রা নদীর নৌকা বাইচ ও লোকশিল্পের ঐতিহ্য।"
+    },
+    "coverImage": "https://images.unsplash.com/photo-1518495973542-4542c06a5843?w=800&auto=format&fit=crop&q=80",
+    "quickFacts": {
+      "famousFor": "Painter SM Sultan, Chitra River, Mashrafe Mortaza",
+      "mustTryDish": "Narail Special Milk Sandesh",
+      "nicknames": [
+        "Canvas of Bengal"
+      ]
+    }
+  },
+  {
+    "id": "chuadanga",
+    "name": "Chuadanga",
+    "bnName": "চুয়াডাঙ্গা",
+    "geoName": "Chuadanga",
+    "division": "Khulna",
+    "divisionBn": "খুলনা",
+    "lat": 23.6401,
+    "lng": 88.8418,
+    "areaKm2": 1172,
+    "tagline": "First temporary capital hub, Carew & Co. distillery & famous sweets",
+    "taglineBn": "ঐতিহাসিক দর্শনা কেরু অ্যান্ড কোম্পানি ও স্পেশাল পানতোয়া মিষ্টি",
+    "touristSpots": [
+      {
+        "name": "Carew & Co. (Darshana Sugar Mill)",
+        "bnName": "কেরু অ্যান্ড কোম্পানি (দর্শনা)",
+        "desc": "Historic 1938 British-era sugar mill and oldest distillery in Bangladesh",
+        "image": "https://images.unsplash.com/photo-1464822759023-fed622ff2c3b?w=800&auto=format&fit=crop&q=80"
+      },
+      {
+        "name": "Gholdari Shahi Mosque",
+        "bnName": "ঘোলদাঁড়ি শাহী মসজিদ",
+        "desc": "Ancient pre-Mughal brick mosque dating to 1006 AD",
+        "image": "https://images.unsplash.com/photo-1470071459604-3b5ec3a7fe05?w=800&auto=format&fit=crop&q=80"
+      },
+      {
+        "name": "Karpasdanga Christian Mission",
+        "bnName": "কার্পাসডাঙ্গা নীলকুঠি ও মিশন",
+        "desc": "Historic mission where poet Kazi Nazrul Islam spent blissful days writing poems",
+        "image": "https://images.unsplash.com/photo-1513836279014-a89f7a76ae86?w=800&auto=format&fit=crop&q=80"
+      }
+    ],
+    "famousFoods": [
+      {
+        "name": "Chuadanga Pantoa Sweet",
+        "bnName": "চুয়াডাঙ্গার পানতোয়া",
+        "desc": "Rich dark browned sweet soaked in light aromatic cardamom syrup"
+      },
+      {
+        "name": "Carew Vinegar & Organic Syrups",
+        "bnName": "কেরুর খাঁটি ভিনেগার ও সিরাপ",
+        "desc": "Nationally celebrated quality fruit vinegars"
+      },
+      {
+        "name": "Seasonal Sweet Corn & Fruits",
+        "bnName": "ভুট্টা ও মিষ্টি ফল",
+        "desc": "High yield agricultural crops"
+      }
+    ],
+    "culture": {
+      "history": "Pivotal rail junction and temporary frontline headquarters in the 1971 Liberation War; rich Nazrul connection at Karpasdanga.",
+      "traditions": "Sugarcane milling season, railway culture at Darshana border, and folk music gatherings.",
+      "festivals": [
+        "Nazrul Memorial Festival",
+        "Darshana Winter Sugar Fair"
+      ],
+      "summaryBn": "দর্শনা কেরু অ্যান্ড কোম্পানির ঐতিহ্য, কবি কাজী নজরুলের স্মৃতিধন্য কার্পাসডাঙ্গা।"
+    },
+    "coverImage": "https://images.unsplash.com/photo-1596895111956-bf1cf0599ce5?w=800&auto=format&fit=crop&q=80",
+    "quickFacts": {
+      "famousFor": "Carew & Co., Chuadanga Pantoa, Nazrul Memorial",
+      "mustTryDish": "Original Chuadanga Pantoa",
+      "nicknames": [
+        "Border Railway Gateway"
+      ]
+    }
+  },
+  {
+    "id": "barisal",
+    "name": "Barisal",
+    "bnName": "বরিশাল",
+    "geoName": "Barisal",
+    "division": "Barishal",
+    "divisionBn": "বরিশাল",
+    "lat": 22.701,
+    "lng": 90.3535,
+    "areaKm2": 2785,
+    "tagline": "The Venice of Bengal, floating guava markets & Sher-e-Bangla heritage",
+    "taglineBn": "বাংলার ভেনিস, ভাসমান পেয়ারা বাজার ও শেরে বাংলার স্মৃতিধন্য নগরী",
+    "touristSpots": [
+      {
+        "name": "Bhimruli Floating Guava Market",
+        "bnName": "ভিমরুলী ভাসমান পেয়ারা বাজার",
+        "desc": "South Asia's largest floating market where hundreds of wooden boats trade fresh green guavas in canals",
+        "image": "https://images.unsplash.com/photo-1506744038136-46273834b3fb?w=800&auto=format&fit=crop&q=80"
+      },
+      {
+        "name": "Guthia Mosque (Baitul Aman)",
+        "bnName": "গুঠিয়া মসজিদ (বাইতুল আমান)",
+        "desc": "Magnificent modern Islamic architectural complex with 193-foot minaret and reflection pools",
+        "image": "https://images.unsplash.com/photo-1588083949404-c4f1ed1323b3?w=800&auto=format&fit=crop&q=80"
+      },
+      {
+        "name": "Durga Sagar Dighi",
+        "bnName": "দুর্গাসাগর দিঘি",
+        "desc": "Massive 1780 AD historic lake with an island sanctuary in the center",
+        "image": "https://images.unsplash.com/photo-1509316975850-ff9c5deb0cd9?w=800&auto=format&fit=crop&q=80"
+      },
+      {
+        "name": "Oxford Mission Epiphany Church",
+        "bnName": "অক্সফোর্ড মিশন চার্চ",
+        "desc": "One of the most magnificent Greek-inspired brick churches in Asia",
+        "image": "https://images.unsplash.com/photo-1596895111956-bf1cf0599ce5?w=800&auto=format&fit=crop&q=80"
+      }
+    ],
+    "famousFoods": [
+      {
+        "name": "Fresh Sweet Guavas",
+        "bnName": "বরিশালের পেয়ারা ও আমড়া",
+        "desc": "Crisp green guavas and succulent hog plums with pink salt and chili"
+      },
+      {
+        "name": "Barishal Hilsa Curry",
+        "bnName": "পদ্মা-মেঘনার ইলিশ মাছের পাতুরি",
+        "desc": "Tender fatty Hilsa wrapped in gourd leaves and steamed with mustard"
+      },
+      {
+        "name": "Shondesh & Rosogolla",
+        "bnName": "বরিশালের স্পেশাল মিষ্টি",
+        "desc": "Fresh milk delicacies from local dairy haats"
+      }
+    ],
+    "culture": {
+      "history": "Ancient Bakla-Chandradwip kingdom; homeland of peasant leader Sher-e-Bangla A.K. Fazlul Huq and poet Jibanananda Das.",
+      "traditions": "Canal-based canal navigation, paddle steamer journeys, and romantic Dhansiri river folklore.",
+      "festivals": [
+        "Floating Guava Carnival",
+        "Jibanananda Literature Festival"
+      ],
+      "summaryBn": "ভাসমান পেয়ারা বাজারের নৈসর্গিক দৃশ্য, জীবনানন্দ দাশের রূপসী বাংলা ও খালের ছন্দময় জীবন।"
+    },
+    "coverImage": "https://images.unsplash.com/photo-1506744038136-46273834b3fb?w=800&auto=format&fit=crop&q=80",
+    "quickFacts": {
+      "famousFor": "Floating Guava Market, Guthia Mosque, Durga Sagar, Jibanananda Das",
+      "mustTryDish": "Steamed Mustard Hilsa & Crisp Bhimruli Guavas",
+      "nicknames": [
+        "Venice of Bengal",
+        "Granary of the South"
+      ]
+    }
+  },
+  {
+    "id": "patuakhali",
+    "name": "Patuakhali",
+    "bnName": "পটুয়াখালী",
+    "geoName": "Patuakhali",
+    "division": "Barishal",
+    "divisionBn": "বরিশাল",
+    "lat": 22.3596,
+    "lng": 90.3299,
+    "areaKm2": 3221,
+    "tagline": "Daughter of the Sea Kuakata beach where both sunrise & sunset meet",
+    "taglineBn": "সাগরকন্যা কুয়াকাটা—যেখানে একই সৈকতে সূর্যোদয় ও সূর্যাস্ত দেখা যায়",
+    "touristSpots": [
+      {
+        "name": "Kuakata Sea Beach (Sagar Kanya)",
+        "bnName": "কুয়াকাটা সমুদ্র সৈকত",
+        "desc": "Rare panoramic 18 km beach offering views of both sunrise and sunset over the Bay of Bengal",
+        "image": "https://images.unsplash.com/photo-1507525428034-b723cf961d3e?w=800&auto=format&fit=crop&q=80"
+      },
+      {
+        "name": "Fatrar Chor (Mangrove Forest)",
+        "bnName": "ফাতরার চর (সুন্দরবনের পূর্বাংশ)",
+        "desc": "Dense coastal mangrove island teeming with wildlife",
+        "image": "https://images.unsplash.com/photo-1608958435020-e8a7109ba809?w=800&auto=format&fit=crop&q=80"
+      },
+      {
+        "name": "Gangamati Reserved Forest & Red Crab Beach",
+        "bnName": "লাল কাঁকড়ার দ্বীপ ও ঝাউবন",
+        "desc": "Endless sands painted red by millions of scurrying red crabs",
+        "image": "https://images.unsplash.com/photo-1578632767115-351597cf2477?w=800&auto=format&fit=crop&q=80"
+      },
+      {
+        "name": "Ancient Buddhist Temple & Well",
+        "bnName": "কুয়াকাটার প্রাচীন কুয়া ও সীমা বৌদ্ধ বিহার",
+        "desc": "Historic freshwater well and ancient 200-year-old wooden Rakhine pagoda",
+        "image": "https://images.unsplash.com/photo-1588083949404-c4f1ed1323b3?w=800&auto=format&fit=crop&q=80"
+      }
+    ],
+    "famousFoods": [
+      {
+        "name": "Crab Fry & Sea Fish BBQ",
+        "bnName": "তাজা সামুদ্রিক কাঁকড়া ফ্রাই ও রূপচাঁদা বারবিকিউ",
+        "desc": "Fresh caught coastal mud crabs and ocean fish spiced on hot griddles"
+      },
+      {
+        "name": "Rakhine Coconut Sticky Cake",
+        "bnName": "রাখাইনদের পিঠা ও নারকেলের মিষ্টি",
+        "desc": "Traditional tribal sweet rice confection"
+      },
+      {
+        "name": "Buffalo Curd",
+        "bnName": "মহিষের দই",
+        "desc": "Thick coastal artisanal curd"
+      }
+    ],
+    "culture": {
+      "history": "Historical haven of the Rakhine community who fled Arakan in 1784; ancient coastal wells dug for fresh water.",
+      "traditions": "Rakhine handloom weaving, Rash Mela holy bath at full moon, and marine fishing fleets.",
+      "festivals": [
+        "Kuakata Rash Mela & Snan",
+        "Rakhine Sangken Water Festival"
+      ],
+      "summaryBn": "সাগরকন্যা কুয়াকাটার সূর্যোদয়-সূর্যাস্ত, রাখাইন সংস্কৃতি ও লাল কাঁকড়ার লাল গালিচা।"
+    },
+    "coverImage": "https://images.unsplash.com/photo-1507525428034-b723cf961d3e?w=800&auto=format&fit=crop&q=80",
+    "quickFacts": {
+      "famousFor": "Sunrise & Sunset Beach, Red Crabs, Rakhine Heritage",
+      "mustTryDish": "Spicy Coastal Crab Fry & Grilled Coral Fish",
+      "nicknames": [
+        "Daughter of the Sea (Sagar Kanya)"
+      ]
+    }
+  },
+  {
+    "id": "bhola",
+    "name": "Bhola",
+    "bnName": "ভোলা",
+    "geoName": "Bhola",
+    "division": "Barishal",
+    "divisionBn": "বরিশাল",
+    "lat": 22.6859,
+    "lng": 90.6481,
+    "areaKm2": 3403,
+    "tagline": "The largest natural island district of Bangladesh & buffalo curd royalty",
+    "taglineBn": "বাংলাদেশের বৃহত্তম দ্বীপ জেলা, জ্যাকব টাওয়ার ও আসল মহিষের দই",
+    "touristSpots": [
+      {
+        "name": "Jacob Tower (Char Fasson)",
+        "bnName": "জ্যাকব টাওয়ার (চরফ্যাশন)",
+        "desc": "Tallest modern watchtower in South Asia (225 feet) offering 360-degree island views",
+        "image": "https://images.unsplash.com/photo-1470071459604-3b5ec3a7fe05?w=800&auto=format&fit=crop&q=80"
+      },
+      {
+        "name": "Char Kukri Mukri",
+        "bnName": "চর কুকরি মুকরি বন্যপ্রাণী অভয়ারণ্য",
+        "desc": "Untamed wilderness island of mangrove forests and migrating waterfowls",
+        "image": "https://images.unsplash.com/photo-1609137144813-7d9921338f24?w=800&auto=format&fit=crop&q=80"
+      },
+      {
+        "name": "Tarua Sea Beach",
+        "bnName": "তারুয়া সমুদ্র সৈকত",
+        "desc": "Secluded pristine white sand beach surrounded by mangroves",
+        "image": "https://images.unsplash.com/photo-1544735716-392fe2489ffa?w=800&auto=format&fit=crop&q=80"
+      },
+      {
+        "name": "Monpura Island",
+        "bnName": "মনপুরা দ্বীপ",
+        "desc": "Dreamy, poetic island surrounded by the roaring Meghna estuary",
+        "image": "https://images.unsplash.com/photo-1571003123894-1f0594d2b5d9?w=800&auto=format&fit=crop&q=80"
+      }
+    ],
+    "famousFoods": [
+      {
+        "name": "Authentic Bhola Buffalo Milk Curd",
+        "bnName": "ভোলার আসল মহিষের কাঁচা দুধের দই",
+        "desc": "Thick clotted curd made in earthen vessels eaten with date molasses or puffed rice"
+      },
+      {
+        "name": "Meghna Silver Hilsa",
+        "bnName": "মেঘনার রূপালি ইলিশ",
+        "desc": "The benchmark for coastal Hilsa fish"
+      },
+      {
+        "name": "Island Crab & Duck",
+        "bnName": "হাঁসের মাংস ভুনা ও কাঁকড়া",
+        "desc": "Hearty winter country fowl curry"
+      }
+    ],
+    "culture": {
+      "history": "Ancient island of South Shahbazpur; frontline buffer facing the Bay of Bengal with rich pastoral traditions.",
+      "traditions": "Bathani buffalo herding culture in open chars, maritime seafaring, and island folklore.",
+      "festivals": [
+        "Kukri Mukri Eco Fest",
+        "Island Boat Carnival"
+      ],
+      "summaryBn": "দ্বীপের শান্ত নির্জনতা, মহিষের বাথান, মেঘনার উত্তাল রূপ ও দৃষ্টিনন্দন ওয়াচ টাওয়ার।"
+    },
+    "coverImage": "https://images.unsplash.com/photo-1470071459604-3b5ec3a7fe05?w=800&auto=format&fit=crop&q=80",
+    "quickFacts": {
+      "famousFor": "Largest Island, Jacob Tower, Buffalo Milk Curd, Char Kukri Mukri",
+      "mustTryDish": "Authentic Bhola Buffalo Curd with Date Syrup",
+      "nicknames": [
+        "Queen Island of Bengal"
+      ]
+    }
+  },
+  {
+    "id": "barguna",
+    "name": "Barguna",
+    "bnName": "বরগুনা",
+    "geoName": "Barguna",
+    "division": "Barishal",
+    "divisionBn": "বরিশাল",
+    "lat": 22.0953,
+    "lng": 90.1121,
+    "areaKm2": 1831,
+    "tagline": "Horinghata mangrove forest, Shonarchar beach & coastal river life",
+    "taglineBn": "হরিণঘাটা বন, লালদিয়া সমুদ্র সৈকত ও নদী-সাগরের মিতালী",
+    "touristSpots": [
+      {
+        "name": "Horinghata Mangrove Eco Park",
+        "bnName": "হরিণঘাটা ইকোপার্ক ও বন",
+        "desc": "Wild coastal mangrove forest teeming with wild deer, monkeys, and migratory birds",
+        "image": "https://images.unsplash.com/photo-1448375240586-882707db888b?w=800&auto=format&fit=crop&q=80"
+      },
+      {
+        "name": "Shuvoshondha Sea Beach",
+        "bnName": "শুভসন্ধ্যা সমুদ্র সৈকত",
+        "desc": "Serene coastal beach where Payra river meets the blue ocean",
+        "image": "https://images.unsplash.com/photo-1518495973542-4542c06a5843?w=800&auto=format&fit=crop&q=80"
+      },
+      {
+        "name": "Laldia Forest & Beach",
+        "bnName": "লালদিয়া বন ও সৈকত",
+        "desc": "Untouched secluded sandy coastline surrounded by Casuarina trees",
+        "image": "https://images.unsplash.com/photo-1448375240586-882707db888b?w=800&auto=format&fit=crop&q=80"
+      },
+      {
+        "name": "Bibir Chini Shahi Mosque",
+        "bnName": "বিবিচিনি শাহী মসজিদ",
+        "desc": "17th-century Mughal brick mosque built on a high mound",
+        "image": "https://images.unsplash.com/photo-1506744038136-46273834b3fb?w=800&auto=format&fit=crop&q=80"
+      }
+    ],
+    "famousFoods": [
+      {
+        "name": "Chui Jhal Coastal Meat",
+        "bnName": "চুইঝাল দিয়ে মাংস",
+        "desc": "Zesty country-style stew"
+      },
+      {
+        "name": "Dried Fish Delicacies (Shutki)",
+        "bnName": "শুটকি ও সামুদ্রিক মাছ",
+        "desc": "Sun-dried fish delicacies from Patharghata fishing port"
+      },
+      {
+        "name": "Buffalo Curd",
+        "bnName": "মহিষের দই",
+        "desc": "Rich creamy island curd"
+      }
+    ],
+    "culture": {
+      "history": "Major hub of marine fish landing centers at Patharghata; historical landing site of Magh and Rakhine settlers.",
+      "traditions": "Deep-sea fishing trawler voyages, Casuarina grove retreats, and coastal folk tunes.",
+      "festivals": [
+        "Horinghata Forest Mela",
+        "Fishermen Sea-going Fair"
+      ],
+      "summaryBn": "উপকূলীয় প্যারাবন, হরিণঘাটার হরিণের দল এবং জেলেদের সমুদ্রযাত্রার সংগ্রামী রূপ।"
+    },
+    "coverImage": "https://images.unsplash.com/photo-1448375240586-882707db888b?w=800&auto=format&fit=crop&q=80",
+    "quickFacts": {
+      "famousFor": "Horinghata Eco Forest, Shuvoshondha Beach, Patharghata Fisheries",
+      "mustTryDish": "Spicy Coastal Dry Fish Bhorta & Fresh Coral Fish",
+      "nicknames": [
+        "Haven of Green Mangroves"
+      ]
+    }
+  },
+  {
+    "id": "pirojpur",
+    "name": "Pirojpur",
+    "bnName": "পিরোজপুর",
+    "geoName": "Pirojpur",
+    "division": "Barishal",
+    "divisionBn": "বরিশাল",
+    "lat": 22.5791,
+    "lng": 89.9759,
+    "areaKm2": 1307,
+    "tagline": "The Guava and Hog Plum capital, Kuriana floating canal market & rivers",
+    "taglineBn": "কুড়িয়ানা ভাসমান পেয়ারা বাজার, রূপসী সন্ধ্যা নদী ও সুস্বাদু আমড়া",
+    "touristSpots": [
+      {
+        "name": "Kuriana Floating Guava Market",
+        "bnName": "কুড়িয়ানা ভাসমান পেয়ারা বাজার",
+        "desc": "Enchanting canal network where local farmers sell boatloads of fresh guavas and hog plums",
+        "image": "https://images.unsplash.com/photo-1506744038136-46273834b3fb?w=800&auto=format&fit=crop&q=80"
+      },
+      {
+        "name": "Rayerkathi Zamindar Bari",
+        "bnName": "রায়েরকাঠি জমিদার বাড়ি",
+        "desc": "16th-century palace ruins with historic Shiva temples",
+        "image": "https://images.unsplash.com/photo-1464822759023-fed622ff2c3b?w=800&auto=format&fit=crop&q=80"
+      },
+      {
+        "name": "Baleshwar Riverfront",
+        "bnName": "বলেশ্বর নদীর পাড়",
+        "desc": "Scenic riverfront walkway overlooking vast tidal currents",
+        "image": "https://images.unsplash.com/photo-1470071459604-3b5ec3a7fe05?w=800&auto=format&fit=crop&q=80"
+      },
+      {
+        "name": "Hularhat Launch Ghat",
+        "bnName": "হুলারহাট প্রাচীন বন্দর",
+        "desc": "Historic steamer terminus linking southern districts",
+        "image": "https://images.unsplash.com/photo-1513836279014-a89f7a76ae86?w=800&auto=format&fit=crop&q=80"
+      }
+    ],
+    "famousFoods": [
+      {
+        "name": "Pirojpur Amra (Hog Plum)",
+        "bnName": "পিরোজপুরের মিষ্টি আমড়া",
+        "desc": "Nationally celebrated sweet, crisp hog plums eaten fresh or in chutneys"
+      },
+      {
+        "name": "Fresh Sweet Guavas",
+        "bnName": "পেয়ারা",
+        "desc": "Sweet, fragrant green fruit harvested from canal orchards"
+      },
+      {
+        "name": "Baleshwar River Fish",
+        "bnName": "নদীর তরতাজা মাছ",
+        "desc": "Fresh sweet fishes fried crisp"
+      }
+    ],
+    "culture": {
+      "history": "Ancient maritime gateway; home of courageous Liberation War martyrs and heroic peasant movements.",
+      "traditions": "Canoeing through narrow green fruit orchard canals, hog plum trading, and river steamer folklore.",
+      "festivals": [
+        "Kuriana Fruit Harvest Carnival",
+        "Sandhya Riverboat Mela"
+      ],
+      "summaryBn": "খালের কোলঘেঁষা পেয়ারা ও আমড়া বাগান, গ্রামীণ কাঠের নৌকার জীবন ও ভাসমান হাট।"
+    },
+    "coverImage": "https://images.unsplash.com/photo-1506744038136-46273834b3fb?w=800&auto=format&fit=crop&q=80",
+    "quickFacts": {
+      "famousFor": "Kuriana Guava Market, Pirojpur Amra, Rayerkathi Zamindar Bari",
+      "mustTryDish": "Fresh Pirojpur Sweet Amra with Chili & Rock Salt",
+      "nicknames": [
+        "Orchard of the South"
+      ]
+    }
+  },
+  {
+    "id": "jhalokati",
+    "name": "Jhalokati",
+    "bnName": "ঝালকাঠি",
+    "geoName": "Jhalokati",
+    "division": "Barishal",
+    "divisionBn": "বরিশাল",
+    "lat": 22.6416,
+    "lng": 90.1987,
+    "areaKm2": 758,
+    "tagline": "Scenic floating rice and fruit markets & the Sugandha riverbanks",
+    "taglineBn": "সুগন্ধা নদীর রূপ, ভাসমান ধানের হাট ও শীতলপাটির ঐতিহ্য",
+    "touristSpots": [
+      {
+        "name": "Kirtipasha Zamindar Bari",
+        "bnName": "কীর্তিপাশা জমিদার বাড়ি",
+        "desc": "Grand aristocratic palace ruins surrounded by old banyan trees",
+        "image": "https://images.unsplash.com/photo-1513836279014-a89f7a76ae86?w=800&auto=format&fit=crop&q=80"
+      },
+      {
+        "name": "Bhimruli Canal Gateway",
+        "bnName": "ভিমরুলী ও সুগন্ধা নদীর মোহনা",
+        "desc": "Where floating guava and paddle boats enter the central orchards",
+        "image": "https://images.unsplash.com/photo-1500530855697-b586d89ba3ee?w=800&auto=format&fit=crop&q=80"
+      },
+      {
+        "name": "Sujabad Fort",
+        "bnName": "সুজাবাদ কেল্লা",
+        "desc": "Mughal river fort built to resist Arakanese pirates",
+        "image": "https://images.unsplash.com/photo-1507525428034-b723cf961d3e?w=800&auto=format&fit=crop&q=80"
+      },
+      {
+        "name": "Shitalpati Weaving Villages",
+        "bnName": "শীতলপাটি গ্রাম",
+        "desc": "Artisanal villages weaving UNESCO-inscribed cool reed sleeping mats",
+        "image": "https://images.unsplash.com/photo-1509316975850-ff9c5deb0cd9?w=800&auto=format&fit=crop&q=80"
+      }
+    ],
+    "famousFoods": [
+      {
+        "name": "Fresh Sweet Guavas & Amra",
+        "bnName": "পেয়ারা ও আমড়া",
+        "desc": "Fresh sweet fruit straight from riverside trees"
+      },
+      {
+        "name": "Traditional Curd & Rosogolla",
+        "bnName": "দই ও মিষ্টি",
+        "desc": "Creamy milk sweets"
+      },
+      {
+        "name": "River Hilsa & Prawns",
+        "bnName": "নদীর ইলিশ",
+        "desc": "Sweet river Hilsa"
+      }
+    ],
+    "culture": {
+      "history": "Known as the second Kolkata during British mercantile river commerce; famous for traditional Shitalpati craft.",
+      "traditions": "UNESCO-recognized Shitalpati weaving using Murta reed cane, floating haats, and canal regattas.",
+      "festivals": [
+        "Shitalpati Craft Fair",
+        "Bhimruli Fruit Season Mela"
+      ],
+      "summaryBn": "ইউনেস্কো স্বীকৃত শীতলপাটির বুননশিল্প, সুগন্ধা নদীর বাতাস ও ভাসমান বাণিজ্যের সমৃদ্ধি।"
+    },
+    "coverImage": "https://images.unsplash.com/photo-1448375240586-882707db888b?w=800&auto=format&fit=crop&q=80",
+    "quickFacts": {
+      "famousFor": "UNESCO Shitalpati, Floating Markets, Kirtipasha Palace",
+      "mustTryDish": "Fresh Guavas with Rock Salt & River Fish",
+      "nicknames": [
+        "Little Venice of Bengal"
+      ]
+    }
+  },
+  {
+    "id": "rangpur",
+    "name": "Rangpur",
+    "bnName": "রংপুর",
+    "geoName": "Rangpur",
+    "division": "Rangpur",
+    "divisionBn": "রংপুর",
+    "lat": 25.7439,
+    "lng": 89.2752,
+    "areaKm2": 2370,
+    "tagline": "Stately Tajhat Palace, Harano Din tobacco trade & Haribhanga mango",
+    "taglineBn": "ঐতিহাসিক তাজহাট রাজবাড়ি, সুস্বাদু হাঁড়িভাঙা আম ও শতরঞ্জি",
+    "touristSpots": [
+      {
+        "name": "Tajhat Palace & Museum",
+        "bnName": "তাজহাট রাজবাড়ি ও জাদুঘর",
+        "desc": "Stunning neoclassical palace with white marble stairs and ionic colonnades",
+        "image": "https://images.unsplash.com/photo-1509316975850-ff9c5deb0cd9?w=800&auto=format&fit=crop&q=80"
+      },
+      {
+        "name": "Chikli Water Park",
+        "bnName": "চিকলি ওয়াটার পার্ক",
+        "desc": "Serene urban lake with pedal boating and evening illumination",
+        "image": "https://images.unsplash.com/photo-1596895111956-bf1cf0599ce5?w=800&auto=format&fit=crop&q=80"
+      },
+      {
+        "name": "Vinnya Jagat Theme Park",
+        "bnName": "ভিন্ন জগত পিকনিক স্পট",
+        "desc": "Large amusement recreation park and botanical gardens",
+        "image": "https://images.unsplash.com/photo-1608958435020-e8a7109ba809?w=800&auto=format&fit=crop&q=80"
+      },
+      {
+        "name": "Pirgachha Manthana Palace",
+        "bnName": "পীরগাছা মন্থনা রাজবাড়ি",
+        "desc": "Historic 18th-century palace of rebel queen Devi Chaudhurani",
+        "image": "https://images.unsplash.com/photo-1578632767115-351597cf2477?w=800&auto=format&fit=crop&q=80"
+      }
+    ],
+    "famousFoods": [
+      {
+        "name": "Haribhanga Mango",
+        "bnName": "বিখ্যাত হাঁড়িভাঙা আম",
+        "desc": "GI-certified fiberless, intensely sweet and fleshy royal mango"
+      },
+      {
+        "name": "Rangpuriya Tilor Khaja",
+        "bnName": "রংপুরের তিলের খাজা",
+        "desc": "Crispy sesame candy"
+      },
+      {
+        "name": "Smoked Dry Fish (Sidol)",
+        "bnName": "সিদল ভর্তা",
+        "desc": "Unique fermented North Bengal dried fish and taro paste roasted spicy"
+      }
+    ],
+    "culture": {
+      "history": "Heroic peasant Tebhaga and anti-British Fakir-Sannyasi rebellions led by Devi Chaudhurani and Bhavani Pathak.",
+      "traditions": "UNESCO-recognized Shataranji hand-woven colorful floor carpets from Nisbetganj and Bhawaiya folk songs.",
+      "festivals": [
+        "Haribhanga Mango Utsab",
+        "Shataranji Handloom Expo",
+        "Bhawaiya Gaan Mela"
+      ],
+      "summaryBn": "ইউনেস্কো স্বীকৃত শতরঞ্জি তাঁতশিল্প, ভাওয়াইয়া সুরের মূর্ছনা এবং তাজহাট রাজবাড়ির রাজকীয় আভিজাত্য।"
+    },
+    "coverImage": "https://images.unsplash.com/photo-1544735716-392fe2489ffa?w=800&auto=format&fit=crop&q=80",
+    "quickFacts": {
+      "famousFor": "Tajhat Palace, Haribhanga Mango, Shataranji Rugs",
+      "mustTryDish": "Original Haribhanga Mango & Spicy Sidol Bhorta",
+      "nicknames": [
+        "Capital of the North",
+        "Land of Bhawaiya"
+      ]
+    }
+  },
+  {
+    "id": "dinajpur",
+    "name": "Dinajpur",
+    "bnName": "দিনাজপুর",
+    "geoName": "Dinajpur",
+    "division": "Rangpur",
+    "divisionBn": "রংপুর",
+    "lat": 25.6217,
+    "lng": 88.6355,
+    "areaKm2": 3444,
+    "tagline": "Architectural marvel Kantajew Temple, Ramsagar lake & juicy litchis",
+    "taglineBn": "টেরাকোটার বিস্ময় কান্তজিউ মন্দির, রামসাগর দিঘি ও বেদানা লিচু",
+    "touristSpots": [
+      {
+        "name": "Kantajew Temple (Kantaji)",
+        "bnName": "কান্তজিউ মন্দির (কান্তনগর)",
+        "desc": "1752 AD terracotta masterpiece covered in thousands of intricate mythological relief plaques",
+        "image": "https://images.unsplash.com/photo-1578632767115-351597cf2477?w=800&auto=format&fit=crop&q=80"
+      },
+      {
+        "name": "Ramsagar National Park",
+        "bnName": "রামসাগর জাতীয় উদ্যান ও দিঘি",
+        "desc": "Largest man-made historic reservoir in Bangladesh excavated by Raja Ramnath",
+        "image": "https://images.unsplash.com/photo-1506744038136-46273834b3fb?w=800&auto=format&fit=crop&q=80"
+      },
+      {
+        "name": "Nayabad Mosque",
+        "bnName": "নয়াবাদ মসজিদ",
+        "desc": "18th-century terracotta mosque built by craftsmen who erected Kantajew Temple",
+        "image": "https://images.unsplash.com/photo-1609137144813-7d9921338f24?w=800&auto=format&fit=crop&q=80"
+      },
+      {
+        "name": "Shopnopuri Theme Park",
+        "bnName": "স্বপ্নপুরী বিনোদন কেন্দ্র",
+        "desc": "Famous expansive amusement and film village park",
+        "image": "https://images.unsplash.com/photo-1544735716-392fe2489ffa?w=800&auto=format&fit=crop&q=80"
+      }
+    ],
+    "famousFoods": [
+      {
+        "name": "Dinajpur Bedana & Bombay Litchi",
+        "bnName": "দিনাজপুরের বেদানা ও বোম্বাই লিচু",
+        "desc": "The most aromatic, plump and juicy litchis in South Asia"
+      },
+      {
+        "name": "Kataribhog Aromatic Rice",
+        "bnName": "সুগন্ধি কাটারিভোগ ও চিনিগুঁড়া চাল",
+        "desc": "Fragrant slender rice used for royal biryanis and payesh"
+      },
+      {
+        "name": "Papar & Sweet Sandesh",
+        "bnName": "পাপড় ও সন্দেশ",
+        "desc": "Traditional snacks"
+      }
+    ],
+    "culture": {
+      "history": "Ancient Varendra royal seat under Maharaja Prannath; rich indigenous Santal culture and folk craft.",
+      "traditions": "Ras Mela festival at Kantaji Temple, Santal harvest dances, and litchi orchard markets in May-June.",
+      "festivals": [
+        "Kantaji Raas Mela",
+        "Litchi Harvest Fair",
+        "Santal Sohrai Festival"
+      ],
+      "summaryBn": "পোড়ামাটির অপরূপ কান্তজিউ মন্দির, মহারাজা রামনাথের রামসাগর ও বিখ্যাত বেদানা লিচুর স্বাদ।"
+    },
+    "coverImage": "https://images.unsplash.com/photo-1571003123894-1f0594d2b5d9?w=800&auto=format&fit=crop&q=80",
+    "quickFacts": {
+      "famousFor": "Kantajew Terracotta Temple, Ramsagar Dighi, Bedana Litchi",
+      "mustTryDish": "Fresh Dinajpur Bedana Litchi & Kataribhog Payesh",
+      "nicknames": [
+        "Litchi Capital",
+        "Land of Terracotta"
+      ]
+    }
+  },
+  {
+    "id": "panchagarh",
+    "name": "Panchagarh",
+    "bnName": "পঞ্চগড়",
+    "geoName": "Panchagarh",
+    "division": "Rangpur",
+    "divisionBn": "রংপুর",
+    "lat": 26.3411,
+    "lng": 88.5541,
+    "areaKm2": 1404,
+    "tagline": "Northernmost tip of Bangladesh, plain-land tea gardens & Kanchenjunga view",
+    "taglineBn": "বাংলাদেশের সর্বউত্তরের জেলা, সমতলের চা বাগান ও কাঞ্চনজঙ্ঘার শুভ্র রূপ",
+    "touristSpots": [
+      {
+        "name": "Tetulia Zero Point & Kanchenjunga View",
+        "bnName": "তেঁতুলিয়া জিরো পয়েন্ট ও কাঞ্চনজঙ্ঘা দর্শন",
+        "desc": "Picturesque border dak bungalow where snow-capped Himalayan peak Mount Kanchenjunga glistens on autumn mornings",
+        "image": "https://images.unsplash.com/photo-1464822759023-fed622ff2c3b?w=800&auto=format&fit=crop&q=80"
+      },
+      {
+        "name": "Plain-land Tea Estates",
+        "bnName": "সমতলের সবুজ চা বাগান",
+        "desc": "Vast green flatland tea plantations expanding across Tetulia",
+        "image": "https://images.unsplash.com/photo-1571003123894-1f0594d2b5d9?w=800&auto=format&fit=crop&q=80"
+      },
+      {
+        "name": "Banglabandha Land Port",
+        "bnName": "বাংলাবান্ধা জিরো পয়েন্ট",
+        "desc": "International quadri-junction land port connecting Bangladesh, India, Nepal, and Bhutan",
+        "image": "https://images.unsplash.com/photo-1518495973542-4542c06a5843?w=800&auto=format&fit=crop&q=80"
+      },
+      {
+        "name": "Mirzapur Shahi Mosque",
+        "bnName": "মির্জাপুর শাহী মসজিদ",
+        "desc": "1656 AD Mughal brick mosque with intricate terracotta inscriptions",
+        "image": "https://images.unsplash.com/photo-1448375240586-882707db888b?w=800&auto=format&fit=crop&q=80"
+      },
+      {
+        "name": "Bhitargarh Fort City",
+        "bnName": "ভিতরগড় প্রাচীন দুর্গনগরী",
+        "desc": "Largest fortified medieval city complex in Bangladesh",
+        "image": "https://images.unsplash.com/photo-1506744038136-46273834b3fb?w=800&auto=format&fit=crop&q=80"
+      }
+    ],
+    "famousFoods": [
+      {
+        "name": "Panchagarh Organic Green Tea",
+        "bnName": "পঞ্চগড়ের সমতলের অর্গানিক গ্রিন টি",
+        "desc": "High-antioxidant premium green and black teas"
+      },
+      {
+        "name": "Freshwater River Stone Fish",
+        "bnName": "মহা নদী ও করতোয়ার পাথর মাছ",
+        "desc": "Fresh fish caught from crystal-clear stone rivers"
+      },
+      {
+        "name": "Watermelon of Tetulia",
+        "bnName": "তেঁতুলিয়ার মিষ্টি তরমুজ",
+        "desc": "Crisp sweet summer melons"
+      }
+    ],
+    "culture": {
+      "history": "Ancient sovereign realm of King Prithu; northern strategic gate flanked by the Himalayas and Mahananda river.",
+      "traditions": "Flatland tea pluckers lifestyle, Himalayan stone collection in icy rivers, and autumn mountain-gazing.",
+      "festivals": [
+        "Kanchenjunga Autumn Tourism Mela",
+        "Tetulia Tea Fest"
+      ],
+      "summaryBn": "হিমালয়কন্যা তেঁতুলিয়া, কাঞ্চনজঙ্ঘার রূপালি মুকুট ও সমতলের অর্গানিক চায়ের বাগান।"
+    },
+    "coverImage": "https://images.unsplash.com/photo-1464822759023-fed622ff2c3b?w=800&auto=format&fit=crop&q=80",
+    "quickFacts": {
+      "famousFor": "View of Mt Kanchenjunga, Tetulia Zero Point, Plain-land Tea, Banglabandha",
+      "mustTryDish": "Fresh Plain-land Organic Green Tea & River Fish",
+      "nicknames": [
+        "Daughter of the Himalayas (Himaloy Kanya)"
+      ]
+    }
+  },
+  {
+    "id": "nilphamari",
+    "name": "Nilphamari",
+    "bnName": "নীলফামারী",
+    "geoName": "Nilphamari",
+    "division": "Rangpur",
+    "divisionBn": "রংপুর",
+    "lat": 25.9317,
+    "lng": 88.856,
+    "areaKm2": 1580,
+    "tagline": "Historic Teesta Barrage, Saidpur railway heritage & Chini Mosque",
+    "taglineBn": "তিস্তা ব্যারেজের বিশালতা, নীলকুঠির ইতিহাস ও চিনি মসজিদ",
+    "touristSpots": [
+      {
+        "name": "Teesta Barrage (Dalia)",
+        "bnName": "তিস্তা ব্যারেজ (ডালিয়া)",
+        "desc": "Bangladesh's largest irrigation barrage spanning the ferocious Teesta river",
+        "image": "https://images.unsplash.com/photo-1507525428034-b723cf961d3e?w=800&auto=format&fit=crop&q=80"
+      },
+      {
+        "name": "Saidpur Railway Workshop",
+        "bnName": "সৈয়দপুর রেলওয়ে কারখানা",
+        "desc": "Historic 1870 British railway mechanical workshops, largest in South Asia",
+        "image": "https://images.unsplash.com/photo-1506744038136-46273834b3fb?w=800&auto=format&fit=crop&q=80"
+      },
+      {
+        "name": "Chini Mosque (Porcelain Mosque)",
+        "bnName": "চিনি মসজিদ (সৈয়দপুর)",
+        "desc": "Breathtaking 1863 mosque decorated with 243 minarets and 25 tons of porcelain china shards",
+        "image": "https://images.unsplash.com/photo-1464822759023-fed622ff2c3b?w=800&auto=format&fit=crop&q=80"
+      },
+      {
+        "name": "Neel Kuthi (Nilsagar)",
+        "bnName": "নীলসাগর দিঘি",
+        "desc": "Historic 9th-century reservoir excavated by King Birat amidst lush trees",
+        "image": "https://images.unsplash.com/photo-1470071459604-3b5ec3a7fe05?w=800&auto=format&fit=crop&q=80"
+      }
+    ],
+    "famousFoods": [
+      {
+        "name": "Saidpur Beef Chaap & Paratha",
+        "bnName": "সৈয়দপুরের বিফ চাপ ও লুচি",
+        "desc": "Fiery spicy pan-fried marinated beef slices with crisp luchi"
+      },
+      {
+        "name": "Chomchom of Domar",
+        "bnName": "ডোমারের চমচম",
+        "desc": "Spongy caramel sweet"
+      },
+      {
+        "name": "Teesta River Fish",
+        "bnName": "তিস্তার বৈরালী ও বোরোলি মাছ",
+        "desc": "Prized small sweet river fish delicacy"
+      }
+    ],
+    "culture": {
+      "history": "Named from historic indigo (Neel) farming during British company rule; center of the historic peasant Indigo Revolt.",
+      "traditions": "Railway town culture of Saidpur, Bhawaiya musical nights, and winter migratory bird watching at Nilsagar.",
+      "festivals": [
+        "Nilsagar Winter Bird Fair",
+        "Teesta River Festival"
+      ],
+      "summaryBn": "তিস্তা নদীর প্রাণচাঞ্চল্য, চীনা মাটির টুকরোয় গড়া চিনি মসজিদ ও নীল বিদ্রোহের স্মৃতি।"
+    },
+    "coverImage": "https://images.unsplash.com/photo-1507525428034-b723cf961d3e?w=800&auto=format&fit=crop&q=80",
+    "quickFacts": {
+      "famousFor": "Teesta Barrage, Chini Mosque, Nilsagar Lake, Saidpur Railway",
+      "mustTryDish": "Saidpur Spicy Beef Chaap & Teesta Boroli Fish",
+      "nicknames": [
+        "Land of Indigo Resistance"
+      ]
+    }
+  },
+  {
+    "id": "kurigram",
+    "name": "Kurigram",
+    "bnName": "কুড়িগ্রাম",
+    "geoName": "Kurigram",
+    "division": "Rangpur",
+    "divisionBn": "রংপুর",
+    "lat": 25.8054,
+    "lng": 89.6361,
+    "areaKm2": 2245,
+    "tagline": "The land of 16 rivers, Dharla bridge & border enclave heritage",
+    "taglineBn": "১৬টি নদীর জেলা, ধরলা সেতু ও চিলমারীর বন্দর",
+    "touristSpots": [
+      {
+        "name": "Chilmari River Port",
+        "bnName": "ঐতিহাসিক চিলমারী নদীবন্দর",
+        "desc": "Legendary river port on the mighty Brahmaputra river immortalized in Bhawaiya songs",
+        "image": "https://images.unsplash.com/photo-1506744038136-46273834b3fb?w=800&auto=format&fit=crop&q=80"
+      },
+      {
+        "name": "Dharla River Bridge",
+        "bnName": "ধরলা সেতু",
+        "desc": "Long river bridge with picturesque sunset vistas over sandbars",
+        "image": "https://images.unsplash.com/photo-1513836279014-a89f7a76ae86?w=800&auto=format&fit=crop&q=80"
+      },
+      {
+        "name": "Shahi Mosque of Shingimari",
+        "bnName": "চান্দি মসজিদ ও বীরপ্রতীক তারামন বিবির বাড়ি",
+        "desc": "Mughal architecture and memorial of female Liberation War hero Taramon Bibi",
+        "image": "https://images.unsplash.com/photo-1500530855697-b586d89ba3ee?w=800&auto=format&fit=crop&q=80"
+      },
+      {
+        "name": "Dasherhat Zamindar Bari",
+        "bnName": "টুপামারী জমিদার বাড়ি",
+        "desc": "Colonial brick estate",
+        "image": "https://images.unsplash.com/photo-1507525428034-b723cf961d3e?w=800&auto=format&fit=crop&q=80"
+      }
+    ],
+    "famousFoods": [
+      {
+        "name": "Brahmaputra Freshwater Fish Feast",
+        "bnName": "ব্রহ্মপুত্রের বড় মাছ ও বৈরালী মাছ",
+        "desc": "Fresh carps and catfish cooked with local mustard oil"
+      },
+      {
+        "name": "Chepa & Sidol Bhorta",
+        "bnName": "সিদল ভর্তা ও কলাইয়ের রুটি",
+        "desc": "Spicy roasted fish paste"
+      },
+      {
+        "name": "Kheer Chamcham",
+        "bnName": "ক্ষীর চমচম",
+        "desc": "Thick condensed milk sweet"
+      }
+    ],
+    "culture": {
+      "history": "Historic frontier where 16 rivers converge into the Brahmaputra; homeland of Bir Protik Taramon Bibi.",
+      "traditions": "Char community boatmanship, Bhawaiya dotara folk recitals, and riverside weekly haats.",
+      "festivals": [
+        "Chilmari Astami Snan Mela",
+        "Bhawaiya Sangeet Utsab"
+      ],
+      "summaryBn": "ব্রহ্মপুত্র নদের বিশালতা, বীরপ্রতীক তারামন বিবির স্মৃতি ও চিলমারীর অমর ভাওয়াইয়া গান।"
+    },
+    "coverImage": "https://images.unsplash.com/photo-1506744038136-46273834b3fb?w=800&auto=format&fit=crop&q=80",
+    "quickFacts": {
+      "famousFor": "Chilmari Port, 16 Rivers, Taramon Bibi, Dharla Bridge",
+      "mustTryDish": "Brahmaputra River Fish Curry with Sidol Bhorta",
+      "nicknames": [
+        "District of 16 Rivers"
+      ]
+    }
+  },
+  {
+    "id": "gaibandha",
+    "name": "Gaibandha",
+    "bnName": "গাইবান্ধা",
+    "geoName": "Gaibandha",
+    "division": "Rangpur",
+    "divisionBn": "রংপুর",
+    "lat": 25.3288,
+    "lng": 89.5407,
+    "areaKm2": 2179,
+    "tagline": "Homeland of King Birat's cattle, Balashi Ghat & delicious Rasmanjari",
+    "taglineBn": "মহাভারতের রাজা বিরাটের গো-শালা, বালাসী ঘাট ও রসমঞ্জরী",
+    "touristSpots": [
+      {
+        "name": "Balashi Ghat & Jamuna Bank",
+        "bnName": "বালাসী ঘাট ও যমুনা নদীর চর",
+        "desc": "Historic paddle ferry terminal offering panoramic river scenes and boat cruises",
+        "image": "https://images.unsplash.com/photo-1507525428034-b723cf961d3e?w=800&auto=format&fit=crop&q=80"
+      },
+      {
+        "name": "Naldanga Zamindar Bari",
+        "bnName": "নলডাঙ্গা রাজবাড়ি",
+        "desc": "Historic palace ruins with ancient trees and stone shrines",
+        "image": "https://images.unsplash.com/photo-1509316975850-ff9c5deb0cd9?w=800&auto=format&fit=crop&q=80"
+      },
+      {
+        "name": "Mirpur Shahi Mosque",
+        "bnName": "মীরপুর শাহী মসজিদ",
+        "desc": "Mughal brick mosque preserving fine ancient architecture",
+        "image": "https://images.unsplash.com/photo-1596895111956-bf1cf0599ce5?w=800&auto=format&fit=crop&q=80"
+      },
+      {
+        "name": "Teesta-Brahmaputra Char Islands",
+        "bnName": "যমুনার জেগে ওঠা চরাঞ্চল",
+        "desc": "Expansive green sandy islands filled with crops",
+        "image": "https://images.unsplash.com/photo-1608958435020-e8a7109ba809?w=800&auto=format&fit=crop&q=80"
+      }
+    ],
+    "famousFoods": [
+      {
+        "name": "Gaibandha Rasmanjari",
+        "bnName": "গাইবান্ধার বিখ্যাত রসমঞ্জরী",
+        "desc": "Tiny, soft, cardamom-scented cottage cheese dumplings immersed in thick caramelized milk"
+      },
+      {
+        "name": "Jamuna Fresh Fish",
+        "bnName": "যমুনার তরতাজা মাছ",
+        "desc": "Fresh sweet fish fried with green chilies"
+      }
+    ],
+    "culture": {
+      "history": "Mythological lore states Mahabharata king Birat tethered tens of thousands of royal cattle ('Gai-bandha') here.",
+      "traditions": "Char agricultural fortitude, rural horse racing tournaments, and riverside ferry folklore.",
+      "festivals": [
+        "Balashi Ghat Mela",
+        "Char Autumn Festival"
+      ],
+      "summaryBn": "মহাভারতের পৌরাণিক পটভূমি, বালাসী ঘাটের নদীপ্রকৃতি এবং সুস্বাদু রসমঞ্জরীর সুখ্যাতি।"
+    },
+    "coverImage": "https://images.unsplash.com/photo-1507525428034-b723cf961d3e?w=800&auto=format&fit=crop&q=80",
+    "quickFacts": {
+      "famousFor": "Gaibandha Rasmanjari, Balashi Ghat, King Birat legend",
+      "mustTryDish": "Authentic Gaibandha Rasmanjari from Ramesh Ghosh",
+      "nicknames": [
+        "Land of King Birat"
+      ]
+    }
+  },
+  {
+    "id": "thakurgaon",
+    "name": "Thakurgaon",
+    "bnName": "ঠাকুরগাঁও",
+    "geoName": "Thakurgaon",
+    "division": "Rangpur",
+    "divisionBn": "রংপুর",
+    "lat": 26.0337,
+    "lng": 88.4617,
+    "areaKm2": 1810,
+    "tagline": "Historic Baliadangi Suryapuri ancient mango tree & river sanctuaries",
+    "taglineBn": "বালিয়াডাঙ্গির ২০০ বছরের এশিয়ার বৃহত্তম সূর্যপুরী আমগাছ",
+    "touristSpots": [
+      {
+        "name": "Historic 200-Year-Old Mango Tree",
+        "bnName": "বালিয়াডাঙ্গির ২০০ বছরের প্রাচীন আমগাছ",
+        "desc": "Largest mango tree in Asia covering over 2 bighas with giant sprawling leafy branches",
+        "image": "https://images.unsplash.com/photo-1448375240586-882707db888b?w=800&auto=format&fit=crop&q=80"
+      },
+      {
+        "name": "Ballia Mosque",
+        "bnName": "বালিয়া মসজিদ",
+        "desc": "Artistic historic mosque with Mughal and European stylistic fusion",
+        "image": "https://images.unsplash.com/photo-1578632767115-351597cf2477?w=800&auto=format&fit=crop&q=80"
+      },
+      {
+        "name": "Gorokshanath Temple Complex",
+        "bnName": "গোরক্ষনাথ মন্দির ও প্রাচীন কূপ",
+        "desc": "12th-century Nath cult temple complex and archaeological reservoir",
+        "image": "https://images.unsplash.com/photo-1588083949404-c4f1ed1323b3?w=800&auto=format&fit=crop&q=80"
+      },
+      {
+        "name": "Tangon Riverfront",
+        "bnName": "টাঙ্গন নদীর পাড়",
+        "desc": "Scenic river with cool breeze",
+        "image": "https://images.unsplash.com/photo-1609137144813-7d9921338f24?w=800&auto=format&fit=crop&q=80"
+      }
+    ],
+    "famousFoods": [
+      {
+        "name": "Suryapuri Mango",
+        "bnName": "সূর্যপুরী আম",
+        "desc": "Fragrant, fiberless, sweet local specialty mango"
+      },
+      {
+        "name": "Chhanar Polao",
+        "bnName": "ছানার পোলাও",
+        "desc": "Sweet fragrant cottage cheese grains layered like festive rice"
+      },
+      {
+        "name": "Fresh Sweet Corn & Wheat",
+        "bnName": "ভুট্টা ও গম",
+        "desc": "Abundant agricultural harvest"
+      }
+    ],
+    "culture": {
+      "history": "Ancient heritage of Nath yogis and heroic Tebhaga peasant uprising against oppressive landlords.",
+      "traditions": "Indigenous folk music, harvest celebrations around the giant tree, and autumn river picnics.",
+      "festivals": [
+        "Suryapuri Mango Fair",
+        "Gorakshanath Shiva Festival"
+      ],
+      "summaryBn": "বালিয়াডাঙ্গির বিস্ময়কর প্রাচীন আমগাছ, নাথ সাহিত্যের ঐতিহ্য ও তেভাগা আন্দোলনের ভূমি।"
+    },
+    "coverImage": "https://images.unsplash.com/photo-1448375240586-882707db888b?w=800&auto=format&fit=crop&q=80",
+    "quickFacts": {
+      "famousFor": "Asia's Largest Mango Tree, Suryapuri Mango, Ballia Mosque",
+      "mustTryDish": "Suryapuri Mango with Chhanar Polao",
+      "nicknames": [
+        "Home of the Giant Mango Tree"
+      ]
+    }
+  },
+  {
+    "id": "lalmonirhat",
+    "name": "Lalmonirhat",
+    "bnName": "লালমনিরহাট",
+    "geoName": "Lalmonirhat",
+    "division": "Rangpur",
+    "divisionBn": "রংপুর",
+    "lat": 25.9923,
+    "lng": 89.2847,
+    "areaKm2": 1241,
+    "tagline": "Historic Tin Bigha Corridor, Mogholhat border & ancient mosques",
+    "taglineBn": "তিন বিঘা করিডোর, মোঘলহাট সীমান্ত ও হারানো মসজিদ",
+    "touristSpots": [
+      {
+        "name": "Tin Bigha Corridor & Dahagram",
+        "bnName": "তিন বিঘা করিডোর ও দহগ্রাম-আঙ্গরপোতা",
+        "desc": "Historic border corridor strip and former enclave landmark",
+        "image": "https://images.unsplash.com/photo-1507525428034-b723cf961d3e?w=800&auto=format&fit=crop&q=80"
+      },
+      {
+        "name": "Lost 69 Hijri Mosque",
+        "bnName": "হারানো মসজিদ (৬৯ হিজরি)",
+        "desc": "Archaeological discovery of South Asia's oldest dated Islamic mosque ruins from 690 AD",
+        "image": "https://images.unsplash.com/photo-1544735716-392fe2489ffa?w=800&auto=format&fit=crop&q=80"
+      },
+      {
+        "name": "Teesta Solar Park & Riverbank",
+        "bnName": "তিস্তা নদীর চরাঞ্চল ও সোলার পার্ক",
+        "desc": "Bangladesh's largest solar power energy farm overlooking Teesta sandbars",
+        "image": "https://images.unsplash.com/photo-1571003123894-1f0594d2b5d9?w=800&auto=format&fit=crop&q=80"
+      },
+      {
+        "name": "Kakra Mosque & Royal Dighi",
+        "bnName": "কাকিনা জমিদার বাড়ি",
+        "desc": "Palace ruins of the generous Zamindar Shambhu Chandra",
+        "image": "https://images.unsplash.com/photo-1518495973542-4542c06a5843?w=800&auto=format&fit=crop&q=80"
+      }
+    ],
+    "famousFoods": [
+      {
+        "name": "Teesta Boroli Fish",
+        "bnName": "তিস্তার সুস্বাদু বোরোলি মাছ",
+        "desc": "World-famed small river fish fried crisp with local green spices"
+      },
+      {
+        "name": "Kakina Zamindar Sweets",
+        "bnName": "কাকিনার মিষ্টি",
+        "desc": "Delicate milk sweets crafted with pure cow milk"
+      },
+      {
+        "name": "Fresh Seasonal Melons",
+        "bnName": "তরমুজ ও বাঙ্গি",
+        "desc": "Sweet riverbed melons"
+      }
+    ],
+    "culture": {
+      "history": "Historic frontier of undivided Assam-Bengal railway headquarters; unique geopolitical enclave history.",
+      "traditions": "Railway nostalgia at Mogholhat, Teesta fishermen rituals, and folk theater.",
+      "festivals": [
+        "Teesta River Festival",
+        "Dahagram Enclave Liberation Fair"
+      ],
+      "summaryBn": "তিন বিঘা করিডোরের সংগ্রামী ইতিহাস, প্রাচীন হারানো মসজিদ ও রূপসী তিস্তার মোহনা।"
+    },
+    "coverImage": "https://images.unsplash.com/photo-1507525428034-b723cf961d3e?w=800&auto=format&fit=crop&q=80",
+    "quickFacts": {
+      "famousFor": "Tin Bigha Corridor, Lost 69 Hijri Mosque, Teesta Boroli Fish",
+      "mustTryDish": "Fried Teesta Boroli Fish with Steamed Rice",
+      "nicknames": [
+        "Corridor Gateway"
+      ]
+    }
+  },
+  {
+    "id": "mymensingh",
+    "name": "Mymensingh",
+    "bnName": "ময়মনসিংহ",
+    "geoName": "Mymensingh",
+    "division": "Mymensingh",
+    "divisionBn": "ময়মনসিংহ",
+    "lat": 24.7471,
+    "lng": 90.4203,
+    "areaKm2": 4363,
+    "tagline": "Mymensingh Geetika balladic lore, Shashi Lodge & Muktagacha Monda",
+    "taglineBn": "মহীয়সী মৈমনসিংহ গীতিকার দেশ, শশী লজ ও মুক্তাগাছার আদি মণ্ডা",
+    "touristSpots": [
+      {
+        "name": "Shashi Lodge (Mymensingh Rajbari)",
+        "bnName": "শশী লজ (ময়মনসিংহ রাজবাড়ি)",
+        "desc": "Exquisite 19th-century neoclassical palace adorned with a marble statue of Venus and garden ponds",
+        "image": "https://images.unsplash.com/photo-1518495973542-4542c06a5843?w=800&auto=format&fit=crop&q=80"
+      },
+      {
+        "name": "Alexander Castle (Lohar Kuthi)",
+        "bnName": "আলেকজান্ডার ক্যাসেল (লোহার কুঠি)",
+        "desc": "Colonial iron castle visited by Nobel laureates Rabindranath Tagore and Lord Curzon",
+        "image": "https://images.unsplash.com/photo-1448375240586-882707db888b?w=800&auto=format&fit=crop&q=80"
+      },
+      {
+        "name": "Bangladesh Agricultural University Campus",
+        "bnName": "বাংলাদেশ কৃষি বিশ্ববিদ্যালয় ও বোটানিক্যাল গার্ডেন",
+        "desc": "Sprawling green university campus on the Brahmaputra with Asia's premier crop museum",
+        "image": "https://images.unsplash.com/photo-1506744038136-46273834b3fb?w=800&auto=format&fit=crop&q=80"
+      },
+      {
+        "name": "Muktagacha Rajbari",
+        "bnName": "মুক্তাগাছা জমিদার বাড়ি",
+        "desc": "Ancient estate of the Muktagacha Zamindars with revolving dance stages",
+        "image": "https://images.unsplash.com/photo-1464822759023-fed622ff2c3b?w=800&auto=format&fit=crop&q=80"
+      }
+    ],
+    "famousFoods": [
+      {
+        "name": "Muktagacha Authentic Monda",
+        "bnName": "মুক্তাগাছার আসল মণ্ডা (গোপাল পালের মণ্ডা)",
+        "desc": "GI-certified 200-year-old milk curd confection prepared over wood embers since 1824"
+      },
+      {
+        "name": "Old Brahmaputra River Fish",
+        "bnName": "পুরাতন ব্রহ্মপুত্রের তাজা মাছ",
+        "desc": "Sweet river carps cooked in light stew"
+      },
+      {
+        "name": "Mymensingh Sweet Curd",
+        "bnName": "দই ও রসগোল্লা",
+        "desc": "Rich milk curd"
+      }
+    ],
+    "culture": {
+      "history": "Ancient land of folk ballads compiled in Dinesh Chandra Sen's celebrated 'Mymensingh Geetika' (Mahua and Malua).",
+      "traditions": "Folk ballad singing, Zainul Abedin art movements on the riverbank, and cultural addas.",
+      "festivals": [
+        "Geetika Folk Fair",
+        "Zainul Art Festival",
+        "Monda Utsab"
+      ],
+      "summaryBn": "বিশ্বখ্যাত মৈমনসিংহ গীতিকার জন্মস্থান, শিল্পাচার্য জয়নুল আবেদিনের স্মৃতি ও মুক্তাগাছার ঐতিহ্যবাহী মণ্ডা।"
+    },
+    "coverImage": "https://images.unsplash.com/photo-1506744038136-46273834b3fb?w=800&auto=format&fit=crop&q=80",
+    "quickFacts": {
+      "famousFor": "Muktagacha Monda, Shashi Lodge, Shilpacharya Zainul Abedin Gallery",
+      "mustTryDish": "Original Muktagacha Monda from Gopal Pal's Shop",
+      "nicknames": [
+        "Cultural Heart of the Brahmaputra"
+      ]
+    }
+  },
+  {
+    "id": "jamalpur",
+    "name": "Jamalpur",
+    "bnName": "জামালপুর",
+    "geoName": "Jamalpur",
+    "division": "Mymensingh",
+    "divisionBn": "ময়মনসিংহ",
+    "lat": 24.9375,
+    "lng": 89.9378,
+    "areaKm2": 2031,
+    "tagline": "World-famous Nakshi Kantha embroidered quilts & royal Melandaha Pitha",
+    "taglineBn": "নকশিকাঁথার অনন্য সূচিশিল্প, মেলান্দহের পিঠা ও শাহ জামালের দরগাহ",
+    "touristSpots": [
+      {
+        "name": "Hazrat Shah Jamal Shrine",
+        "bnName": "হযরত শাহ জামাল (রঃ) এর মাজার",
+        "desc": "Historic 16th-century Sufi pilgrimage shrine overlooking the river",
+        "image": "https://images.unsplash.com/photo-1518495973542-4542c06a5843?w=800&auto=format&fit=crop&q=80"
+      },
+      {
+        "name": "Gandhi Ashram (Jhenaigati)",
+        "bnName": "গান্ধী আশ্রম",
+        "desc": "Memorial promoting peace and self-reliance principles",
+        "image": "https://images.unsplash.com/photo-1470071459604-3b5ec3a7fe05?w=800&auto=format&fit=crop&q=80"
+      },
+      {
+        "name": "Lauchapra Eco Park",
+        "bnName": "লাউচাপড়া ও পাহাড়ের টিলা",
+        "desc": "Scenic border hillocks with pine trees overlooking Meghalaya peaks",
+        "image": "https://images.unsplash.com/photo-1513836279014-a89f7a76ae86?w=800&auto=format&fit=crop&q=80"
+      },
+      {
+        "name": "Brahmaputra Embankment",
+        "bnName": "যমুনা ও ব্রহ্মপুত্র নদীর পাড়",
+        "desc": "Vast open water promenade",
+        "image": "https://images.unsplash.com/photo-1500530855697-b586d89ba3ee?w=800&auto=format&fit=crop&q=80"
+      }
+    ],
+    "famousFoods": [
+      {
+        "name": "Jamalpur Milandi Sweets & Pitha",
+        "bnName": "মিলান্দহের পোলাও ও মিষ্টি",
+        "desc": "Heritage milk confections"
+      },
+      {
+        "name": "Spicy Mustard Fish",
+        "bnName": "সরিষা ইলিশ ও নদীর মাছ",
+        "desc": "Fish prepared in cold-pressed mustard oil"
+      }
+    ],
+    "culture": {
+      "history": "Named after 16th-century Sufi preacher Hazrat Shah Jamal; home to master needlecraft artisans of Bengal.",
+      "traditions": "Intricate Nakshi Kantha needlecraft telling folk stories in colored threads, clay pottery, and Sufi songs.",
+      "festivals": [
+        "Shah Jamal Urs",
+        "Nakshi Kantha Craft Expo"
+      ],
+      "summaryBn": "বিশ্বখ্যাত নকশিকাঁথার সূচিকর্ম, শাহ জামালের আধ্যাত্মিক ঐতিহ্য ও পাহাড়ি লাউচাপড়ার রূপ।"
+    },
+    "coverImage": "https://images.unsplash.com/photo-1518495973542-4542c06a5843?w=800&auto=format&fit=crop&q=80",
+    "quickFacts": {
+      "famousFor": "Nakshi Kantha, Shah Jamal Shrine, Lauchapra Hills",
+      "mustTryDish": "Authentic Mustard River Fish & Jamalpur Sweets",
+      "nicknames": [
+        "Needlecraft Capital of Bengal"
+      ]
+    }
+  },
+  {
+    "id": "sherpur",
+    "name": "Sherpur",
+    "bnName": "শেরপুর",
+    "geoName": "Sherpur",
+    "division": "Mymensingh",
+    "divisionBn": "ময়মনসিংহ",
+    "lat": 25.0205,
+    "lng": 90.0153,
+    "areaKm2": 1363,
+    "tagline": "Garo green hills, Gazni অবকাশ eco-park & aromatic Tulshimala rice",
+    "taglineBn": "গজনী অবকাশের সবুজ পাহাড়, মধুটিলা ও সুগন্ধি তুলশীমালা চাল",
+    "touristSpots": [
+      {
+        "name": "Gazni Obakash Eco Park",
+        "bnName": "গজনী অবকাশ বিনোদন কেন্দ্র",
+        "desc": "Enchanting hillock park with natural springs, dragon cave, and hanging rope bridge",
+        "image": "https://images.unsplash.com/photo-1464822759023-fed622ff2c3b?w=800&auto=format&fit=crop&q=80"
+      },
+      {
+        "name": "Madhutila Eco Park",
+        "bnName": "মধুটিলা ইকোপার্ক",
+        "desc": "Protected forested hills along the Meghalaya border with watchtowers and deer",
+        "image": "https://images.unsplash.com/photo-1448375240586-882707db888b?w=800&auto=format&fit=crop&q=80"
+      },
+      {
+        "name": "Garo Hills Wilderness",
+        "bnName": "গারো পাহাড় ও ঝিনাইগাতী",
+        "desc": "Rolling green indigenous hill settlements",
+        "image": "https://images.unsplash.com/photo-1509316975850-ff9c5deb0cd9?w=800&auto=format&fit=crop&q=80"
+      },
+      {
+        "name": "Ghaghar Bajar Mosque",
+        "bnName": "মাইসাহেবা জামে মসজিদ",
+        "desc": "Historic 250-year-old architectural center",
+        "image": "https://images.unsplash.com/photo-1596895111956-bf1cf0599ce5?w=800&auto=format&fit=crop&q=80"
+      }
+    ],
+    "famousFoods": [
+      {
+        "name": "Aromatic Tulshimala Rice",
+        "bnName": "শেরপুরের সুগন্ধি তুলশীমালা চাল",
+        "desc": "GI-certified super-slender fragrant aromatic rice known as the Queen of Rice in Bengal"
+      },
+      {
+        "name": "Chhanar Payesh",
+        "bnName": "ছানার পায়েশ ও প্যারা সন্দেশ",
+        "desc": "Rich pudding made with pure buffalo milk and Tulshimala rice"
+      },
+      {
+        "name": "Indigenous Garo Bamboo Chicken",
+        "bnName": "গারো পাহাড়ি খাবার",
+        "desc": "Bamboo roasted chicken with hill chilies"
+      }
+    ],
+    "culture": {
+      "history": "Historic center of the Pagalpanthi peasant rebellions led by Tipu Shah and Karim Shah against British colonial exploitation.",
+      "traditions": "Indigenous Garo Wangala harvest festivals, Mandi and Koch hill music, and handloom Dokmanda weaving.",
+      "festivals": [
+        "Wangala Harvest Festival",
+        "Gazni Spring Carnival"
+      ],
+      "summaryBn": "গারো পাহাড়ের প্রাকৃতিক স্নিগ্ধতা, তুলশীমালা চালের সুগন্ধ ও পাগলপন্থী কৃষক বিদ্রোহের ইতিহাস।"
+    },
+    "coverImage": "https://images.unsplash.com/photo-1464822759023-fed622ff2c3b?w=800&auto=format&fit=crop&q=80",
+    "quickFacts": {
+      "famousFor": "Gazni Obakash, Madhutila Eco Park, Tulshimala Rice, Garo Hills",
+      "mustTryDish": "Fragrant Tulshimala Polao & Chhanar Payesh",
+      "nicknames": [
+        "Green Foothills of the North"
+      ]
+    }
+  },
+  {
+    "id": "netrokona",
+    "name": "Netrokona",
+    "bnName": "নেত্রকোনা",
+    "geoName": "Netrokona",
+    "division": "Mymensingh",
+    "divisionBn": "ময়মনসিংহ",
+    "lat": 24.8709,
+    "lng": 90.7279,
+    "areaKm2": 2810,
+    "tagline": "Birishiri porcelain white clay hills, Someshwari river & Balish Mishti",
+    "taglineBn": "বিরিশিরির চিনামাটির পাহাড়, স্বচ্ছ সোমেশ্বরী নদী ও বালিশ মিষ্টি",
+    "touristSpots": [
+      {
+        "name": "Birishiri White Clay Hills (China Mati)",
+        "bnName": "বিরিশিরি চিনামাটির পাহাড় ও নীল জলের লেক",
+        "desc": "Scenic pastel white-pink clay hillocks enclosing a crystal-clear turquoise lake",
+        "image": "https://images.unsplash.com/photo-1506744038136-46273834b3fb?w=800&auto=format&fit=crop&q=80"
+      },
+      {
+        "name": "Someshwari River",
+        "bnName": "সোমেশ্বরী নদী",
+        "desc": "Pebble-strewn mountain river flowing down the Garo Hills where coal is collected",
+        "image": "https://images.unsplash.com/photo-1608958435020-e8a7109ba809?w=800&auto=format&fit=crop&q=80"
+      },
+      {
+        "name": "Tribal Cultural Academy",
+        "bnName": "উপজাতীয় কালচারাল একাডেমি (বিরিশিরি)",
+        "desc": "Cultural center preserving artifacts and history of Garo, Hajong, and Banai tribes",
+        "image": "https://images.unsplash.com/photo-1578632767115-351597cf2477?w=800&auto=format&fit=crop&q=80"
+      },
+      {
+        "name": "Ranikhong Catholic Church",
+        "bnName": "রানীখং ঐতিহাসিক গির্জা",
+        "desc": "Picturesque hilltop church founded in 1912 overlooking the Someshwari",
+        "image": "https://images.unsplash.com/photo-1588083949404-c4f1ed1323b3?w=800&auto=format&fit=crop&q=80"
+      },
+      {
+        "name": "Hazrat Shah Sultan Kamaruddin Shrine",
+        "bnName": "মদনপুর শাহ সুলতান কমরউদ্দিন রুমীর মাজার",
+        "desc": "Ancient Sufi shrine dating to 1053 AD",
+        "image": "https://images.unsplash.com/photo-1609137144813-7d9921338f24?w=800&auto=format&fit=crop&q=80"
+      }
+    ],
+    "famousFoods": [
+      {
+        "name": "Goyanath Balish Mishti",
+        "bnName": "গায়ানাথের আসল বালিশ মিষ্টি",
+        "desc": "Century-old legendary pillow-shaped sweet confection filled with creamy mawa and soaked in rich cardamom syrup"
+      },
+      {
+        "name": "Someshwari River Fish",
+        "bnName": "সোমেশ্বরী নদীর তাজা মাছ",
+        "desc": "Sweet mountain river fish"
+      },
+      {
+        "name": "Haor Dry Fish Curries",
+        "bnName": "চ্যাপা শুটকি ভর্তা",
+        "desc": "Spicy semi-fermented fish paste"
+      }
+    ],
+    "culture": {
+      "history": "Homeland of Tonko peasant movement led by comrade Moni Singh, revolutionary Hajong Mata Rashimani, and baul composer Jalal Uddin.",
+      "traditions": "Indigenous Garo and Hajong customs, Baul and Bhatiyali haor songs, and coal-panning in the Someshwari.",
+      "festivals": [
+        "Rashimani Memorial Day",
+        "Wangala Festival at Birishiri",
+        "Someshwari River Regatta"
+      ],
+      "summaryBn": "বিরিশিরির নীল জলের স্বপ্নময় রূপ, হাজং মাতা রাশিমণির আত্মত্যাগ ও গয়ানাথের বিখ্যাত বালিশ মিষ্টি।"
+    },
+    "coverImage": "https://images.unsplash.com/photo-1506744038136-46273834b3fb?w=800&auto=format&fit=crop&q=80",
+    "quickFacts": {
+      "famousFor": "Birishiri White Clay Hills, Someshwari River, Goyanath Balish Mishti",
+      "mustTryDish": "Original Goyanath Balish Mishti & Someshwari Fish Curry",
+      "nicknames": [
+        "Land of White Clay & Haor"
+      ]
+    }
+  }
+]

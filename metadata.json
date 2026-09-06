@@ -1,0 +1,6 @@
+{
+  "name": "Explore Bangladesh: 64 Districts Interactive Map",
+  "description": "A modern, interactive, and responsive web application showcasing Bangladesh's 64 districts with tourist spots, famous foods, cultural heritage, and division filters.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
